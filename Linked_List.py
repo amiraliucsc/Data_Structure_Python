@@ -46,8 +46,26 @@ class LinkedList:
             count+=1
             nextNode = nextNode.getNext()
         return count
+        
+    def search(self,look):
+       nextNode = self.head
+       while nextNode != None:
+           if nextNode.getData() == look:
+               return True
+           else:
+               nextNode = nextNode.getNext()
+       return False
+      
 
 link1 = LinkedList()
 link1.insert(1)
+link1.insert(2)
+link1.insert(3)
+link1.insert(4)
+link1.insert(5)
+link1.insert(6)
+link1.insert(7)
+link1.insert(8)
+link1.insert(9)
 link1.insert(10)
-print(link1.size())
+print(link1.search(100))

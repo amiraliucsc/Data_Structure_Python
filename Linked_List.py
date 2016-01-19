@@ -7,6 +7,25 @@ Purpuse: Linked List Implimentation
 """
 
 
+class Node:
+    def __init__(self, data = None, nextNode = None):
+        self.data = data
+        self.nextNode = nextNode
+
+    def getNext(self):
+        return self.nextNode
+        
+    def setNext(self,nextNode):
+        self.nextNode = nextNode
+        
+    def getData(self):
+        return self.data
+        
+    def setData(self, data):
+        self.data = data
+        
+
+
 class LinkedList:
     def __init__(self):
         self.head = None

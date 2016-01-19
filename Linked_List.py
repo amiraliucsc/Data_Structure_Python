@@ -7,25 +7,6 @@ Purpuse: Linked List Implimentation
 """
 
 
-class Node:
-    def __init__(self, data = None, nextNode = None):
-        self.data = data
-        self.nextNode = nextNode
-
-    def getNext(self):
-        return self.nextNode
-        
-    def setNext(self,nextNode):
-        self.nextNode = nextNode
-        
-    def getData(self):
-        return self.data
-        
-    def setData(self, data):
-        self.data = data
-        
-
-
 class LinkedList:
     def __init__(self):
         self.head = None
@@ -39,14 +20,4 @@ class LinkedList:
     def isEmpty(self):
         return self.head == None
         
-        
-
-
-link1 = LinkedList()
-link2 = LinkedList()
-link1.insert(5)
-link1.insert(50)
-link1.insert(500)
-print(link1.isEmpty())
-print(link2.isEmpty())
         

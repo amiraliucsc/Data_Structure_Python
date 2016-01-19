@@ -41,7 +41,11 @@ class LinkedList:
         return self.head == None
         
         
-myFirst = LinkedList()
-myFirst.insert(3)
-print(myFirst.isEmpty())
+link1 = LinkedList()
+link2 = LinkedList()
+link1.insert(5)
+link1.insert(50)
+link1.insert(500)
+print(link1.isEmpty())
+print(link2.isEmpty())
         

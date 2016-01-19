@@ -39,4 +39,15 @@ class LinkedList:
     def isEmpty(self):
         return self.head == None
         
-        
+    def size(self):
+        count = 0
+        nextNode = self.head
+        while nextNode != None:
+            count+=1
+            nextNode = nextNode.getNext()
+        return count
+
+link1 = LinkedList()
+link1.insert(1)
+link1.insert(10)
+print(link1.size())

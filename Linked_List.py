@@ -40,6 +40,8 @@ class LinkedList:
         return self.head == None
         
         
+
+
 link1 = LinkedList()
 link2 = LinkedList()
 link1.insert(5)

@@ -59,16 +59,24 @@ class LinkedList:
    
     def remove(self,data):
         current = self.head
-        while current != None:
+        prev = None
+        found = False
+        while (not found):
             if current.getData() == data:
-                nextNode = current.getNext()
-                nextNodeData = nextNode.getData()
-                current.setData( nextNodeData )
-                current.setNext(nextNode.getNext())
-                return
-            current = current.getNext()    
-        print (data," was not in the linked list.")
-        
+                found = True
+            else:
+                prev = current
+                current = current.getNext()
+        if prev == None:
+            self.head = current.getNext()
+        else:
+            prev.setNext(current.getNext())
+            
+    def traverse(self):
+        current = self.head
+        while current != None:
+            print( current.getData() )
+            current = current.getNext()
       
 
 link1 = LinkedList()
@@ -82,6 +90,11 @@ link1.insert(7)
 link1.insert(8)
 link1.insert(9)
 link1.insert(10)
-print(link1.search(100))
-link1.remove(100)
-print(link1.size())
+
+link1.traverse()
+
+link1.remove(10)
+link1.remove(4)
+link1.remove(1)
+
+link1.traverse()

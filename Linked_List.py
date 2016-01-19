@@ -56,7 +56,15 @@ class LinkedList:
                current = current.getNext()
        return False
        
-   
+    
+    
+    
+    
+    
+    
+    
+    
+# remove needs to feed only the data which is inside the linkedlist
     def remove(self,data):
         current = self.head
         prev = None

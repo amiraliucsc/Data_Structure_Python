@@ -41,20 +41,34 @@ class LinkedList:
         
     def size(self):
         count = 0
-        nextNode = self.head
-        while nextNode != None:
+        current = self.head
+        while current != None:
             count+=1
-            nextNode = nextNode.getNext()
+            current = current.getNext()
         return count
         
     def search(self,look):
-       nextNode = self.head
-       while nextNode != None:
-           if nextNode.getData() == look:
+       current = self.head
+       while current != None:
+           if current.getData() == look:
                return True
            else:
-               nextNode = nextNode.getNext()
+               current = current.getNext()
        return False
+       
+   
+    def remove(self,data):
+        current = self.head
+        while current != None:
+            if current.getData() == data:
+                nextNode = current.getNext()
+                nextNodeData = nextNode.getData()
+                current.setData( nextNodeData )
+                current.setNext(nextNode.getNext())
+                return
+            current = current.getNext()    
+        print (data," was not in the linked list.")
+        
       
 
 link1 = LinkedList()
@@ -69,3 +83,5 @@ link1.insert(8)
 link1.insert(9)
 link1.insert(10)
 print(link1.search(100))
+link1.remove(100)
+print(link1.size())

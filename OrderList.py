@@ -84,13 +84,21 @@ class OrderList:
                 else:
                     print("List is Empty!")
                     stop = True
+                    
+    def size(self):
+        current = self.head
+        count = 0
+        while current != None:
+            count+=1
+            current = current.getNext()
+        return count
             
 link1 = OrderList()
 link1.add(3)
 link1.add(1)
 link1.add(5)
-link1.Traverse()
+link1.add(50)
 link1.pop()
 link1.pop()
-
+print("linkedlist size = %d" % (link1.size()) )
 link1.Traverse()

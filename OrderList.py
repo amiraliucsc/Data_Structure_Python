@@ -92,13 +92,29 @@ class OrderList:
             count+=1
             current = current.getNext()
         return count
+        
+    def remove(self,data):
+        current = self.head
+        stop = False
+        prev = None
+        while not stop:
+            if current.getData() == data:
+                stop = True
+            else:
+                prev = current
+                current = current.getNext()
+        if prev == None:
+            self.head = None
+        else:
+            prev.setNext(current.getNext)
+        
             
 link1 = OrderList()
-link1.add(3)
+link1.add(100)
+link1.add(4)
+link1.size()
+link1.add(10)
 link1.add(1)
-link1.add(5)
-link1.add(50)
-link1.pop()
-link1.pop()
-print("linkedlist size = %d" % (link1.size()) )
+link1.Traverse()
+link1.remove(1)
 link1.Traverse()

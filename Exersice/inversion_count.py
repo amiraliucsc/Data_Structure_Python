@@ -4,7 +4,7 @@ Created on Wed Jan 27 11:02:41 2016
 
 @author: Amirali
 
-counting Inversion [1,2,3,4]  if i < j buy A[i] > A[j]
+counting Inversion, ex: [1,2,3,4]  if i < j but A[i] > A[j]
 """
 
 import numpy as np
@@ -26,18 +26,18 @@ def brute_count(A):
 def merge_and_count(L,R):
     result=[]
     count=0
-    while len(L)>0 and len(R)>0:
-        if L[0]<=R[0]:
+    while len(L) > 0 and len(R) > 0:
+        if L[0] <= R[0]:
             result.append(L[0])
             L=L[1:]
         else:
             result.append(R[0])
             R=R[1:]
             count+=len(L)
-    while len(L)>0:
+    while len(L) > 0:
         result.append(L[0])
         L=L[1:]
-    while len(R)>0:
+    while len(R) > 0:
         result.append(R[0])
         R=R[1:]
     return (result,count)
@@ -46,12 +46,12 @@ def merge_and_count(L,R):
 #Mergesort function
 #It also counts for inversions
 def mergesort_and_count(A):
-    if len(A)<=1:
-        return (A,0)
+    if len(A) <= 1:
+        return(A,0)
     else:
-        middle=len(A)//2
+        middle = len(A) // 2
         left = A[:middle]
-        right= A[middle:]
+        right = A[middle:]
         
         left_count=0
         right_count=0
@@ -59,16 +59,21 @@ def mergesort_and_count(A):
         
         (left,left_count)   = mergesort_and_count(left)
         (right,right_count) = mergesort_and_count(right)
-        (result,split_count)= merge_and_count(left,right)
+        (result,split_count) = merge_and_count(left,right)
         total_count = left_count + right_count + split_count         
         return (result,total_count)
 
 
+
+print(mergesort_and_count([9,8,0,1]))
+
+#Testing the performance and comparing the bruteforce VS mergesort_count
+'''
 #Timing
 brute_results=[]
 merge_results=[]
 
-input_sizes= range(0,1000,1)
+input_sizes= range(0,1000,15)
 
 for n in input_sizes:
     A = np.arange(n)
@@ -91,3 +96,4 @@ plt.ylabel('Time to count (s)')
 plt.legend()
 
 plt.show()
+'''

@@ -7,21 +7,18 @@ Created on Wed Jan 20 00:53:32 2016
 
 A = [20,50,10,40]
 
-def doSort(Arr):
-    found = False
-    for i in range(0,len(Arr)):
-        j = i
-        minVal = A[i]
-        for j in range(j,len(Arr)):
-            if A[j] < minVal:
-                minVal = A[j]
+def minSort(A):
+    for i in range(0,len(A)):
+        found = False
+        min = A[i]
+        for j in range(i,len(A)):
+            if A[j] < min:
+                min = A[j]
                 index = j
                 found = True
         if found:
-            temp = A[i]
-            A[i] = minVal
-            A[index] = temp
-        fount = False
-        
-doSort(A)
-print(A)
+            A[index] = A[i]
+            A[i] = min
+    return(A)
+
+print( minSort(A) )

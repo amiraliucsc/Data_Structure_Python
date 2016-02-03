@@ -13,7 +13,7 @@ class MinHeap:
         
     def insert(self,key):
         if self.current_size == 0:
-            self.current_size == 1
+            self.current_size = 1
             self.heap_list.append( key )
         else:
             self.current_size+=1
@@ -29,9 +29,17 @@ class MinHeap:
                 self.heap_list[parent] = temp
                 self.reHeapify(parent)
                     
-                    
+    def printHeap(self):
+        for i in self.heap_list:
+            print(i)
+            
+            
 myHeap = MinHeap()
 myHeap.insert(4)
-                
-        
+myHeap.insert(5)
+myHeap.insert(6)
+myHeap.insert(10)
+myHeap.insert(2)
+myHeap.printHeap()
+
 

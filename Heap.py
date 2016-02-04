@@ -32,7 +32,6 @@ class MinHeap:
             
     def remove(self,index):
         if (index < self.current_size):            
-            '''
             if self.current_size == 0 and index < len(self.heap_list)-1:
                 return
             else:
@@ -40,7 +39,6 @@ class MinHeap:
                 self.current_size-=1
                 if index <= (self.current_size // 2):
                     self.reHeapifyDown(index)
-            '''
         else:
             print("Please enter a number between 1 and %d" % (self.current_size))
             
@@ -75,7 +73,6 @@ class MinHeap:
         self.heap_list[min_position] = temp
         #print("now=",self.heap_list)
         index = min_position
-        print(index)
         if index <= (self.current_size // 2):
             self.reHeapifyDown(index)
         else:
@@ -84,26 +81,18 @@ class MinHeap:
             
             
     def printHeap(self):
-        for i in self.heap_list:
-            print(i)
+        for i in range(1,self.current_size+1):
+            print(self.heap_list[i], end= ' ')
             
             
 myHeap = MinHeap()
 myHeap.insert(1)
 myHeap.insert(5)
 myHeap.insert(6)
-myHeap.insert(8)
-myHeap.insert(7)
-myHeap.insert(10)
-myHeap.insert(17)
-myHeap.insert(11)
-myHeap.insert(12)
-myHeap.insert(13)
-print("before",myHeap.heap_list," size= ",myHeap.current_size)
-myHeap.remove(5)
-
-
-print("after",myHeap.heap_list," size= ",myHeap.current_size)
+#print("before",myHeap.heap_list," size= ",myHeap.current_size)
+myHeap.remove(1)
+myHeap.printHeap()
+#print("after",myHeap.heap_list," size= ",myHeap.current_size)
 
 
 

@@ -21,7 +21,13 @@ from timeit import Timer
 import matplotlib.pyplot as plt
 import scipy
 from matplotlib.backends.backend_pdf import PdfPages
+import matplotlib.patches as mpatches
+from matplotlib.pyplot import *
 
+
+## Counter for number of operations
+hadCount = 0
+matCount = 0
 
 def scaleMat(A, scalar):
     for i in range(len(A)):
@@ -29,28 +35,27 @@ def scaleMat(A, scalar):
             A[i][j] *= scalar
     return A
 
+
+
+
+
 def hadmat(k):
+    global hadCount
     A = np.array([[1]])
     if k >= 1:
         for i in range(k):
+            hadCount+=1
             B = np.concatenate((A,A), axis = 1)
-            C = np.concatenate((A, scaleMat(np.copy(A) , -1)), axis = 1)
+            C = np.concatenate((A, np.copy(A) * -1), axis = 1)
             A = np.concatenate((B,C), axis = 0)
     return A
 
-def decomposed(A):
-    B = np.zeros((len(A)//2,len(A)//2), dtype = np.int)
-    if len(A) == 1:
-        return A
-    else:
-        for i in range(0,len(A)//2):
-            for j in range(0,len(A)//2):
-                 B[i][j] = A[i][j]
-        decomposed(B)
-    return B
+
+
 
 
 def matmult(A,x):
+    global matCount
     if len(A) != len(x):
         return -1
     else:
@@ -59,39 +64,46 @@ def matmult(A,x):
             sum = 0
             for j in range(len(A)):
                 sum += A[i][j] * x[j]
+                matCount += 1
             product[i] = sum
         return(product)
 
 
+
+
 def hadmatmult(A,x):
+    global hadCount
+    hadCount += 1
     if len(A) == 1:
-        return(matmult(A,x))
+        return x
     else:
         x1 = np.array(x[:len(x)//2])
         x2 = np.array(x[len(x)//2:])
         decA = hadmat(int(math.log(len(A),2))-1)
-        b1 = hadmatmult(decA,x1) + hadmatmult(decA, x2)
-        b2 = hadmatmult(decA,x1) - hadmatmult(decA, x2)
+        top = hadmatmult(decA,x1)
+        bottom = hadmatmult(decA,x2)
+        b1 = top + bottom
+        b2 = top - bottom
         return(np.concatenate((b1,b2)))
-
-
+        
+#
+# Ploting and comparison of the runtimes
+#
 hadmatmultTime = []
 matmultTime = []
 sizeArray = []
 
+
 for i in range(13):
     rand = np.random.permutation(2**i)
     sizeArray.append(len(rand))
-    t = Timer(lambda: hadmatmult(hadmat(i),rand))
-    hadmatmultTime.append(scipy.mean(t.repeat(repeat = 1,number = 1)))
-    t = Timer(lambda: matmult(hadmat(i),rand))
-    matmultTime.append(scipy.mean(t.repeat(repeat = 1,number = 1)))
-#hadmat(i)
-#print(hadmatmult(hadmat(4),range(0,16)))
-#print(matmult(hadmat(4),range(0,16)))
-#(hadmat(4))
-#hadmat(2)
-print(sizeArray)    
+    t2 = Timer(lambda: matmult(hadmat(i),rand))
+    #matmultTime.append(t2.timeit(number=1))
+    matmultTime.append(scipy.mean(t2.repeat(repeat = 1,number = 1)))
+    t1 = Timer(lambda: hadmatmult(hadmat(i),rand))
+    #hadmatmultTime.append(t1.timeit(number=1))
+    hadmatmultTime.append(scipy.mean(t1.repeat(repeat = 1,number = 1)))
+
 pp = PdfPages('matmulttime.pdf') 
 fig = plt.figure()
 fig.suptitle('Matrix Multipication Comparison', fontsize=14, fontweight='bold')
@@ -99,9 +111,11 @@ ax = fig.add_subplot(111)
 fig.subplots_adjust(top=0.85)
 plt.xlabel("Number of inputs")
 plt.ylabel("Seconds")
-plt.plot(sizeArray,hadmatmultTime)
-plt.plot(sizeArray,matmultTime)
+plt.plot(sizeArray,matmultTime, label="MatMult")
+plt.plot(sizeArray,hadmatmultTime, label="HadmatMult")
+plt.legend(loc=0)
 pp.savefig()
 plt.show()
 pp.close()
-#print("Runtime = ", (time.time() - start_time)," Sec")
+print("number of operation for hadmatmult=",hadCount)
+print("number of operation for matmult=",matCount)

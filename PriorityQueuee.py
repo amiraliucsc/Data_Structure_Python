@@ -1,3 +1,11 @@
+"""
+Created on Tue Feb 11 15:04:10 2016
+@author: Amirali Shahinpour & Brian Jones
+Purpuse: priority queue implimentation using Linked List to compare with heap implementation
+
+"""
+
+
 class LinkedList:
     
     def __init__(self, key = None):

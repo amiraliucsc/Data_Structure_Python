@@ -3,7 +3,7 @@ Created on Thu Jan 12 11:25:32 2016
 
 @author: Amirali Shahinpour
 
-Name: Insertaion Sort
+Name: Merge Sort
 """
 
 import numpy as np

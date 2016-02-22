@@ -2,42 +2,41 @@
 Created on Wed Jan 27 00:27:35 2016
 
 @author: Amirali Shahinpour
-         Brian Jones
 
 Implementation of Quick Sort
 """
 
 ##Quick Sort
-A=[6,2,9,5,7,10,4]
-p = 0
-r = len(A)
 
+import random
 
-def Quicksort(A, p, r):    
-    if p < r:
-        q = Partition(A, p, r)
-        #print(A[q+1:r])
-        Quicksort(A, p, q)
-        Quicksort(A, q+1, r)
+def quickSort(A,start,end):
+    if start < end:
+        key = partition(A, start,end)
+        quickSort(A, start, key-1)
+        quickSort(A, key+1, end)
         return A
-
     
     
-def Partition(A,p,r):
-    x = A[r-1]
-    i = p - 1
-    for j in range(p,r):
-        print("j = ",j, "A = ", A)
-        if A[j] < x:
-            i += 1
-            temp = A[j]
-            A[j] = A[i]
-            A[i] = temp
+def partition(A, start, end):
+    rand = random.randint(start,end)
+    temp = A[rand]
+    A[rand] = A[end]
+    A[end] = temp
+    piviot = A[end]
+    i = start -1
+    for j in range( start, end):
+        if A[j] <= piviot:
+            i = i + 1
+            temp = A[i]
+            A[i] = A[j]
+            A[j] = temp
     temp = A[i+1]
-    A[i+1] = x
-    A[r-1] = temp
-    print("Pivot Swap = ",A[i+1])
-    return i+1
-
-print(Quicksort(A, p, r))
-#print(Partition(A, 0, len(A)))
+    A[i+1] = A[end]
+    A[end] = temp
+    return (i+1)
+    
+    
+    
+A=[8,5,0,9,10,41,1,84,21,7,10]
+print(quickSort(A , 0, len(A)-1) )

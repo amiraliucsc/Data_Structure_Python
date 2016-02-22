@@ -27,4 +27,4 @@ def two_count(n,x):
             stop = True
     return count
     
-print(two_count(24,2))
+print(two_count(4,2))

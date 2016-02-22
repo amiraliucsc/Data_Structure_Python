@@ -1,98 +1,67 @@
+# -*- coding: utf-8 -*-
 """
-Created on Wed Jan 27 00:27:35 2016
+Created on Sun Feb 21 21:54:03 2016
 
 @author: Amirali
-
-Implementation of Min Heap
 """
 
-class MinHeap:
+class minHeap:
     def __init__(self):
-        self.current_size = 0
-        self.heap_list = [0]
-        
+        self.heapArray = []
+        self.heapSize = 0
+    
     def insert(self,key):
-        if self.current_size == 0:
-            self.current_size = 1
-            self.heap_list.append( key )
-        else:
-            self.current_size+=1
-            self.heap_list.append( key )
-            self.reHeapify(self.current_size)
+        self.heapArray.append(key)
+        self.heapSize += 1
+        self.reHeapify( len(self.heapArray)-1 )
     
-    def reHeapify(self,current):
-        if current > 0 and current != 1:                
-            parent = current // 2
-            if self.heap_list[parent] > self.heap_list[current]:
-                temp = self.heap_list[current]
-                self.heap_list[current] = self.heap_list[parent]
-                self.heap_list[parent] = temp
+    def reHeapify(self,index):
+        if index > 0:
+            parent = ( index - 1 ) // 2
+            if( self.heapArray[index] < self.heapArray[parent]):
+                temp = self.heapArray[index]
+                self.heapArray[index] = self.heapArray[parent]
+                self.heapArray[parent] = temp
                 self.reHeapify(parent)
-            
-            
-    def remove(self,index):
-        if (index < self.current_size):            
-            if self.current_size == 0 and index < len(self.heap_list)-1:
-                return
-            else:
-                self.heap_list[index] = self.heap_list[self.current_size]
-                self.current_size-=1
-                if index <= (self.current_size // 2):
-                    self.reHeapifyDown(index)
-        else:
-            print("Please enter a number between 1 and %d" % (self.current_size))
-            
     
-            
-    def reHeapifyDown(self,index):    
-        #print("size=",self.current_size)
-        #print("index=",index)
-        #print("heap=",self.heap_list)
-        left = -1
-        right = -1
-        if(index*2 <= self.current_size):
-            left = index*2
-            #print('left=',left)
-        if((index*2) +1 <= self.current_size):
-            right = (index*2) +1
-            #print('right=',right)
-        minValue = self.heap_list[index]
-        min_position = index
-        if(left != -1):
-            if self.heap_list[left] < minValue:
-                minValue = self.heap_list[left]
-                min_position = left
-        if(right != -1):
-            if self.heap_list[right] < minValue:
-                minValue = self.heap_list[right]
-                min_position = right
-        #print("min=",minValue)
-        #print('pos',min_position)
-        temp = self.heap_list[index]
-        self.heap_list[index] = self.heap_list[min_position]
-        self.heap_list[min_position] = temp
-        #print("now=",self.heap_list)
-        index = min_position
-        if index <= (self.current_size // 2):
-            self.reHeapifyDown(index)
-        else:
-            return
-            
-            
-            
     def printHeap(self):
-        for i in range(1,self.current_size+1):
-            print(self.heap_list[i], end= ' ')
+        for i in range(0,self.heapSize):
+            print(self.heapArray[i])
+            
+    def minimum(self):
+        return self.heapArray[0]
+        
+    def extractMin(self):
+        if self.heapSize > 0:
+            self.heapArray[0] = self.heapArray[self.heapSize-1]
+            self.heapSize -= 1
+            self.reHeapifyDown(0)
+
+    def reHeapifyDown(self,index):
+        if ( index <= (self.heapSize // 2) ):
+            left = (index * 2) + 1
+            right = left + 1
+            minPosition = index
+            if (left <= self.heapSize and self.heapArray[left] < self.heapArray[minPosition]):
+                minPosition = left
+            if (right <= self.heapSize and self.heapArray[right] < self.heapArray[minPosition]):    
+                minPosition = right
+            if (minPosition != index):
+                temp = self.heapArray[minPosition]
+                self.heapArray[minPosition] = self.heapArray[index]
+                self.heapArray[index] = temp
+                self.reHeapifyDown(minPosition)
+                
             
             
-myHeap = MinHeap()
-myHeap.insert(1)
-myHeap.insert(5)
-myHeap.insert(6)
-#print("before",myHeap.heap_list," size= ",myHeap.current_size)
-myHeap.remove(1)
-myHeap.printHeap()
-#print("after",myHeap.heap_list," size= ",myHeap.current_size)
-
-
-
+test = minHeap()
+test.insert(5)
+test.insert(9)
+test.insert(12)
+test.insert(50)
+test.insert(8)
+test.insert(0)
+test.insert(6)
+test.extractMin()
+test.extractMin()
+test.printHeap()

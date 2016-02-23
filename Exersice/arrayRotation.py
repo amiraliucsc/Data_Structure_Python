@@ -11,7 +11,6 @@ import copy
 def arrayRotator(A):
     B = copy.deepcopy(A)
     max_x = len(A)-1
-    print(A[0][0])
     for k in range(0,max_x+1):
         for l in range(max_x,-1,-1):
             B[k][max_x-l] = A[l][k]

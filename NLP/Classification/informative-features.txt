@@ -1,0 +1,12 @@
+Most Informative Features
+          BIGRAM_next_to = None           negati : positi =      1.0 : 1.0
+        BIGRAM_super_job = 0.0075         negati : positi =      1.0 : 1.0
+        BIGRAM_POS_,_VBD = 0.0073         negati : positi =      1.0 : 1.0
+               UNIGRAM_) = 0.0256         negati : positi =      1.0 : 1.0
+         BIGRAM_POS_NN_, = 0.027          negati : positi =      1.0 : 1.0
+           BIGRAM_okra_, = None           negati : positi =      1.0 : 1.0
+             UNIGRAM_was = 0.0284         negati : positi =      1.0 : 1.0
+       UNIGRAM_selection = 0.0067         negati : positi =      1.0 : 1.0
+   BIGRAM_An_outstanding = 0.0057         negati : positi =      1.0 : 1.0
+           UNIGRAM_staff = 0.025          negati : positi =      1.0 : 1.0
+None

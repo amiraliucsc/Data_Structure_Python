@@ -1,55 +1,9 @@
-import nltk,re,collections
-'''
-def feature_extractor_unigram( all_reviews ):
-    feature_uni_relative_freq = []
-    feature_uni_pos = []
-    for review in all_reviews:
-        flist ={}
-        total_word = nltk.word_tokenize( review )
-        pos = nltk.pos_tag(total_word)
-        all_pos = [(tag[1]) for tag in pos]  # find all the tags in each review
-        total_pos = len(pos)
-        # flist contains count of a specific POS / total number of POS in each review
-        for value in pos:
-            flist['UNIGRAM_POS_'+value[1]] = round( (all_pos.count(value[1]) / total_pos),4)
-        #flist = [{'UNIGRAM_POS_' + v: round(all_pos.count(v) / total_pos, 4)} for k,v in pos]
-        feature_uni_pos.append(flist)
-        total = len(total_word)
-        # flist contains count of a specific word / total number of word in each review
-        flist = {}
-        for word in total_word:
-            flist['UNIGRAM_'+word] = round(total_word.count(word)/total ,4)
-        #flist = [{'UNIGRAM_'+w : round(total_word.count(w)/total ,4)} for w in total_word]
-        feature_uni_relative_freq.append(flist)
-    return feature_uni_relative_freq , feature_uni_pos
+import nltk
+import re
+import pickle
+import sys
+import pprint
 
-def feature_extractor_bigram( all_reviews ):
-    feature_bi_relative_freq = []
-    feature_bi_pos = []
-
-    for review in all_reviews:
-        review_word = nltk.word_tokenize(review)
-        pos = nltk.pos_tag( review_word )
-        pos_bigram = nltk.bigrams(pos) #contains tuples
-        # example of all_pos_bigram NN_JJ , VBD_.
-        all_pos_bigram = [(tuple[0][1]+'_'+tuple[1][1]) for tuple in pos_bigram] # extract firstPOS_secondPOS in bigrams
-        total_pos = len(all_pos_bigram)
-        # flist contains count of a specific bigram POS / total number of bigram POS in each review
-        flist = {}
-        for p in all_pos_bigram:
-            flist['BIGRAM_POS_' + p] = round(all_pos_bigram.count(p) / total_pos, 4)
-        #flist = [{'BIGRAM_POS_' + p : round(all_pos_bigram.count(p) / total_pos, 4)} for p in all_pos_bigram]
-        feature_bi_pos.append(flist)
-        bigram_num = len(review_word) - 1
-        bigrams = nltk.bigrams(review_word)
-        # contains of a the count of the bigrams / total number of that bigram in each review
-        flist = {}
-        for word,count in nltk.FreqDist( bigrams ).most_common():
-            flist['BIGRAM_'+ word[0]+'_'+word[1]] = round( (count/bigram_num),4 )
-        #flist = [{'BIGRAM_'+ word[0]+'_'+word[1] : round( (count/bigram_num),4 ) } for word, count in nltk.FreqDist( bigrams ).most_common()]
-        feature_bi_relative_freq.append(flist)
-    return feature_bi_relative_freq,feature_bi_pos
-'''
 
 def feature_extractor( all_reviews ):
     result = []
@@ -131,43 +85,22 @@ if __name__ == '__main__':
     pos_reviews_d = pos_neg_reviews_development[0]
     neg_reviews_d = pos_neg_reviews_development[1]
 
-    '''
-    pos_reviews = ['Yammy!!']
-    neg_reviews = ['Horrible!!!']
-    '''
 
-    pos_features_d = feature_extractor(pos_reviews_d)
-    neg_features_d= feature_extractor(neg_reviews_d)
+    feature_set = ([( feature ,'positive') for feature in feature_extractor(pos_reviews)] +
+                   [( feature, 'negative') for feature in feature_extractor(pos_reviews)])
 
-    pos_features = feature_extractor(pos_reviews)
-    neg_features = feature_extractor(neg_reviews)
+    feature_set_dev = ([(feature, 'positive') for feature in feature_extractor(pos_reviews_d)] +
+                   [(feature, 'negative') for feature in feature_extractor(neg_reviews_d)])
 
-    #print(pos_uni_feature_relative_freq[0])
-    #pos_bi_feature_relative_freq, pos_bi_feature_POS = feature_extractor_bigram(pos_reviews)
-    #neg_bi_feature_relative_freq, neg_bi_feature_POS = feature_extractor_bigram(neg_reviews)
-
-
-    #for review in pos_uni_feature_relative_freq:
-    #pos_uni_features = join_dict( pos_uni_feature_relative_freq , pos_uni_feature_POS)
-    #pos_bi_features = join_dict(pos_bi_feature_relative_freq, pos_bi_feature_POS)
-
-    #positive_features = join_dict(pos_uni_features , pos_bi_features)
-
-
-
-
-    feature_set = []
-    for feature in pos_features:
-        feature_set.append( (feature , 'positive') )
-    for feature in neg_features:
-        feature_set.append((feature, 'negative'))
-
-    feature_set_d = []
-    for feature in pos_features_d:
-        feature_set_d.append((feature, 'positive'))
-    for feature in neg_features_d:
-        feature_set_d.append((feature, 'negative'))
 
     classifier = nltk.NaiveBayesClassifier.train(feature_set)
-    print( nltk.classify.accuracy(classifier,feature_set_d)*100)
-    #print(classifier.show_most_informative_features())
+    print('Accuracy =', round(nltk.classify.accuracy(classifier,feature_set_dev)*100,4),'%')
+
+    file = open('classifier.pickle','wb')
+    pickle.dump(classifier,file)
+    file.close()
+
+    sys.stdout = open('informative-features.txt', 'w')
+    print(classifier.show_most_informative_features())
+    sys.stdout = sys.__stdout__
+

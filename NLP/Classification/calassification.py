@@ -1,5 +1,5 @@
 import nltk,re,collections
-
+'''
 def feature_extractor_unigram( all_reviews ):
     feature_uni_relative_freq = []
     feature_uni_pos = []
@@ -21,9 +21,9 @@ def feature_extractor_unigram( all_reviews ):
             flist['UNIGRAM_'+word] = round(total_word.count(word)/total ,4)
         #flist = [{'UNIGRAM_'+w : round(total_word.count(w)/total ,4)} for w in total_word]
         feature_uni_relative_freq.append(flist)
-#    return feature_uni_relative_freq , feature_uni_pos
+    return feature_uni_relative_freq , feature_uni_pos
 
-#def feature_extractor_bigram( all_reviews ):
+def feature_extractor_bigram( all_reviews ):
     feature_bi_relative_freq = []
     feature_bi_pos = []
 
@@ -49,6 +49,63 @@ def feature_extractor_unigram( all_reviews ):
         #flist = [{'BIGRAM_'+ word[0]+'_'+word[1] : round( (count/bigram_num),4 ) } for word, count in nltk.FreqDist( bigrams ).most_common()]
         feature_bi_relative_freq.append(flist)
     return feature_bi_relative_freq,feature_bi_pos
+'''
+
+def feature_extractor( all_reviews ):
+    feature_relative_freq = []
+    feature_pos = []
+    counter = 0
+    for review in all_reviews:
+        result = []
+        #####################################
+        flist ={}
+        total_word = nltk.word_tokenize( review )
+        pos = nltk.pos_tag(total_word)
+        all_pos = [(tag[1]) for tag in pos]  # find all the tags in each review
+        total_pos = len(pos)
+        # flist contains count of a specific POS / total number of POS in each review
+        for value in pos:
+            flist['UNIGRAM_POS_'+value[1]] = round( (all_pos.count(value[1]) / total_pos),4)
+        #flist = [{'UNIGRAM_POS_' + v: round(all_pos.count(v) / total_pos, 4)} for k,v in pos]
+        #feature_pos.append(flist)
+
+        #######################################
+
+        total = len(total_word)
+        # flist contains count of a specific word / total number of word in each review
+        #flist = {}
+        for word in total_word:
+            flist['UNIGRAM_'+word] = round(total_word.count(word)/total ,4)
+        #flist = [{'UNIGRAM_'+w : round(total_word.count(w)/total ,4)} for w in total_word]
+        #feature_relative_freq.append(flist)
+        #result[counter].append(flist)
+        ########################################
+
+        pos = nltk.pos_tag( total_word )
+        pos_bigram = nltk.bigrams(pos) #contains tuples
+        # example of all_pos_bigram NN_JJ , VBD_.
+        all_pos_bigram = [(tuple[0][1]+'_'+tuple[1][1]) for tuple in pos_bigram] # extract firstPOS_secondPOS in bigrams
+        total_pos = len(all_pos_bigram)
+        # flist contains count of a specific bigram POS / total number of bigram POS in each review
+        #flist = {}
+        for p in all_pos_bigram:
+            flist['BIGRAM_POS_' + p] = round(all_pos_bigram.count(p) / total_pos, 4)
+        #flist = [{'BIGRAM_POS_' + p : round(all_pos_bigram.count(p) / total_pos, 4)} for p in all_pos_bigram]
+        #result[counter] += flist
+        #feature_pos.append(flist)
+        ########################################
+        bigram_num = len(total_word) - 1
+        bigrams = nltk.bigrams(total_word)
+        # contains of a the count of the bigrams / total number of that bigram in each review
+        #flist = {}
+        for word,count in nltk.FreqDist( bigrams ).most_common():
+            flist['BIGRAM_'+ word[0]+'_'+word[1]] = round( (count/bigram_num),4 )
+        #flist = [{'BIGRAM_'+ word[0]+'_'+word[1] : round( (count/bigram_num),4 ) } for word, count in nltk.FreqDist( bigrams ).most_common()]
+        #feature_relative_freq.append(flist)
+        result.append(flist)
+    #return feature_relative_freq,feature_pos
+    return result
+
 
 
 def join_dict(dict1 , dict2):
@@ -101,23 +158,19 @@ if __name__ == '__main__':
     neg_reviews = ['Horrible!!!']
     '''
 
-    pos_uni_feature_relative_freq , pos_uni_feature_POS = feature_extractor_unigram(pos_reviews)
-    neg_uni_feature_relative_freq, neg_uni_feature_POS = feature_extractor_unigram(neg_reviews)
+    pos_uni_feature_relative_freq  = feature_extractor(pos_reviews)
+    neg_uni_feature_relative_freq = feature_extractor(neg_reviews)
 
-    pos_bi_feature_relative_freq, pos_bi_feature_POS = feature_extractor_bigram(pos_reviews)
-    neg_bi_feature_relative_freq, neg_bi_feature_POS = feature_extractor_bigram(neg_reviews)
+    #pos_bi_feature_relative_freq, pos_bi_feature_POS = feature_extractor_bigram(pos_reviews)
+    #neg_bi_feature_relative_freq, neg_bi_feature_POS = feature_extractor_bigram(neg_reviews)
 
 
     #for review in pos_uni_feature_relative_freq:
-    pos_uni_features = join_dict( pos_uni_feature_relative_freq , pos_uni_feature_POS)
-    pos_bi_features = join_dict(pos_bi_feature_relative_freq, pos_bi_feature_POS)
-    print(type(pos_uni_features[0]))
+    #pos_uni_features = join_dict( pos_uni_feature_relative_freq , pos_uni_feature_POS)
+    #pos_bi_features = join_dict(pos_bi_feature_relative_freq, pos_bi_feature_POS)
+    print((pos_uni_feature_relative_freq[0]))
     #positive_features = join_dict(pos_uni_features , pos_bi_features)
-    pos_feature =[]
-    for feature in positive_features:
-        pos_feature.append( (feature,'positive' ))
 
-    print( (pos_feature[0]) )
     '''
 
     feature_set = []

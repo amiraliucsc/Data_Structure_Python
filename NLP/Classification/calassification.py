@@ -120,16 +120,24 @@ def process_reviews(file_name):
 
 if __name__ == '__main__':
     #filename = sys.argv[1]
-    file_name = "restaurant-training.data"
-    pos_neg_reviews = process_reviews(file_name)
+    file_name_train = "restaurant-training.data"
+    file_name_development = "restaurant-development.data"
+    pos_neg_reviews_train = process_reviews(file_name_train)
+    pos_neg_reviews_development = process_reviews(file_name_development)
 
-    pos_reviews = pos_neg_reviews[0]
-    neg_reviews = pos_neg_reviews[1]
+    pos_reviews = pos_neg_reviews_train[0]
+    neg_reviews = pos_neg_reviews_train[1]
+
+    pos_reviews_d = pos_neg_reviews_development[0]
+    neg_reviews_d = pos_neg_reviews_development[1]
 
     '''
     pos_reviews = ['Yammy!!']
     neg_reviews = ['Horrible!!!']
     '''
+
+    pos_features_d = feature_extractor(pos_reviews_d)
+    neg_features_d= feature_extractor(neg_reviews_d)
 
     pos_features = feature_extractor(pos_reviews)
     neg_features = feature_extractor(neg_reviews)
@@ -154,9 +162,12 @@ if __name__ == '__main__':
     for feature in neg_features:
         feature_set.append((feature, 'negative'))
 
-
-
+    feature_set_d = []
+    for feature in pos_features_d:
+        feature_set_d.append((feature, 'positive'))
+    for feature in neg_features_d:
+        feature_set_d.append((feature, 'negative'))
 
     classifier = nltk.NaiveBayesClassifier.train(feature_set)
-    print( classifier.labels())
+    print( nltk.classify.accuracy(classifier,feature_set_d)*100)
     #print(classifier.show_most_informative_features())

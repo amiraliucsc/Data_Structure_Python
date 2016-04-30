@@ -1,0 +1,22 @@
+Most Informative Features
+          UNIGRAM_POS_RB = None           positi : negati =      4.1 : 1.0
+               UNIGRAM_. = 0.0625         positi : negati =      3.7 : 1.0
+           UNIGRAM_POS_. = 0.1            positi : negati =      3.7 : 1.0
+            UNIGRAM_food = 0.030303030303030304 positi : negati =      3.7 : 1.0
+         UNIGRAM_POS_VBD = None           positi : negati =      3.6 : 1.0
+          UNIGRAM_POS_IN = 0.07142857142857142 positi : negati =      3.0 : 1.0
+               UNIGRAM_. = 0.06666666666666667 positi : negati =      3.0 : 1.0
+             UNIGRAM_and = 0.03333333333333333 positi : negati =      3.0 : 1.0
+        BIGRAM_POS_JJ_NN = 0.03125        positi : negati =      3.0 : 1.0
+          UNIGRAM_POS_DT = 0.125          positi : negati =      3.0 : 1.0
+           UNIGRAM_POS_. = 0.06666666666666667 positi : negati =      3.0 : 1.0
+          UNIGRAM_POS_RB = 0.07692307692307693 negati : positi =      3.0 : 1.0
+             UNIGRAM_the = 0.043478260869565216 positi : negati =      3.0 : 1.0
+               UNIGRAM_. = 0.05128205128205128 negati : positi =      3.0 : 1.0
+         UNIGRAM_POS_VBD = 0.09090909090909091 positi : negati =      3.0 : 1.0
+             UNIGRAM_was = None           positi : negati =      2.7 : 1.0
+       BIGRAM_POS_NN_VBD = None           positi : negati =      2.4 : 1.0
+              UNIGRAM_to = 0.02564102564102564 negati : positi =      2.3 : 1.0
+               UNIGRAM_a = 0.030303030303030304 positi : negati =      2.3 : 1.0
+            UNIGRAM_food = 0.010309278350515464 negati : positi =      2.3 : 1.0
+None

@@ -1,0 +1,22 @@
+Input data	accuract
+___________________________
+development 	0.71
+testing		0.70
+
+
+
+
+Two of the most helpful features was as follow:
+First I write a regex to find a patern which looks for one or two-digit number like 5 or 15 or 20 follows by the word “minute” which could be with or without s and also w could be upper or lower case. Then I marked this as 1 if it occurs in any of the reviews. It helps to gain 2% on development and 1% on testing data. 
+The next feature which was helpful was using a keyword list that I found the most helpful. For example, occurance of word “wonderful” or “manager” could be respectively indicating of a positive and negative review. So I tried to add more relavant keyword into a list and look for them. Furturemore, I used Wordnet to find the synonyms of all these keywords to extend them because if word “wonderful” is indication a positive review it is most likely that synonyms of these word also be indicator of a positive review. By adding this feature I gain 3% on development and 2% on testing data. 
+I also did the same strategy for checking fot the occurance of a bigram in the review however I did not extend it using the Wordnet. 
+I also count tri gram which was helpful in gaining accuracy however as I go beyond and tried to find the 4gram and 5gram the accuracy starts to decrease however in the file that I was generating the classifier was increasing. So I really did not know should I keep it or not. Adding the feature to check the occurance of 4grams and 5grams help to gain 2-3% on both development and testing data on the file that I was creating the classifier how ever I lost 2-3% when I used the fiel contain evalutae function. 
+I also removed the bigram POS because I was getting some irellevant most informative features which causes to reduce the accuracy. 
+I tried to add and remove different type of features but as I said before I gain some accuracy on the file that I was generating the pickle and when I used that pickle on the restaurant-competition-P1.py I lost few percentages of accurace so these feauters are the one that I kept. 
+At the end I get 71% accuracy on the development data and 70% on testing data when I was training my classifier. However it seems like not very much gain when I used this
+classifier as an input to the restaurant-competition-P1.py beceacue I was able to get up to 71% accuracy on development and 70% accuracy on testing when I used the evaluate
+function on the restaurant-competition-P1 python file. The feature set that I have for the best accuracy is included, the UNOGRAM_POS which calculate the relative frequency
+of the part of speech of each unigram. OCURRANCE which check wheater a particular word is occured on not. 1 is indicating the occurance of that word. COUNT_TI which indicate
+the occurance of a tri gram in the review. TIME which indicates a two digit or one digit number followed by word "minutes" and TIME is equal to 1 if that is occure in any
+review. BIGRAM_ which calculate the relative frequency of the the bi gram in the reviews. These are the combination of my feature set that I train my classifier with. 
+

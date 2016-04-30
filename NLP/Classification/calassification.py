@@ -4,42 +4,56 @@ import pickle
 import sys
 import pprint
 
-
 def feature_extractor( all_reviews ):
     result = []
     for review in all_reviews:
         flist ={}
-        total_word = nltk.word_tokenize( review )
+        total_word = nltk.word_tokenize(review)
         pos = nltk.pos_tag(total_word)
         all_pos = [(tag[1]) for tag in pos]  # find all the tags in each review
         total_pos = len(pos)
-        for value in pos:
-            flist['UNIGRAM_POS_'+value[1]] = round( (all_pos.count(value[1]) / total_pos),4)
+        pos_count = nltk.FreqDist(all_pos).most_common()
+        for value in pos_count:
+            flist['UNIGRAM_POS_' + value[0]] = value[1] / total_pos
         total = len(total_word)
-        for word in total_word:
-            flist['UNIGRAM_'+word] = round(total_word.count(word)/total ,4)
-        pos = nltk.pos_tag( total_word )
+        word_count = nltk.FreqDist(total_word).most_common()
+        for w in word_count:
+            flist['UNIGRAM_' + w[0]] = w[1] / total
         pos_bigram = nltk.bigrams(pos) #contains tuples
-        # example of all_pos_bigram NN_JJ , VBD_.
         all_pos_bigram = [(tuple[0][1]+'_'+tuple[1][1]) for tuple in pos_bigram] # extract firstPOS_secondPOS in bigrams
         total_pos = len(all_pos_bigram)
-        for p in all_pos_bigram:
-            flist['BIGRAM_POS_' + p] = round(all_pos_bigram.count(p) / total_pos, 4)
+        all_bi_pos = nltk.FreqDist(all_pos_bigram).most_common()
+        for value in all_bi_pos:
+            flist['BIGRAM_POS_' + value[0]] = value[1] / total_pos
         bigram_num = len(total_word) - 1
         bigrams = nltk.bigrams(total_word)
-        # contains of a the count of the bigrams / total number of that bigram in each review
         for word,count in nltk.FreqDist( bigrams ).most_common():
-            flist['BIGRAM_'+ word[0]+'_'+word[1]] = round( (count/bigram_num),4 )
+            flist['BIGRAM_'+ word[0]+'_'+word[1]] = count/bigram_num
         result.append(flist)
     return result
 
 
+def generate_file(feature_set, file_name):
+    pos_line = ''
+    neg_line = ''
+    for data in feature_set:
+        if data[1] == 'positive':
+            pos_line += 'positive '
+            for key in data[0]:
+                pos_line += key + ':' + str(data[0][key]) + ' '
+            pos_line += '\n'
+        elif data[1] == 'negative':
+            neg_line += 'negative '
+            for key in data[0]:
+                neg_line += key + ':' + str(data[0][key]) + ' '
+            neg_line += '\n'
 
-def join_dict(dict1 , dict2):
-    new_dict = []
-    for i in range(len(dict1)):
-        new_dict.append( list(dict1[i].items()) + list(dict2[i].items()) )
-    return new_dict
+
+    re.sub(r'positive \w','**',pos_line)
+    #pos_line.replace(r'positive \n','')
+    with open(file_name, 'w+', encoding='UTF-8') as file:
+        file.write(pos_line)
+        file.write(neg_line)
 
 
 def get_score(review):
@@ -76,31 +90,49 @@ if __name__ == '__main__':
     #filename = sys.argv[1]
     file_name_train = "restaurant-training.data"
     file_name_development = "restaurant-development.data"
+    file_name_test = "restaurant-testing.data"
+
     pos_neg_reviews_train = process_reviews(file_name_train)
     pos_neg_reviews_development = process_reviews(file_name_development)
+    pos_neg_reviews_test = process_reviews(file_name_test)
+
 
     pos_reviews = pos_neg_reviews_train[0]
     neg_reviews = pos_neg_reviews_train[1]
 
-    pos_reviews_d = pos_neg_reviews_development[0]
-    neg_reviews_d = pos_neg_reviews_development[1]
+    pos_reviews_dev = pos_neg_reviews_development[0]
+    neg_reviews_dev = pos_neg_reviews_development[1]
 
+    pos_reviews_test = pos_neg_reviews_test[0]
+    neg_reviews_test = pos_neg_reviews_test[1]
 
     feature_set = ([( feature ,'positive') for feature in feature_extractor(pos_reviews)] +
-                   [( feature, 'negative') for feature in feature_extractor(pos_reviews)])
+                   [( feature, 'negative') for feature in feature_extractor(neg_reviews)])
 
-    feature_set_dev = ([(feature, 'positive') for feature in feature_extractor(pos_reviews_d)] +
-                   [(feature, 'negative') for feature in feature_extractor(neg_reviews_d)])
 
+    generate_file(feature_set,'training-features.txt')
+
+
+    feature_set_dev = ([(feature, 'positive') for feature in feature_extractor(pos_reviews_dev)] +
+                      [(feature, 'negative') for feature in feature_extractor(neg_reviews_dev)])
+
+    generate_file(feature_set_dev, 'development-features.txt')
+
+
+    feature_set_test = ([(feature, 'positive') for feature in feature_extractor(pos_reviews_test)] +
+                       [(feature, 'negative') for feature in feature_extractor(neg_reviews_test)])
+
+    generate_file(feature_set_test, 'testing-features.txt')
 
     classifier = nltk.NaiveBayesClassifier.train(feature_set)
-    print('Accuracy =', round(nltk.classify.accuracy(classifier,feature_set_dev)*100,4),'%')
+    with open('restaurant-baseline-model-P1.pickle','wb') as file:
+        pickle.dump(classifier, file)
 
-    file = open('classifier.pickle','wb')
-    pickle.dump(classifier,file)
-    file.close()
-
+    print('Accuracy =', nltk.classify.accuracy(classifier,feature_set_dev)*100,'%')
+    print(classifier.labels())
     sys.stdout = open('informative-features.txt', 'w')
-    print(classifier.show_most_informative_features())
+    print(classifier.show_most_informative_features(20))
     sys.stdout = sys.__stdout__
+
+
 

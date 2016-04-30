@@ -240,3 +240,4 @@ if __name__ == '__main__':
 
     # the forth argument is just the name of the file so I can print it in output
     evaluate( classifier , feature_set , output , name)
+    classifier.show_most_informative_features(10)

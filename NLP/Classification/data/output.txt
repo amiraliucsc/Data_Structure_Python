@@ -1,0 +1,1652 @@
+Accuracy    0.77500
+
+    |  n  p |
+    |  e  o |
+    |  g  s |
+----+-------+
+neg |<57>33 |
+pos | 12<98>|
+----+-------+
+(row = reference; col = test)
+
+
+neg pos
+a movie that's been as highly built up as the truman show , with reviews boasting , " the film of the decade ! " 
+and " a breakthrough ! " 
+can only be leading up to letdown . 
+that's no doubt -- it seems any movie with critical acclaim makes you think you're going in for the ride of your life , that you'll end up changed on the other side , and you come out of the theater going , " eh . . . 
+ * that's * what all the fuss was about ? " 
+so , naturally , the truman show was building up to what was going to be a dissapointment . 
+and i convinced myself , as i nestled into my uncomfortable movie theater chair , actually to try not to enjoy it . 
+let me tell you , that is an impossibilty . 
+the truman show is truly " the film of the decade " and " a breakthrough " and more . 
+and you will come out changed on the other side . 
+such a movie comes around only once in a lifetime , where you find yourself feeling everything that the character is feeling , and this , friends , is it . 
+jim carrey shows that he doesn't need to talk out of his butt to entertain us ; that he can be as dramatic as any of hollywood's leading men . 
+the film has a difficult premise to tackle , trying to set us up thirty years into the " truman show's " run , but tackle it it does , and perfectly . 
+with flashbacks actually being flashbacks on the television show , you get the sense that you are viewing a * real * prime-time hit . 
+and the way the camera constantly takes the forms it would in the " real " truman show is clever and well-done . 
+people , rejoice ! 
+this is the first oscar-worthy film of not only this year , but of the last five years . 
+not since " schindler's list " has a movie captured human spirit and true despair so well . 
+this is a classic in the making , and ( to borrow a line from esquire's review ) it stars jim carrey . 
+nothing in his career to date and nothing he can do in the future will ever be able to top his role as truman burbank ; mark my word . 
+for , as i said , this is the movie of a lifetime and the role is of the same calibre . 
+forget special-effect ladden summer fodder . 
+drop your romantic comedies in the trash . 
+toss your thrillers and teen flicks on the pile . 
+you need nothing more than " the truman show " to carry you through the summer , or for that matter , the year . 
+oh ! and in case i don't see you , good afternoon , good evening , and goodnight . 
+
+
+neg pos
+along his carreer , mel gibson has collected several successes , not only from an economic point of view but also from an artistic point of view . 
+for all that , i think no one could guess the skills and abilities now disclosed in braveheart . 
+the australian actor decided to produce and direct a film about sir william wallace , a popular scotch hero of the 13th century , where he would also perform the principal role . 
+accepting so huge challenge , mel gibson run the risk of stain all his work of years , with a suppoosed failure , just to see recognized , by everyone , all his potentialities and , that way , to consolidate his position in hollywood . 
+it was , definitely , an enormous risk but i'm sure mel knew exactly well what he was going to face . 
+braveheart is , in fact , a magnificent and magisterial film . 
+for three hours we are completely absorbed by the narrative's rhyitm which never gives place to a single moment of monotony or uninterest . 
+the william wallace's story is the story of so many others brave liberty's defenders who fought and gave the life for that essential value , along the centuries . 
+seeing himself and his people victims of injustices and violent repression , william wallace dares to face the powerful edward i , king of england , in a war by the autonomy of scotland . 
+as the victories succeed the number of fighters with wallace goes growing up . 
+his courage and inteligence are admired by everyone , including the princess isabelle of wales , wife of edward's son . 
+however , william wallace was also surrounded by enemies and some of them were closer than he thought . 
+braveheart may not be an historically corrected movie but the nature of its message make us think about the importance that we give to liberty , nowadays . 
+mel gibson directs with a lot of brilliancy a brilliant cast . 
+patrick mcgoohan has a very nice performance as edward i , the king longshank . 
+the scene when he waits for the death and loses his voice is really good . 
+sophie marceau , as princess isabelle , has along the movie no more than fifteen minutes of performance but mel gibson gave to those minutes such a very special treatment that princess isabelle soon becomes one of the major characters in braveheart . 
+i also liked the performances of angus macfadyen , as robert the bruce , and , of course , mel gibson , as william wallace . 
+however , i think this time the mel gibson's work as director was much better than his work as actor . 
+the excellent music composed by james horner is another thing that helps braveheart to be the success that it really is . 
+when we join that music to the beautiful scotch landscapes , view by the camera of john toll , then we realize all the beauty of this film . 
+braveheart is , in my opinion , one of the best movies of 1995 ! 
+i've heard some people saying that mel gibson is gonna be a new david lean . 
+for now , let's see if braveheart equalizes the 6 oscars of lawrence of arabia . 
+it won't be easy ! 
+it's gonna be one more challenge for mel gibson . 
+
+
+pos neg
+one of these days , i'll make good on my promise never to rent another abel ferrara movie . 
+king of new york and body snatchers notwithstanding ( and bad lieutenant is only fit for a single , emotive viewing ) , his exploitation flicks have fallen into a rut of hoary art-house trappings . 
+it's a perfume-drenched , coke-addled visit to the seedy pornography shop , where beautiful models ( no , hookers -- no , courtesans ) usher you through the silk curtains . 
+ferrara's only consistently smart move has been casting christopher walken over and over again , since walken can make a good movie great and a loathsome movie durable whenever he's onscreen . 
+his 8-minute scene in the addiction is the saving grace of that otherwise abysmal , unwatchable , and pretentious failure . 
+when he starts talking about his vampiric bowel movements , or questions whether lili taylor has ever read naked lunch , there's a much-needed dose of humor in an otherwise terminally unfunny affair . 
+you know those gothic club kids who are too cool to smile and let you know they're actually having fun ? 
+the addiction is that movie . 
+walken , sadly , does not appear in the blackout . 
+the central role of matty , a junkie film star whose lightning paced hollywood life among the beautiful people is inevitably leading to his destruction , is played by matthew modine ( who takes what he can get after cutthroat island ) . 
+much like the protagonists of michelangelo antonioni's terminally bored cultural elite , matty is involved in a bitter pill " relationship " with high fashioned model annie ( at least i think she's a model . ) 
+matty's lady is played by french actress b ? atrice dalle , arrested twice for cocaine possession during filming of the blackout -- not that you needed to know that , but it lends credence to the idea that ferrara's entire oeuvre has been filmed in a fucking blackout . 
+no kidding . 
+requiem for a dream has nothing on the junkie presentations seen in ferrara's movies and his controversial urban lifestyle . 
+matty and annie struggle over her decision to have an abortion without consulting him . 
+no doubt , he was off chasing the dragon . 
+in his despair , matty indulges in a chemical induced weekend of debauchery , tooling around the streets of miami with video filmmaker mickey wayne ( dennis hopper , in full " dirty ol' man " mold smacking models on the ass and telling them to spread their legs . 
+wider ! ) 
+toward the end of the night , they pick up a teenage waitress also named annie ( sarah lassez ) , start shooting a hastily improvised sexual scene , then matty thankfully blacks out . 
+something happened that night which haunts him throughout the rest of the movie , and it's exactly what you think it was . 
+suffice to say , there's some confusion over whether he killed annie one or annie two , or anyone at all . 
+the blackout is typical ferrara : no plot to speak of , plenty of raunch , and horribly vogue images of matthew modine downing a bottle of jack daniels and a beer while wrapping himself in a see-through curtain in his hotel room by the sea , by the sea , by the beautiful sea . 
+cinematographer ken kelsch finds inconsistent glory in alternating gorgeous painterly sunsets with docu-style sleaze ( and we're back to dennis hopper leering at girls in bathing suits . 
+ " yeah ! ! ! 
+yeah ! ! ! 
+arrrghhh ! " 
+says mr . hopper . 
+dirty old sod . ) 
+it's compulsive viewing in a tacky sort of way , leading to a ridiculous climax where modine seizes control of his destiny . 
+how's that for cryptic ? 
+never fear -- ferrara finds time for some female full frontal nudity to remind us what he's all about . 
+i can picture it now . 
+ " take off yer clothes , kid -- it's essential to depict the inner maelstrom of my central protagonist , and you're his visual id . 
+you're the soul , the heart , the bloodstream of the picture . 
+take it off ! 
+take it all off ! ! ! 
+ha ha ha ! " 
+friggin' vampire . 
+yeah , you , ferrara . 
+a final word about matthew modine : he's actually a fine actor when properly cast , but there's something too squeaky-clean in his demeanor . 
+he's ideally suited for sarcastic men in tightly controlled situations , such as his private joker in full metal jacket or the time-bomb nebbish in short cuts ( who is every bit as superb as julianne moore in that famous scene , though no one seems to notice him ) . 
+[he was in that scene ? 
+-ed . ] 
+here , he's asked to let it all hang out , sporting a three-day stubble and oily bangs . 
+he throws around furniture like stanley kowalski , but it's somehow lacking . 
+modine lacks the feral intensity of brando , entirely miscast in ferrara's flesh fair . 
+better luck next time , matt . 
+someday , you'll be forgiven for cutthroat island , which wasn't really your fault in the first place . 
+maybe atom egoyan will find a place for you somewhere , and all will once again be well in your world . 
+
+
+neg pos
+notting hill's trailer is awful : a laughless , schmaltzy montage . 
+the movie was desperately marketed to the anti-phantom menace crowd , the same lovelorn females who ignored the love letter . 
+and it apparently worked . 
+perhaps the presence of julia roberts-whose allure beyond those perfect teeth still escapes me-had a lot to do with notting hill's opening weekend success , but the film's staying power is based on word of mouth . 
+allow me to spread some more good buzz for notting hill . 
+grant stars as william thacker , a travel-bookstore owner who works and resides in a tiny english district called notting hill . 
+into his shop one day wanders famous actress anna scott ( roberts ) . 
+a common thief , some spilled orange juice , and some stilted conversation leads to their first , highly impetuous ( or is that improbable ? ) , kiss . 
+days later , william sneaks into her hotel suite under the guise of a magazine journalist , and so begins a passionate , albeit surreptitious , affair . 
+ ( aside : notting hill's portrayal of press junkets is deadly accurate . ) 
+only anna's celebrity-or william's lack thereof-threatens to drive a wedge between them . 
+richard curtis has tapped into fantasy we all have considered , and for at least its first half-hour the picture's " beauty and the beast " -like scenario is ( romantic ) escapism of the highest order . 
+as with groundhog day or pleasantville , while watching the high-concept comedy notting hill one constantly imagines him/herself in the lead ; it's william's ordinaryness that entices the spoiled and bored anna . 
+curtis ( who previously penned four weddings and a funeral ) is also smart enough to know that the unlikely couple's situation is not enough to fuel two hours' worth of entertainment , so some of notting hill's finest moments revolve around william's eccentric friends and family . 
+by now , dear reader , you've probably heard a lot about rhys ifans' performance as william's imbecilic welsh flatmate . 
+yes , he's a crowd pleaser , a walking sight gag , but his character is not nearly as involving as the wheelchair-bound ( and appropriately named ) bella ( mckee , the anguished waitress of naked ) or max ( tom mcinnerny ) , her lousy chef of a husband . 
+in the movie's best sequence , william , anna , and company sit around bloated from max's latest concoction and hold a contest : the last brownie on the table goes to the diner with the saddest life . 
+the scene ends only as a british writer would end it . 
+if anything , fantastic bits like these dull the main plot's dramatic impact . 
+roberts and grant , especially , are appealing , but their relationship is convolutedly interrupted too many times ( four weddings' suffered similar flaws ) , and william and anna ultimately only have one thing in common : they're lonely . 
+ ( worth noting in roberts' and grant's favour : the ubiquitous " i'm just a girl , standing across from a boy , asking him to love her " episode is not nearly so syrupy as it appears in clips , and it features some of the best emoting either actor has ever done . ) 
+notting hill is nonetheless enjoyable ; on the visual side of things , i especially appreciated michell's playful changing-of-the-seasons number . 
+if only ( and this is a surprisinly minor gripe ) he had lopped off the egregious epilogue ; for a story that thrives on what we bring to it , the filmmakers work too hard to tidy things up , leaving our imaginations in the lurch . 
+
+
+neg pos
+once upon a time jean-claude van damme was a decent action hero . 
+the muscles from brussels bursted into the hollywood market with mindless adventure films , boasting his spectacular martial-arts ability . 
+some of these excursions were fun . 
+but now it seems like watching a van damme movie has become a painful chore , with no rewards but the virtually guaranteed helping of mind-numbing action . 
+and when the action goes sour , what is there left to enjoy ? 
+i'll explain . 
+knock off is about a pair of counterfeit jeans salesmen working out of an office in hong kong . 
+marcus ray ( van damme ) , a babe-magnet and stylish dresser , heads up the company with an annoying weasel of a partner ( rob schneider ) . 
+they become part of a plot involving microbombs implanted in counterfeit jeans , seemingly by a mole in the business . 
+i'm going to reveal about everything in the next paragraph , so if you want a review devoid of spoilers , skip onto the next one . 
+i'm not quite sure who gives a crap , but i'll issue a warning anyhow . 
+tommy is really working with the cia . 
+his boss ( a very hammy and flat paul sorvino ) is the mole , and he wants to cause carnage with these tiny but immensely powerful super weapons . 
+he even stoops so low to put them into children's toys . 
+if you thought this plot outline sounded intriguing , then you probably will enjoy knock off . 
+if you think that this ridiculous set-up couldn't even fill five minutes of screen time without causing you to roll over laughing , this might not be your cup of tea . 
+knock off sucks . 
+it stoops to ridiculous levels that most individuals could only conjure up in horrific nightmares . 
+it amazes me how far these producers will go to sell something , simply because van damme is the star . 
+the plot is pathetic garbage strung together by inane action sequences that will baffle your mind , the performances are so wooden you could use them to row a canoe , and the action itself is an absolute catastrophe . 
+director tsui hark ( who teamed with van damme in the superior , but still lame-brained double team ) is at the helm , and he would rather attempt to dazzle us with fantastic camera angles than engage us with the plot . 
+i suppose i enjoyed some of the camera work , but the incessant desperation of it all made me rather nauseous . 
+the picture freezes in the middle of an action sequence , speeds are altered consistently , and the camera tricks mostly apply to traveling up gun barrels as the weapons are fired . 
+it all sounds very cool . 
+trust me , it isn't . 
+as much as it scars me to say this ( har , har ) , van damme is terrible . 
+sure , he does lots of fancy kickboxing moves and dodges giant crates with the greatest of ease . 
+he looks like he's doing a bad impersonation of jackie chan , and his performance is stiff and tired . 
+i hate to say it , but perhaps it's time for mr . van damme to give up his day job . 
+it's really a test of endurance watching knock off . 
+i suppose there's some enjoyment derived from schneider's character , who is extremely annoying , but provides the film's better moments . 
+and what is the beautiful lela rochon doing in this movie ? 
+hopefully she grabbed her paycheck and then fled the premises like an olympic sprinter . 
+knock off doesn't even stand strong as a mindless but entertaining action film , like a handful of van damme's others . 
+no , this movie is an embarrassment to the entire action genre of modern filmmaking . 
+and considering how low hollywood has stooped as of late in that department , that is certainly not saying much . 
+note to self : avoid universal soldier 2 : the return upon release in august ? 99 . 
+
+
+neg pos
+i know that " funnest " isn't a word . 
+ " fun " is a noun , and therefore cannot be conjugated like an adjective . 
+but that's the word that came to me right after viewing " chicken run . " 
+no wonder : this is the kind of movie that reduces you to childish expressions , like " that was the funnest movie i've ever seen ! " 
+so to hell with webster's -- " chicken run " is one of the funnest movies i've seen in a while . 
+i can't remember the last time i've seen anything funner . 
+the chickens at tweedy's farm are up to something . 
+living in a concentration camp-like atmosphere , they are led by one plucky hen called ginger ( voice of julia sawalha ) who continually comes up with plans for escape -- and always gets caught , subsequently spending day after day in the coal box . 
+one night , a brash american rooster flies in over the fence , calling himself rocky ( mel gibson ) , famous flying rooster and circus performer . 
+rocky promises to teach the chickens how to fly , and the situation grows more desperate as the nefarious mrs . tweedy ( miranda richardson ) decides to abandon the farm's egg-selling plan for a pie-selling plan . 
+she orders a huge pie-making machine , cackling , " chickens go in ; pies come out . " 
+what sort of pies ? 
+chicken pies , of course . 
+co-director nick park and his studio , aardman animation , produced three oscar-winning short films : " creature comforts , " " the wrong trousers , " and " a close shave . " 
+the latter two were the second and third installments of a trilogy starring the delightful team wallace & gromit , a man and his dog famous for getting themselves into increasingly peculiar adventures . 
+part of what made the " wallace " films brilliantly entertaining was park's uncanny ability to make an old story seem new . 
+ " the wrong trousers , " for example , pulled out a lot of old hitchcockian suspense tricks , and " a close shave " owed a great deal of inspiration to classic detective stories . 
+but in the hands of park and his team , the stories felt fresh and inspired , and not the least bit contrived . 
+now teaming with co-director peter lord , park has created a similar creature in " chicken run . " 
+the plot is largely lifted from " the great escape " ( watch for a quick reference to the ball-bouncing scene ) , with some spielberg-inspired action sequences providing the excitement . 
+thing is , the film doesn't feel like it's been lifted from somewhere else ; " chicken run " feels fresh , alive , like nothing else ever done . 
+part of it is the original idea : who in the world came up with the idea to make a prisoners-of-war movie starring chickens ? 
+park and lord milk the incongruity for all it's worth : the characters treat their situation as if it were dead serious , and to them , it is . 
+but they're * chickens * , so it's funny to us . 
+another thing that helps " chicken run " ( and most of park's films ) succeed is the animators' subtle way of giving nods to the very films they're cribbing . 
+there are references to " the great escape , " obviously , and " stalag 17 . " 
+the chase sequence inside the chicken grinder parodies both " raiders of the lost ark " and " indiana jones and the temple of doom . " 
+there's even a nod to " the blues brothers , " if you can believe it , and the filmmakers even get in a little light-hearted ribbing at the expense of their star voice actor , taking a couple of very subtle jabs at mel gibson's nationality and film history . 
+the " braveheart " reference is a hoot if you catch it . 
+when you consider just how fine a line resides between a funny parody and a redundant one , " chicken run " is downright brilliant in its execution . 
+consider this : since july of last year , i've seen dozens upon dozens of " blair witch project " parodies , on television , on the radio , and online . 
+out of all those , maybe one or two were amusing , the rest tiresome . 
+why ? 
+because once you got past the thought that " they're parodying that 'blair witch' movie , " most of the parodies had nothing to offer -- no insight , no original idea , no greater purpose . 
+they were only funny if you had seen the movie ; otherwise , you got nothing . 
+conversely , " chicken run " doesn't lean on its parodies -- the film references are never the sole focus of any scene . 
+if you've never seen " indiana jones , " the chase sequence is still fun . 
+even if you have no idea who mel gibson is , rocky remains an interesting character . 
+park , lord , and screenwriter karey kirkpatrick realize that an audience does not need a parody shoved in their faces before it's understood , and as a result , " chicken run " is filled with visual and verbal jabs that are never too obvious , but not quite vague either . 
+enjoyment of this movie doesn't require knowledge of film history , but if you've got it , " chicken run " is that much richer . 
+the voice cast turns in uniformly lively performances , and the characters they play are given so many subtle nuances that it's hard not to fall in love with every one of them . 
+ginger is perfect , spunky and opinionated , but with a soft heart that forbids her to leave her companions behind , and julia sawalha ( known as the cute mousy girl on " absolutely fabulous " ) nails it . 
+she has warm , human chemistry with gibson , whose rocky hides his personal doubt under a brash gung-ho veneer . 
+the characters' inevitable romance doesn't feel contrived , but sweet . 
+poor mr . tweedy ( tony haygarth ) suspects the chickens are organizing in some way , but his limited intellect prevents him from figuring things out , and his overbearing wife certainly isn't any help . 
+jane horrocks delivers a lovely voice characterization as tragically optimistic babs ( a hen that runs away with most of the best one-liners , all while perpetually crocheting a sweater ) , and two supply-trading rats that seem to have walked straight out of a monty python sketch nearly steal the show during the lively central swing-dancing sequence . 
+they even come up with an inspired riff on something that's baffled scholars and theologians alike for decades : the chicken vs . egg dilemma . 
+one might have expected this inevitable joke to come off as wearisome , but as with most of " chicken run , " it comes as a delightful surprise . 
+the film manages to cross all barriers ; it should be accessible to both children and adults , brits and yanks , rats and chickens . 
+the animation is first-rate . 
+remember that this was all done the old-fashioned way , with actual humans moving clay figurines around on a tiny set bit by painstaking bit , and you see just how truly remarkable " chicken run " really is . 
+this movie possesses that same quality that makes pixar studios' animation great : precise and unwavering attention to detail . 
+as in such top-notch family fare as " a bug's life " or " toy story 2 , " " chicken run " has something to offer in nearly every frame . 
+certainly a passive viewer can enjoy it as a straightforward story with a worthwhile moral and some surprisingly touching scenes , but a active , attentive viewers will enjoy it even more because they'll catch all the details . 
+anyway , the movie's just a boatload of fun . 
+funnest damn movie i've seen all year . 
+
+
+neg pos
+apparently , director tony kaye had a major battle with new line regarding his new film , american history x . i don't know the details of the fight , but it seems that he is not happy with the final product , and nearly removed his name from the credits altogether . 
+i've heard about this kind of thing happening before , and it makes me wonder how much input a studio has over the films they produce . 
+as it is , i found american history x to be an extremely good film , not just because of tony kaye's focused look at the touchy subject of racism , but because of a powerful , charismatic performance from edward norton . 
+it's hard to believe that it has only been two years since norton's fantastic role in primal fear , but , here he is now , starring in his own film and making himself a star . 
+norton is one of those performers who becomes his character , and his work in american history x is one of the very best performances this year . 
+he plays a young man named derek vinyard , a skinhead living in venice beach with his brother , danny ( edward furlong ) , mother ( beverly d'angelo ) , and sister , davin ( jennifer lien ) . 
+the film opens with a flashback , in which derek brutally kills two black men vandalizing his car . 
+we find out that this lands him in prison , and the film from that point is seen through the eyes of danny . 
+in the present-time of the film , danny is in high school , and eager to follow the footsteps of his brother . 
+much of the film is told in flashback , and we see the path that leads to derek's adoption of white supremacy . 
+when derek is released , having served three years in prison , he finds that his brother is now a full-blown skinhead ; derek , however , has given up the violence , and tries to get his brother to understand why racism and the violence that comes with it are bad things . 
+what makes this all interesting is that these two young men are not stupid , thoughtless people -- they are intelligent and articulate , and voice their beliefs in disturbingly straightforward terms . 
+it's hard to make a controversial movie and not preach , but kaye has found the right note for his material . 
+because american history x is a mainstream film , there has to be a redemption phase for our main character -- some people may think that this is the only way to make him sympathetic . 
+i partially disagree with this , because , although i do not advocate racism in any way , it's interesting the way kaye presents derek -- he is a loud , obnoxious man , but he's also very smart . 
+the reasons for why he becomes a skinhead are believable -- his father was arbitrarily killed by a group of black men . 
+it's clear that he's passionate about his beliefs , and that he's not just a punk looking for an excuse to beat people up . 
+of course , it helps that kaye has an actor as talented as norton to play this part . 
+it's astonishing how frightening norton looks with a shaved head and a swastika on his chest . 
+in addition to getting the look just right , he's perfect for this role -- derek requires intelligence , depth , and a whole lot of shouting , and norton does it all with ease . 
+even when he's at his meanest , derek has a likable quality to him , and that's a gutsy approach when telling a story about a skinhead . 
+what adds depth to the story is a subplot in which the principal of danny's school ( avery brooks ) becomes obsessed with purging the hatred from danny . 
+the other performances are all terrific , with standouts from furlong , d'angelo , and lien . 
+visually , the film is very powerful . 
+kaye indulges in a lot of interesting artistic choices , and most of them work nicely -- lots of slow-motion and strange camera angles add to a moody atmosphere . 
+but , like a lot of movies lately , american history x skims past greatness in the last few minutes . 
+although the climactic scene is very moving , the picture ends with a pretentious , preachy resolution featuring a brief narration from a character who was killed . 
+for a movie so smart a subtle up until that point , it felt like a slap in the face to be hand-fed a theme in such a simplistic way . 
+it makes me wonder what , exactly , tony kaye disliked about the final version of his film . 
+perhaps this last scene was the problem . 
+it's hard to imagine any director not being at least partially pleased with a film this good -- in a time when so many movies are timid and weak , american history x manages to make a compelling argument for racism without advocating it any way . 
+
+
+neg pos
+the cryptic teaser trailer has been unspooling in moviehouses for quite sometime now : " it mu5t be found . " 
+so what , exactly , is the fifth element ? 
+after seeing luc besson's ambitious , much-shrouded-in-secrecy science fiction fantasy , i could not help but be let down by the actual answer , which is not nearly as exciting nor clever as one would think . 
+but what is far from a letdown is the film as a whole , a wildly imaginative feast for the senses that does what all the best science fiction films do--create a universe unlike any other presented on the silver screen . 
+the biggest irony of the fifth element is that the one thing that has been kept under such tight wraps--the actual storyline--is the most conventional , dismayingly so , element ( pun intended ) of the film . 
+speaking in the vaguest possible terms , the basics of the plot are as follows : in the year 2259 , a great force of evil threatens to consume the earth , and only the four elements--earth , wind , fire , and water--united with a fifth element can stop it . 
+figuring into all of this are new york cabbie korben dallas ( bruce willis ) ; a shady , southern-drawling entrepreneur by the name of zorg ( the hilariously hammy gary oldman , picking up where he left off in besson's the professional ) ; a priest ( ian holm ) ; and a mysterious creature named leeloo ( milla jovovich ) . 
+all of the pieces come together in a tidy and somewhat underwhelming--and unsurprising--fashion , but there is no denying that this basic story holds some intrinsic interest . 
+what remains interesting and exciting , however , after brief glimpses is the fascinating world besson has created with production designer dan weil , director of photography thierry arbogast , visual effects supervisor mark stetson , and the crew at digital domain . 
+the look is absolutely mesmerizing right from the opening moments to the last . 
+the frenzied cityscape of new york , with its vibrant day-glo colors , tall buildings penetrating high into the clouds , and the swarm of cars , cabs , and other vehicles flying through labyrinthian skyways , is absolutely breathtaking to behold , especially in a wild car chase sequence early on in the film . 
+but it would not have been a completely captivating vision if the people inhabiting the settings weren't equally as interesting , and are they ever . 
+in addition to the exotic menagerie of alien creatures that populate this world , from bulky robots to dog-like mangalores , the humans are outfitted in costumes by eccentric designer jean-paul gaulthier , best known for creating madonna's pointy bustier get-up in her blonde ambition tour . 
+gaulthier's outlandish creations , such as a number worn by leeloo made entirely out of white straps , feel more at home in besson's futuristic vision than on any fashion runway in the world ; they add to the sense of otherworldliness about the film . 
+while besson's bold vision is the biggest virtue of the film , it also could be its biggest obstacle to reaching a mass audience . 
+for all its imagination , certain things about the film may be a bit too quirky and bizarre . 
+i really do not know what middle america will make of the most outrageous character of the film , ruby rhod ( chris tucker ) , a flamboyant disc jockey who makes dennis rodman look conservative--he makes a raucous entrance dressed in an animal print dress , sporting a blonde hairdo in the shape of a hair dryer , speaking in high pitches at rapid fire speed . 
+at first this character's hyper energy is funny , but the act wears out its welcome very quickly . 
+not irritating , but just as strange , is a musical number by blue-skinned alien chanteuse diva ( maiwenn lebesco ) , who sings--and dances--an aria that is an unlikely blend of classical opera and techno . 
+the tune , as with the entirety of longtime besson collaborator eric serra's innovative score , is haunting , but it is also completely jarring . 
+then there are the campy touches of humor besson and co-scripter robert mark kamen sprinkle throughout , which too often are silly and forced ; a comic sexual encounter between ruby rhod and a flight attendant is highly distracting and not very funny , to boot . 
+the story's weakness shines through in the climax and conclusion of the fifth element . 
+while still visually and aurally spectacular , the events detailed are not as exciting nor powerful as they should be . 
+the big , serious dramatic climax was met with more than a few snickers , and it ambitiously strives for a profundity which the film had not even begun to work toward . 
+as such , at the end there is a sense that there was something bigger at work here , that there was still more left to be said about this story and these characters . 
+this suspicion was confirmed by besson himself , who told me in the lobby following the screening ( imagine that , the filmmaker watching the film with the " enemy " --the critics ) that what had made it to the screen was really just the first half of the lengthy original fifth element screenplay and that the second half--now titled mr . shadow--is still waiting to be made . 
+still , despite the story problems , the fifth element is an artistic triumph for luc besson ; rarely does a filmmaker's original vision come to the screen in all its audacious , undiluted glory . 
+it is a fascinating example of how of one artist's fervid imagination can transport an audience into an intoxicating fantasy world generally seen only in dreams . 
+
+
+pos neg
+not since oliver stone's natural born killers has there been a movie this incendiary , and not since david cronenberg has a so-called mainstream director been this willing to repeatedly tiptoe the fine line between pointed social commentary and outright social irresponsibility . 
+while fincher's films have never suffered from a lack of shock value ( his major character killings in both alien 3 and seven are fine examples ) , fight club marks the distillation of his pitch-black comedic sensibility ( see 1997's the game ) into something like a definitive statement . 
+jack ( norton , acting as both narrator and protagonist ) is your typical cubicle clone , whose disillusionment is amplified by a seemingly incurable insomnia . 
+on the offhand advice of a doctor , he sits in on group-therapy sessions for everything from blood parasites to testicular cancer . 
+here he meets bob ( marvin lee aday , aka meat loaf ) , a cancer-emasculated eunuch with profound gynecomastia . 
+strangely , the release he finds while sobbing on bob's breasts allows him to sleep at night , at least until a fellow group-therapy " tourist " named marla singer ( carter ) comes along to ruin things for him , forcing a grudging compromise that recalls monty python in its dark hilarity . 
+later , he meets tyler durden ( pitt ) , a soap salesman with a decidedly subversive outlook on life . 
+one night , after his ikea- furnished condo explodes ( don't ask-- you'll just have to see the movie , awright ? ) , he is goaded by tyler into a fight , and damned if it doesn't feel good . 
+it is pure , raw existence , a brief moment of clarity and purpose that makes his dreary workaday life pale in comparison . 
+he moves into tyler's squalid abandoned mansion , and they form the titular organization , an underground therapy group where men bond with bare-knuckle savagery and very few rules , the first two of which are " don't talk about fight club . " 
+armed with charisma and an attractive anti-corporate philosophy , tyler assumes leadership of the burgeoning membership of white-collar slaves and dead-end mcemployees . 
+resentment creeps into jack's heart , made worse by the fact that tyler is also regularly and noisily boffing the hated marla . 
+funded by a frivolous lawsuit , tyler begins molding his devotees into an army dedicated to mischief and mayhem . 
+their initially juvenile pranks ( like pissing in food and putting spike belts on roads ) quickly evolve into something more like sedition , and jack fears that things have gone sour . 
+it is after this point , when you are plenty uncomfortable and wondering just how far fincher will go to say something original , that the film uncorks a disappointing plot twist . 
+it is so contrived-- and so conventional compared to what precedes it-- that everything which follows ( including the ending ) becomes far less interesting . 
+it's a major ( though not fatal ) flaw , and for a director as notoriously unpredictable as fincher , it feels like a cop-out . 
+fight club is going to be misconstrued by a great many people . 
+in the early going , it has a downright dangerous feel ; it seems to be saying that violence and civil disobedience are good for the soul , and this is undoubtedly the message that a few moronic punks are going to take from it . 
+i'll be mightily surprised if imitation fight clubs don't spring up here and there , and i'll be even more amazed if fincher isn't vilified for it by the same humorless witch-hunters that are currently after oliver stone . 
+they needn't bother , because fight club is less a message movie than fincher's elaborate attempt at a joke . 
+tyler durden , for all his dionysian allure , is really nothing more than the logical ( and far less hypocritical ) extrapolation of all those self-help gurus who constantly show up on oprah to preach their me-first gospel of self-actualization . 
+in this context , the joke works , but like the latest columbine joke , some people will get it and enjoy a good laugh , and others won't . 
+hopefully , though , their silly moral outrage won't spoil the joke for the rest of us . 
+
+
+pos neg
+the sheer horrific audacity of the nazi plan to exterminate the jews of europe is almost incomprehensible . 
+people may make documentaries about it for another hundred years and still not understand the organized , methodical hatred . 
+five concentration camp survivors from the last days of world war ii tell their stories in the last days , the first documentary from steven spielberg's survivors of the shoah visual history foundation . 
+the five interviewees are linked by their hungarian ancestry . 
+as the introduction explains , even as germany started to lose the war , the nazis stepped up their extermination of the jews in europe . 
+in 1944 , hungary had the last big population of jews within germany's reach , and they became the last target of hitler's " final solution . " 
+each of the five tells his or her story . 
+their stories are intercut chronologically , starting from normal life in pre-war hungary . 
+they recall the nazi invasion of hungary , being sent to " work " camps and their realization that they were actually in death camps . 
+they recall their horrible , precarious lives in auschwitz and buchenwald ; the deaths of their family and friends ; their loss of hope . 
+each recalls his or her unfathomable , eventual liberation . 
+and finally , the last days shows their cathartic , pained , modern-day return to their old homes and the camps . 
+needless to say , their stories are horrifying , amazing , and emotionally draining . 
+by themselves , the stories would be forceful testaments , but by cutting them in parallel , their impact is multiplied by five . 
+the last days is a talking-heads style documentary -- it's mostly pictures of people telling their stories , intercut with period photographs and newsreel footage . 
+in this kind of movie it's almost impossible to get archival pictures from the same time and place being discussed on-screen , but director james moll made a better effort than most at finding specific , or at least relevant , images to go with his subjects' narration . 
+the liner notes ( one of the many nice features of this dvd ) indicate that there is some never-before-seen historical footage in the last days . 
+it's not clear which scene it is . 
+it could be one of two that i hadn't seen before , both powerful . 
+one is rare color footage , shot by an american , of piles of victims in cattle cars . 
+there is something jarring , something unsettling about seeing the pictures in color , when so much of the footage from world war ii is in black and white . 
+another segment shows walking skeletons ; survivors who are so starved that they hardly look human anymore . 
+there has been a glut of holocaust movies and i was skeptical that a new documentary would have anything new to say . 
+but by focusing on hungarian jews during the last days of the war , moll told a specific part of the story in a new way , in greater detail . 
+and i'm glad he did because his careful filmmaking stands up well compared to other movies on the same subject . 
+the transfer to dvd is rich and beautiful . 
+x-mozilla-status : 0009f words for a holocaust documentary , but some of the interviews take place in europe in late spring , when skies are blue and trees are green . 
+also , the movie was shot on 35mm film ( and not video ! ) , 
+so the richness and detail are impeccable . 
+the dvd's features are plentiful and well-chosen . 
+there is a theatrical trailer for the movie , which is a great introduction to the subject matter . 
+there are about fifty still photos , both from the production crew and from the private collections of the survivors . 
+also , the disc has two complete versions of the movie ( widescreen and full screen ) , both on the same side . 
+one of the more interesting dvd features is an outtake segment for each of the survivors ( plus one for the crew ) . 
+you'd think outtakes would be inappropriate in a holocaust documentary , but they're not bloopers . 
+instead , they are solid , moving segments that were probably cut from the film only for length . 
+one of them continues a confrontation that was only touched on lightly in the film . 
+renee firestone ( one of the five ) spoke on camera with dr . hans m ? nch , a german doctor who ran the medical clinic at auschwitz . 
+firestone was aggressive , questioning the doctor about what his children thought . 
+the doctor was evasive and clearly uncomfortable . 
+another of the outtakes showed bill basch saying a prayer for his dead friends at auschwitz . 
+he ends his prayer by saying " . . . forgive me for surviving . " 
+it's ambitious to shoot a documentary on 35mm film . 
+it's ambitious to make it on a subject that has saturated cable , television , and movies . 
+it's ambitious to make it 54 years after the events it covers . 
+but the last days handles all these potential obstacles very well . 
+it's only fitting that the dvd , with its wealth of interesting and relevant features , would also be ambitious and successful . 
+
+
+neg pos
+edward zwick's " the siege " raises more questions than it can convincingly answer or even clearly articulate . 
+its subject is the rising threat of terrorism in american cities . 
+denzel washington is anthony " hub " hubbard , who runs the fbi's anti-terrorism task force in new york . 
+his investigation into arab terrorist cells intensifies when suicide bombers take out a busload of people . 
+hub focuses on a mysterious cia operative ( annette bening ) , whose goes by both " elise " and " sharon . " 
+as the terrorist attacks continue and the body count rises , the question of martial law is raised . 
+enter general devereaux ( bruce willis ) , who opposes martial law at first but who , as soon as the president decides to send in the army , begins herding arab immigrants into a prison camp and attacking every link that hub uncovers in the terrorist chain . 
+hub listens as devereaux tortures and murders a suspect . 
+the future zwick and screenwriter lawrence wright offer is all too possible . 
+what would happen , they ask , if terrorism became as much a fact of daily life in new york as it is in cities like beirut and belfast ? 
+what would happen to our civil liberties if soldiers patrol our streets with machine guns ? 
+these questions " the siege " answers in realistic detail . 
+it implies tougher ones , though : what can be done to combat terrorism without sacrificing justice and freedom ? 
+if we encourage terrorism abroad ( from bening's character we discover that the cia trained the bombers ) , will it inevitably come back to us ? 
+ " siege " avoids the tougher questions by endowing its hero , hub , with a uncompromising sense of clear right and wrong . 
+this comforting fantasy of sir galahad confronting the evils of the modern world is an escape from the thought-provoking issues the movie raises . 
+still , zwick deserves credit for at least addressing the issue with as much realism as he does where so many movies ( willis' " die hard " series , for example ) offer only a comic-book view on terrorism . 
+
+
+pos neg
+martin scorsese's films used to intimidate me . 
+because of his reputation , i felt obligated to appreciate them as deep film art rather than as great flicks . 
+as much as i enjoyed them , i usually felt like i missed something . 
+i learned from scorsese's casino that whatever techniques he uses are merely there to enhance the story . 
+no mystical interpretation is required to appreciate his movies . 
+for example , in casino he uses subtitles when robert deniro and joe pesci are using code words with each other . 
+there was no meaning more exotic than that subtitles were the most succinct way for him to tell the audience what was really going on . 
+or toward the end , when he uses three quick dissolves to compress a scene of a car backing away from a building . 
+again , the simple , mundane explanation is that it helped the pacing . 
+i don't mean to say that his techniques are not creative or good-looking . 
+but he simply uses the best tool for the job . 
+it shouldn't have surprised me , then , that kundun , a film about a mystical religion , actually turned out to be quite straightforward . 
+the movie follows the life of the 14th dalai lama , the spiritual and political leader of tibet . 
+the movie's title is another name for the dalai lama which means " ocean of wisdom . " 
+his story is told in strict chronological order and there are only a few cinematic visions to embellish the literal story . 
+ ( one of which makes an interesting statement : pay attention to the film's opening shot and watch where it is repeated . ) 
+we first glimpse the dalai lama when he is two years old . 
+his curiosity and self-assuredness capture the attention of a monk wandering in search of the new lama . 
+a test is arranged to see if this boy really is the reincarnation of the 13 dalai lamas who have gone before . 
+several items belonging to the previous dalai lama are laid before the boy alongside some other items . 
+the child is asked if he recognizes any of the items as his own . 
+the boy picks correctly , proving that he is the new , and the old , dalai lama . 
+scorsese and long-time editor thelma schoonmaker were kind enough to allow the possibility that the child was taking his cues from the monk . 
+before selecting an item , he would look at the monk , perhaps for some sort of confirmation . 
+sometimes he picked right the first time , and sometimes he made a second choice . 
+either way , whether through reincarnation or quick human perception , the tibetans were assured of choosing a boy who could be a wise , perceptive leader . 
+>from this point on , the boy is raised as the reincarnation of the lama's spirit and the future leader of a nation . 
+it is a great weight to put on the mind of a child . 
+in the u . s . it might be grounds for a call to social services . 
+but the young lama accepts his destiny without any apparent emotional damage . 
+neither the great power nor the awesome responsibility keeps him from becoming a genuinely likeable , well-rounded person . 
+certain patterns take shape over the years . 
+for example , the dalai lama is fascinated by technology . 
+radios , clocks , and telescopes are some of his favorite toys . 
+when he is old enough to accept his leadership , he makes plans to modernize isolated tibet . 
+he also has a soft spot for creatures who are suffering or in pain , including herd animals . 
+it's nearly a running gag that he will buy sheep to keep them from being herded to slaughter . 
+but the most ominous constant throughout his life is the presence and threat of tibet's gigantic neighbor , china . 
+tibet and its leaders prove correct in fearing china , as , first the propaganda , then the political pressure , and finally the armies , come across their common border . 
+the chinese invasion is so successful that the lama's life is in danger if he stays . 
+the movie ends when , after much agonizing , the dalai lama leaves tibet for india . 
+the story doesn't lead up to a cinematic climax as strongly as most feature films do . 
+it just doesn't fit that mold . 
+if it were forced into such a shape it would have been a completely different movie ( perhaps more like seven years in tibet , which is good in its own right ) . 
+the pacing of kundun is more calm and level than that . 
+the structure of the film is made to fit the characters and events , not vice-versa . 
+perhaps because the pace is slower , we have more time to notice the beautiful art , vestments , and architecture of tibet . 
+a mandala , ( tibetan sand painting ) with beautiful , vibrant colors is shown throughout the movie . 
+the robes and hats of state are bright red and gold . 
+the bricks are a rich reddish brown , not unlike the skin tone of the tibetans . 
+even the touchstone pictures logo before the movie ( which is usually light blue ) is the red and gold of tibet . 
+philip glass composed the music for kundun , and he was the perfect choice . 
+for those who don't know of glass , his music is like a tibetan mandala . 
+his building blocks are lots of small notes , tiny grains of music , which are first grouped , then repeated in patterns . 
+these patterns create interesting textures which are themselves part of a larger composition . 
+people won't be flocking to kundun for it's great ending , or talking about its outstanding plot , but it does have a lot to offer : an interesting lifetime , exotic sights , rich cinematography , and innovative music . 
+it gives interesting insight into tibetan buddhism and takes a warm look at the dalai lama as a person . 
+on top of it all is the cinematic mastery of martin scorsese , who gives the film a strong , beautiful , consistent look . 
+
+
+pos neg
+first and foremost i think this movie comes to grief at the hands of the pg rating it's been given . 
+for those of us who haven't read the james lee burke novel that heaven's prisoners is based on , do not rabidly go out and buy tickets to movies featuring the combined talents of alec baldwin and eric roberts , feel vaguely depressed by the notion of swamps , gangsters with louisiana accents , plots , sub-plots , more plots , and well , really just want to see teri hatcher naked , this is one movie you're going to worry the price of admission over . 
+hopeful still ? 
+well , let me share my moment of sheer panic , and then the cold enervation of the big let-down when a semi-robed hatcher purrs to alec baldwin , " what do you think of my butterfly ? " . 
+butterfly ? , 
+i asked myself , what butterfly ? ! 
+and then it hit me . . . 
+the scene had been snipped ! 
+damn you , godless pg rating , show us her butterfly ! ! 
+we want to see the goddamn butterfly ! ! ! 
+so . . . 
+no naked teri hatcher . 
+forget about that . 
+okay ? 
+now . . . 
+heaven's prisoners is about ex-alchoholic ex-cop dave robicheaux ( alec baldwin ) who's trying to discover life anew running a bait shop and boat hire business with his loving , down-to-earth wife annie ( kelly lynch ) . 
+everything dull , but hunky dory until a plane carrying illegal immigrants crashes almost ontop of the couple while they're on their boat . 
+the plane nosedives into the water and sinks , but from its wreckage robicheaux rescues a little pixie-faced salvadoran girl whom he and his wife immediately decide to adopt . 
+what they don't realise is that the plane's pilot was also a drug dealer , and that the plane had been sabotaged by the latter's erstwhile colleagues . 
+when robicheaux discovers this , he predictably , against the advice of his wife , a well-meaning dea agent , and two gangsters who rough him up , begins 'poking his nose where it don't belong' , we know that the man deserves all the misery he's going to get . 
+the question now is whether or not you want to be dragged along for the ride through a tedious , meandering yet utterly suspenseless plot with an unlovable hero as your guide . 
+as dave robicheaux , alec baldwin is fat . . . 
+no seriously , this is not the svelte , thinking man's hero of the hunt for red october , it is an out-of-shape guy who doesn't look too good in a roof-top chasing scene . 
+he's also unconvincing in the movie's dramatic moments , acting with what as far as i can tell is a steven segal-like economy of expression . 
+three-quarters of the way through the show , while you're probably waiting for the next scene in a bar where robicheaux contemplates succumbing to the temptation of the whiskey bottle , getting drunk and beating up someone or getting beaten up , you'll want to beat on him a little yourself . 
+on the other hand , mary stuart masterson ( some kind of wonderful , fried green tomatoes , benny & joon ) cast as a down-and-out stripper who has her fingers broken is quite a breath of fresh air , with just the right mix of cynicism , warmth , insecurity and humour to be the movie's only endearing character . 
+eric roberts as bubba rocque , always believable as the woman-abusing bad guy who knows how to box ( see final analysis , coincidentally also directed by phil joanou ) is believable here as the woman-abusing bad guy who knows how to box . 
+and lest we forget teri hatcher's role in all this , this being her rather well-publicised paid vacation from playing lois lane on tv's " adventures of lois & clark " . . . 
+she is totally ridiculous as rocque's manipulative and seductive cajun wife , coming across as devious as a mildly disgruntled au pair who's trying to get back at an employer who hasn't been giving her enough days off . 
+it's probably safe to say that her day job beckons . 
+and at the end of our day , none of this is really worth 2 hrs and 12 minutes of our personal misery . 
+the flying inkpot's rating system : * wait for the video . 
+ * * a little creaky , but still better than staying at home with gotcha ! 
+ * * * pretty good , bring a friend . 
+ * * * * amazing , potent stuff . 
+ * * * * * perfection . 
+see it twice . 
+
+
+neg pos
+susan granger's review of " the watcher " ( universal ) 
+just what we need : another lurid , trashy serial killer saga . 
+this time , keanu reeves plays an elusive homicidal maniac who engages in a gruesome ticking-clock cat-and-mouse game with james spader , a burnt-out fbi agent who has suffered a traumatic nervous breakdown after too many years on the job with the lapd . 
+to taunt spader , who has relocated to chicago , reeves packs up his trusty piano wire and moves too . 
+before long , he starts mailing photographs of the lonely , unsuspecting young women who are his intended windy city victims , challenging spader , along with the chicago police department , to stop him within 24 hours before he strikes again . 
+in the midst of this murderous frenzy , there's spader's psychologist , played by marisa tomei , who is even less convincing as a medical professional than jennifer lopez in " the cell . " 
+writers david elliot , clay ayers and darcy meyers , along with first-time director joe charbanic ( helmer of music videos for reeves' band dogstar ) , dwell on the warped thrill of the methodology and the chase , revealing , early on , exactly whodunit since the killer says he and the cop " need each other to give meaning to our lives . " 
+plus , as reeves explains , " we're all stacked right on top of each other , but we don't notice each other any more . " 
+after that , it's all sound effects and tricky camera-work , along with a muddled , discordant soundtrack . 
+james spader's acting technique can be described as 'wooden deadpan' while keanu reeves maintains his perpetually monotone 'dude' persona which sometimes works , sometimes doesn't . 
+chris ellis , as spader's self-important colleague , is the only cast member who manages to be convincing . 
+on the granger movie gauge of 1 to 10 , " the watcher " is an appallingly awful , amateurish 2 . the real torture is watching it . 
+
+
+pos neg
+star wars : ? episode i -- the phantom menace ( 1999 ) 
+director : george lucas cast : liam neeson , ewan mcgregor , natalie portman , jake lloyd , ian mcdiarmid , samuel l . jackson , oliver ford davies , terence stamp , pernilla august , frank oz , ahmed best , kenny baker , anthony daniels screenplay : george lucas producers : rick mccallum runtime : 131 min . 
+us distribution : 20th century fox rated pg : mild violence , thematic elements 
+copyright 1999 nathaniel r . atcheson 
+a fellow critic once stated his belief that a reviewer should not speak of himself in his own review . 
+i've attempted to obey this rule in recent months , but to do so would be impossible in this case . 
+the fact is , nearly every person who goes to see the phantom menace brings baggage in with them . 
+the original star wars trilogy means so much to so many people . 
+for me , they calibrated my creativity as a child ; they are masterful , original works of art that mix moving stories with what were astonishing special effects at the time ( and they still hold up pretty darn well ) . 
+i am too young to have seen star wars in the theater during its original release , but that doesn't make me any less dedicated to it . 
+on the contrary , the star wars trilogy -- and the empire strikes back in particular -- are three items on a very short list of why i love movies . 
+when i heard that george lucas would be making the first trilogy in the nine-film series , i got exited . 
+when i first saw screenshots from the film , well over a year ago , i embarked on a year-long drool of anticipation . 
+and when the first previews were released last thanksgiving , i was ready to see the film . 
+but then there was the hype , the insane marketing campaign , and lucasfilm's secretive snobbery over the picture . 
+in the last weeks before the picture opened , while multitudes of fans waited outside of theaters and stood in the boiling sun days in advance just to be the first ones in the theater , i was tired of hearing about it . 
+i was tired of seeing cardboard cut-outs of the characters whenever i went to kfc or taco bell . 
+i just wanted to see the movie . 
+reader , do not misunderstand . 
+i did not have an anti-hype reaction . 
+the hype was unavoidable . 
+i understand and accept the hype -- it's just what happens when the prequel to the most widely beloved films of all time get released . 
+five minutes into the phantom menace , i knew there was a problem . 
+ " who are these jedi knights ? " 
+i asked . 
+ " why are they churning out stale dialogue with machine-gun rapidity ? " 
+ " why aren't these characters being developed before their adventures ? " 
+ " why is there a special effects shot in nearly every frame of the entire film ? " 
+these were just some of my questions early on . 
+later , i asked , " where's the magic of the first three films ? " 
+and " why am i looking at my watch every fifteen minutes ? ' 
+by the end of the film , i was tired , maddened , and depressed . 
+george lucas has funneled his own wonderful movies into a pointless , mindless , summer blockbuster . 
+the phantom menace is no star wars film . 
+take away the title and the jedi talk and the force , and you're left with what is easily one of the most vacuous special effects movies of all time . 
+it's an embarrassment . 
+i looked desperately for a scene in which a character is explored , or a new theme is examined , or a special effects shot isn't used . 
+there are a few of each , but they're all token attempts . 
+the fact is , george lucas has created what is simultaneously an abysmally bad excuse for a movie and a pretty good showcase for digital effects . 
+this is not what i wanted to see . 
+i didn't want to leave the phantom menace with a headache and a bitter taste in my mouth , but i did . 
+the story centers mostly around qui-gon jinn ( liam neeson , looking lost and confused ) and his apprentice , obi-wan kenobi ( ewan mcgregor , who scarcely has a line in the film ) and their attempts to liberate the people of the planet naboo . 
+naboo is the victim of a bureaucratic war with the trade federation ; their contact on naboo is queen amidala ( natalie portman ) , the teenage ruler who truly cares for her people . 
+after picking up jar jar binks ( a completely cgi character , voiced by ahmed best ) , they head to tatooine , where they meet young anakin skywalker ( jake lloyd ) and his mother ( pernilla august ) . 
+qui-gon knows that the force is strong with young anakin , and so the jedi knights take the boy with them on their journeys . 
+the bad guys are darth maul and darth sidious , neither of whom have enough lines to register as characters . 
+there isn't anything particularly wrong with this story when looking at it in synopsis form . 
+the way lucas has handled it , however , it unsatisfactory . 
+first of all , we don't learn one single thing about qui-gon jinn . 
+not one thing . 
+what was his life like before this film ? 
+well , i imagine he didn't have one . 
+that's why he feels like a plot device . 
+this probably explains why neeson looks so hopeless in the role , and why he's recently retired from film ( i don't blame him , honestly ) . 
+obi-wan , a character i was really looking forward to learning more about , is even less interesting . 
+mcgregor has just a few lines , so anyone hoping to see the engaging young actor in a great performance is urged to look elsewhere . 
+since these two men are the focus of the phantom menace , lucas has served us a big emotional void as the centerpiece of his movie . 
+things start to pick up when our characters reach tatooine ; young anakin is perhaps the only truly fleshed-out character in the film , and lloyd does a thoughtful job with the role . 
+i was also hugely impressed with the sand speeder scene ; rarely is an action sequence so fast and so exciting . 
+and when anakin says goodbye to his mother , i found it moving . 
+also fairly good is portman , and she manages to give a little depth to a character where no depth has been written . 
+jar jar binks is one of the most annoying characters i've ever had to endure , but he's more interesting than most of the humans . 
+as soon as the relatively-brief segment on tatooine is over , it's back to the mind-numbing special effects and depthless action scenes . 
+i've seen many movies that qualify as " special effects extravaganzas , " but the phantom menace is the first one i've seen that had me sick of the special effects fifteen minutes into the movie . 
+the reason is obvious : george lucas has no restraint . 
+i can't say that i didn't find the effects original , because i did -- the final battle between darth maul , obi-wan , and qui-gon is visually exceptional , as is most of the film . 
+but i also found the effects deadening and tiresome . 
+my breaking point was near the end of the picture , as anakin is getting questioned by yoda and the other jedi masters ; in the background , we see hundreds of digital spaceships flying around through a digital sky , and i wanted that to go away . 
+can't we have one stinking scene that isn't bursting at the seems with a special effects shot ? 
+i got so sick of looking at the cgi characters and spaceships and planets and backgrounds that i really just wanted to go outside and look at a physical landscape for a few hours . 
+and then there's the question of magic . 
+what was lost in the sixteen years between the phantom menace and return of the jedi ? 
+i have a feeling that lucas was so focused on how his movie looked that he forgot entirely the way it should feel . 
+john williams' familiar score is no help , nor is lucas' direction . 
+i think it comes right down to characters : there are none here . 
+i longed for the magnetic presence of han , luke , and leia , but i got no such thing . 
+and what about the ridiculous expectations ? 
+mine weren't that high ; i simply wanted a film that showed me the roots of the films that i grew up loving , a story that had a few characters and a few great special effects . 
+instead , i got two hours and fifteen minutes of a lifeless and imaginative computer graphics show . 
+i don't hate the phantom menace as much as i resent it : i'd like to forget that it exists , and yet i can't . 
+it's here to stay . 
+i can only hope that episodes ii and iii have something of substance in them , because if they don't , then lucas will have pulled off the impossible task of destroying his own indestructible series . 
+
+
+pos neg
+if chris farley had strapped some fake mutton-chop sideburns to each side of his head , spoken with a thick irish accent , and tried his damnedest to play it straight , he wouldn't have been nearly as funny as brendan gleeson in " i went down . " 
+gleeson , who's not dissimilar to the late " saturday night live " alumnus in terms of physical attributes , plays a character named bunny kelly in this delightful irish film . 
+bunny is sent to county cork to " retrieve " one frank grogan for an irish gangster called tom french ( well dressed like all good gangsters should be and menacingly portrayed by tony doyle ) . 
+bunny is to accompany git hynes ( peter mcdonald ) , recently released from prison and obligated to tom for disfiguring one of his cronies . 
+that tom french is a mean bollocks . 
+he wants frank back . 
+and a small matter of some ? 25 , 000 that tom's wife was supposed to have given to frank . 
+for this he won't break anyone's thumbs . 
+maybe . 
+inventively and engagingly written by conor mcpherson and directed by paddy breathnach , " i went down " follows the trials and tribulations of git and bunny as they knock around peat bogs , dimly-lit pubs , and seedy hostelries trying to stay alive and out of trouble . 
+mcdonald is a newcomer and a promising one at that , but gleeson has been in over a dozen movies , most recently as father bubbles in another film with a very irish accent on hilarity , " the butcher boy . " 
+even if you can't comprehend half of what they're saying , gleeson and mcdonald together make " i went down " a trip worth taking . 
+the film is in many ways reminiscent of another " little " independent feature , 1991's " highway 61 . " 
+that film , too , was a road movie and it shares the same kind of wry dialogue and humorous situations as mcpherson's tale : whimsical observations on life , carefully-crafted vignettes , deadpan conversational asides , and scenes that'll make you laugh out loud . 
+witness the episode in which our good-natured protagonists bind frank ( played by peter caffrey ) to a hotel bed , leaving him with only the tv remote for company . 
+that sequence alone is on a par with satan locking himself out of his car in " highway 61 . " 
+what's also charming about " i went down " is how the relationship between buddy and git develops . 
+their trip becomes an education for both of them , but the way it's handled is neither sappy nor labored . 
+the only thing in the film which approaches clunkiness is the culminating explanation , via flashbacks , of the relationship between frank and tom . 
+it's a little too hollywood , and what makes " i went down " so refreshing is the fact that it rarely panders to traditional conventions of hollywood gangster movies . 
+sure it's gritty--make that grubby--but it's also pretty goofy . 
+although " i went down " emphasizes the comedic elements of dis-organized crime , there are a couple of fairly brutal scenes in keeping with the subject matter . 
+don't let these deter you , though ; " i went down " is a little gem . 
+it's only playing at one philadelphia-area theater--and i suspect it won't be there for long--so catch it while you can . 
+
+
+neg pos
+after being hypnotized , a man believes there is a ghost in his house . 
+the review 
+two low-key summer horror films have become surprise financial successes this year : the blair witch project and the sixth sense . 
+each has made well over $100 million in north america , based on a combination of strong word of mouth and clever advertising . 
+if a film's box office take were based primarily on its quality , stir of echoes would join blair and sense in grossing far more money than expected , for it is as scary , if not scarier than the other two . 
+writer/director david koepp has given artisan entertainment , the folks who distributed blair witch a second creepy hit . 
+the story gets going after tom witzky ( bacon ) , an average blue-collar dad , gets hypnotized by his wife maggie's ( erbe ) sister lisa ( douglas ) at a party . 
+while the hypnosis goes as expected to the party-goers , it triggers something in tom's head . 
+things begin to change around him ( blinking red lights let off a strange hum , for example ) , and he fights to stay in control of his own senses . 
+where these experiences take tom , maggie and their son jake ( cope ) , who tom thinks might have some answers , is down a dark path that will scare and disturb you . 
+david koepp keeps the action localized ; the majority of the action takes place at tom's house or just down the street . 
+by keeping things at home , koepp is able to proceed without having to resort to any clumsy segues ( montages of driving down roads as we move from one city to another etc . ) . 
+unfortunately , the dread and spookiness of stir of echoes are frequently interrupted by moments of levity . 
+humour can take the tension away from a scene faster than any shoddy special effect or poor acting . 
+several tense moments become completely diffused by a few misplaced jokes . 
+also , there are a couple of plot developments that are left unresolved , though to mention them would be to give too much away . 
+kevin bacon handles the duel task of playing an everyman and a man losing his sanity admirably . 
+his total lack of understanding of what is happening to him is believable , as are the reactions from his wife maggie . 
+kathryn erbe is given a role meatier and better written than that of most " wife who can no longer handle her husband " parts . 
+while it is still a supporting role , her maggie is moving as she watches both her husband and her son enter what she calls " a private club that i'm not invited to " , where they whisper about things all day long . 
+as jake , zachary cope equals the performance of haley joel osment in the sixth sense , but gets less screen time . 
+both children manage the same trick , making the audience creeped out by their apparent acceptance of the way things are . 
+fans of blair and sixth sense will almost surely love stir of echoes . 
+it combines the dread of blair , a creepy closed-in feel thanks to cinematographer fred murphy and great performances by the whole cast , specifically bacon , to give the fall its first genuine scary film . 
+if only they had let up on the unneeded funny bits and tweaked the plot a bit more , this could have been one of the year's best . 
+
+
+neg pos
+there's a good , and timely , story trapped deep within the excess of murder in the first , a new movie about the abuses of our prison system . 
+with a country wrapped up in feverish debate over the crime issue and the rights of the accused and the incarcerated in jeopardy , this expose would offer something rare to recent american movies--a point of view . 
+but director marc rocco makes it clear from the beginning that pretentious , often nauseating , camera movements and slick , mtv- style lighting and editing are far more important . 
+there's not a moment in the picture where he surrenders technique for pure storytelling . 
+and everything suffers . 
+christian slater and kevin bacon star as defense attorney and alcatraz inmate , respectively . 
+after spending an unprecedented amount of time in an isolated cell for attempting to escape , bacon murders another prisoner and faces trial . 
+his young lawyer ( slater ) is fresh out of law school but determined to " put alcatraz on trial " for the abuses of it warden ( gary oldman ) . 
+the result is the usual courtroom theatrics- imagine a stanley kramer production shot by hyperactive film school students . 
+there's very little to praise here outside of kevin bacon's earnest overacting and the appropriate story . 
+there's a lot of overacting from everyone--you know you're in trouble right away when r . lee ermey ( the drill sergeant in full metal jacket ) is cast as a judge , the center of reason and moderation . 
+slater has never been convincing and certainly isn't here and oldman is on a bad streak of hammy performances . 
+but the worst feeling you get while watching murder in the first is that the man behind the camera could care less about telling a good story . 
+there are long exchanges of dialogue where the camera is not even moving near the characters , let alone with them . 
+how frustrating it must be for actors to work under these conditions . 
+if there's anything that has alway distinguished american films over the rest of the world , it is our ability to tell a good story . 
+have we forgotten ? 
+
+
+neg pos
+warning : if you actually wish to see the film , stop reading this and see it . 
+while i don't blow any plot details , the more you know about a movie , the more disappointing and built up it becomes ( waiting a month to see titanic did the same thing ) . 
+but , in a nutshell , it's a good film . 
+star wars episode i : the phantom menace reviewed by vince yim 
+never having been the biggest star wars fanatic in the world ( i was more into star trek : the next generation ) , it is difficult to relate to the mass fandom surrounding the latest installment , the phantom menace . 
+however , it can't be ignored . 
+endless toys lining the shelves , endless news reports , and a multi-billion dollar advertising campaign makes it all the more difficult . 
+with the level of this hype , one would recall an overhyped disaster from 1998 , godzilla , which definitely failed to live up to expectations . 
+thankfully , the phantom menace does much , much better . 
+while the " first " star wars trilogy told the story of jedi knight luke skywalker , the prequels backpedal to tell the back-story of obi wan kenobi and a young jedi named anakin skywalker ( who would become the father of luke and eventually become darth vader ) . 
+without blowing too much of the story , the phantom menace evolves around a peaceful planet naboo , which is being held hostage by a greedy trade federation , and it's up to two jedi knights ( qui-gon ji , played by liam neeson and obi-wan kenobi , played by ewan mcgreggor ) to free it . 
+the phantom menace has taken a literal beating from various film critics , leaving me to lower my expectations somewhat . 
+common complaints range from lack of characterization , weak narrative , poor direction of actors , the dated style , and too much focus over special effects . 
+still , film critics often apply much historical theory in regards to film criticism , much of which the average film buff does not care for . 
+hence , this film is a lot of fun and definitely an improvement over the previous films ( even with the " improvements " in the special editions ) . 
+there are many memorable sequences throughout the film , ranging from the fast and furious " pod race " sequence ( which is a take on the chariot races in " ben hur " ) and the many fight scenes involving legions of battle droids . 
+utilizing technology that is light years beyond anything made before , special effects and computers are used to create everything from monsters to robots to amazing cityscapes with incredible detail . 
+no matter how many times you watch this film , you will catch something new . 
+the level of humour is a bit higher than the previous films as well , mostly conveyed through the reluctant hero jar jar binks , who belongs to a race known as the gungans . 
+best described as an mr . bean from the planet naboo , he steals the show . 
+unfortunately , being that he is a computer-generated character , tells a bit about the direction of the actors ( although natalie portman as the queen is pretty effective , as is jake lloyd as the young anakin skywalker ) . 
+with star wars mania at an all time high , there is the risk that the film will disappoint ( i myself had my doubts ) , which this film does have a tendency to do at times . 
+there are a few logic problems with the plot , several things are left unchecked , and at times seems to be made only for diehard star wars fans ( although the appearance of the tusken raiders makes for more than a few laughs ) . 
+that , and young anakin skywalker is a really annoying character , coming off as a smarmy , arrogant brat ( with such an attitude , it's no wonder why he turns to the dark side ) . 
+still , it seems that many people , especially critics , are missing the point . 
+the film is some of the most fun 2 and a half hours that you'll blow in your life , which is something i wouldn't mind doing again . 
+while it may not have the psychological impact of an academy award contender , who really cares ? 
+the film is pure fun from beginning to end . 
+and isn't that what really matters ? 
+
+
+neg pos
+i think that saying that the x-files is one of this summer's most anticipated films is safe . 
+for five years , " the x-files " television show has developed a dedicated fan culture , whose rabid devotion to the series rivals that of " star trek " fans . 
+the premise of both the movie and the television series is two fbi agents who investigate the paranormal ; fox mulder ( david duchovny ) is the avid believer whose quest to find the truth about extraterrestrial life borders on the paranoid , and dana scully ( gillian anderson ) is the scientific skeptic trying to find a rational explanation to mulder's flights of fancy . 
+outlining the plot of the x-files movie is virtually impossible , since to be general would result in confusion , yet to be specific would give too much away . 
+nevertheless , i will try . 
+ " the black ooze , " and extraterrestrial , virus-like substance is threatening earth . 
+a " shadow government " is aware of this , but tries to cover-up the alien existence . 
+mulder and scully know " the truth is out there , " and so try to expose both the invasion and the cover-up . 
+there are three central questions i have heard asked about this movie : 1 . 
+will those who don't watch the series be able to understand the movie ? 
+yes . 
+isolated as an individual text , the x-files can stand alone . 
+they have given enough background for anyone , familiar with the show or not , to understand the movie . 
+although some of the secondary characters' histories may confuse the uninitiated , those characters are not essential to the film . 
+this is a major problem : they trot out token secondary characters from the series out for an appearance and then disappear just as quickly . 
+why bring superintendent skinner into the picture in the first place , and then have him sat silently on an fbi internal affairs committee ? 
+why bring in " the lone gunmen , " three computer geek conspiracy theorists , for an even briefer appearance ? 
+these characters are recurrent on the series , and their appearance in the film was met with whoops from the audience ( suggesting their popularity among fans - actually most of the audience could pass for " the lone gunmen " ) . 
+still , then they vanish just as quickly . 
+2 . the television show never gives us any answers . 
+will the movie actually explain some things ? 
+yes . 
+in the x-files we get a fairly complete history of " the black ooze , " what it is and what it wants . 
+we finally get some understanding of the motivations behind the " shadow government . " 
+there are even some subtle tie-ins with contemporary ufo-ology , including the " greys " and the roswell crash of 1947 . 
+3 . is the movie any good ? 
+no . the x-files is a dreadful movie and shows some fundamental problems with writer/creator chris carter's talents and the relationship between cinema and television . 
+first off , the screenplay by series creator chris carter is sloppy and cliched . 
+after approximately forty-five minutes ( the length of a television episode minus the commercials ) , the pace drops to a snail's crawl . 
+not long after that point , when carter attempts to answer some questions we have had about the series , we wish he had not . 
+the explanations are so trite and ridiculous that one would have preferred it had carter not explained quite so much . 
+i am willing to suspend my disbelief a fair bit , but the absurdity carter wants me to swallow was just too much . 
+breaking the suspension of disbelief destroys the movie - and listening to other fans leave the cinema , maybe the series too . 
+the explanations are not only absurd , they are tired and unoriginal . 
+the extraterrestrials breed and gestate like those from the alien series , and their craft looks like a leftover set piece from independence day . 
+note that the alien movies , id4 , and the x-files are all from 20thcentury fox - a studio that is beginning to cannibalize itself i think . 
+the x-files is noteworthy for being the only movie based on a television series to be produced while the series was still running . 
+in comparing the movie and television series certain aspects of the respective media emerge . 
+the avoidance of the series to answer the questions it raised annoyed and frustrated many people . 
+however , i rather liked that about the series . 
+television allows you to impose as much , or as little , meaning on a show as you want . 
+it is the proverbial " blank screen " which we project our minds on . 
+meaning on television is open and ambiguous ; it is the nature of the medium . 
+cinema , on the other hand , is the opposite . 
+it projects onto us the filmmakers mind . 
+we can , in some films , fill the textual gaps ourselves , but that almost never happens in an american film . 
+meaning , in cinema , needs to be self-contained and determined . 
+so , when the x-files made that jump from small to big screen , carter needed to take into consideration the differences in the medium as well . 
+he did not . 
+by making explicit , what the television show left implicit , carter reveals the limits of his creativity and skill . 
+when they say that " fans " make a tv show , it is not far from the truth . 
+on television , fan culture must impose its meanings on the text because there is nothing there . 
+how true that is when we see the " explicit " x-files - there is nothing there . 
+the following was printed in the st . john's express , st . john's , newfoundland , canada . 
+all views are the authors , but copyright is held by robinson-blackmore , 1998 . 
+&nbsp ; 
+movie review by mikel j . koven 
+&nbsp ; i think that saying that the x-files is one of this summer's most anticipated films is safe . &nbsp ; 
+for five years , " the x-files " television show has developed a dedicated fan culture , whose rabid devotion to the series rivals that of " star trek " fans . 
+&nbsp ; the premise of both the movie and the television series is two fbi agents who investigate the paranormal ; fox mulder ( david duchovny ) is the avid believer whose quest to find the truth about extraterrestrial life borders on the paranoid , and dana scully ( gillian anderson ) is the scientific skeptic trying to find a rational explanation to mulder's flights of fancy . 
+&nbsp ; outlining the plot of the x-files movie is virtually impossible , since to be general would result in confusion , yet to be specific would give too much away . &nbsp ; 
+nevertheless , i will try . &nbsp ; 
+ " the black ooze , " and extraterrestrial , virus-like substance is threatening earth . &nbsp ; 
+a " shadow government " is aware of this , but tries to cover-up the alien existence . &nbsp ; 
+mulder and scully know " the truth is out there , " and so try to expose both the invasion and the cover-up . 
+&nbsp ; there are three central questions i have heard asked about this movie : &nbsp ; 1 . &nbsp ; 
+will those who don't watch the series be able to understand the movie ? &nbsp ; 
+yes . &nbsp ; 
+isolated as an individual text , the x-files can stand alone . &nbsp ; 
+they have given enough background for anyone , familiar with the show or not , to understand the movie . &nbsp ; 
+although some of the secondary characters' histories may confuse the uninitiated , those characters are not essential to the film . &nbsp ; 
+this is a major problem : they trot out token secondary characters from the series out for an appearance and then disappear just as quickly . 
+&nbsp ; why bring superintendent skinner into the picture in the first place , and then have him sat silently on an fbi internal affairs committee ? &nbsp ; 
+why bring in " the lone gunmen , " three computer geek conspiracy theorists , for an even briefer appearance ? &nbsp ; 
+these characters are recurrent on the series , and their appearance in the film was met with whoops from the audience ( suggesting their popularity among fans - actually most of the audience could pass for " the lone gunmen " ) . &nbsp ; 
+still , then they vanish just as quickly . 
+&nbsp ; 2 . &nbsp ; 
+the television show never gives us any answers . &nbsp ; 
+will the movie actually explain some things ? &nbsp ; 
+yes . &nbsp ; 
+in the x-files we get a fairly complete history of " the black ooze , " what it is and what it wants . &nbsp ; 
+we finally get some understanding of the motivations behind the " shadow government . " &nbsp ; 
+there are even some subtle tie-ins with contemporary ufo-ology , including the " greys " and the roswell crash of 1947 . 
+&nbsp ; 3 . &nbsp ; 
+is the movie any good ? &nbsp ; 
+no . &nbsp ; the x-files is a dreadful movie and shows some fundamental problems with writer/creator chris carter's talents and the relationship between cinema and television . 
+&nbsp ; first off , the screenplay by series creator chris carter is sloppy and cliched . &nbsp ; 
+after approximately forty-five minutes ( the length of a television episode minus the commercials ) , the pace drops to a snail's crawl . &nbsp ; 
+not long after that point , when carter attempts to answer some questions we have had about the series , we wish he had not . &nbsp ; 
+the explanations are so trite and ridiculous that one would have preferred it had carter not explained quite so much . &nbsp ; 
+i am willing to suspend my disbelief a fair bit , but the absurdity carter wants me to swallow was just too much . &nbsp ; 
+breaking the suspension of disbelief destroys the movie - and listening to other fans leave the cinema , maybe the series too . 
+&nbsp ; the explanations are not only absurd , they are tired and unoriginal . &nbsp ; 
+the extraterrestrials breed and gestate like those from the alien series , and their craft looks like a leftover set piece from independence day . &nbsp ; 
+note that the alien movies , id4 , and the x-files are all from 20thcentury fox - a studio that is beginning to cannibalize itself i think . 
+&nbsp ; the x-files is noteworthy for being the only movie based on a television series to be produced while the series was still running . &nbsp ; 
+in comparing the movie and television series certain aspects of the respective media emerge . 
+&nbsp ; the avoidance of the series to answer the questions it raised annoyed and frustrated many people . &nbsp ; 
+however , i rather liked that about the series . &nbsp ; 
+television allows you to impose as much , or as little , meaning on a show as you want . &nbsp ; 
+it is the proverbial " blank screen " which we project our minds on . &nbsp ; 
+meaning on television is open and ambiguous ; it is the nature of the medium . 
+&nbsp ; cinema , on the other hand , is the opposite . &nbsp ; 
+it projects onto us the filmmakers mind . &nbsp ; 
+we can , in some films , fill the textual gaps ourselves , but that almost never happens in an american film . &nbsp ; 
+meaning , in cinema , needs to be self-contained and determined . 
+&nbsp ; so , when the x-files made that jump from small to big screen , carter needed to take into consideration the differences in the medium as well . &nbsp ; 
+he did not . &nbsp ; 
+by making explicit , what the television show left implicit , carter reveals the limits of his creativity and skill . 
+&nbsp ; when they say that " fans " make a tv show , it is not far from the truth . &nbsp ; 
+on television , fan culture must impose its meanings on the text because there is nothing there . &nbsp ; 
+how true that is when we see the " explicit " x-files - there is nothing there . 
+
+
+neg pos
+kate ( jennifer aniston ) is having some problems . 
+it appears the twenty-eight year old is not happy with her slow progression up the company ladder , and her love life apparently leaves something to be desired . 
+she learns that her problems are related , as the owner of her advertising agency , mr . mercer ( kevin dunn ) , explains to her that her single status does not bode well with the company . 
+her freedom would make her more likely to leave the company , taking clients with her . 
+a solution presents itself in nick ( jay mohr ) , a wedding videographer who kate meets through a coincidence and gets photographed with . 
+kate's boss , darcy ( illeana douglas ) , uses the photograph to fabricate a wedding engagement between kate and nick . 
+kate is at first repulsed by the idea , but after getting immediate positive results , she pursues it . 
+her first task is to convince nick to go along with her plan . 
+the actual plan consists of nick pretending to be her fianc ? . 
+at a dinner with kate's bosses he will provoke a fight and they will break up . 
+she meets nick to propose the plan . 
+he accepts . 
+kate's new status brings unexpected results in other areas . 
+the office bad boy , sam ( kevin bacon ) , who wouldn't give kate the time of day , now does . 
+now that she is engaged , he pursues an affair with her , as doing so would destroy her good girl image , hence sam's sudden interest . 
+things start to fall apart for kate , as it becomes apparent that nick really likes her , and does not wish to break up with her . 
+after some provoking nick does oblige , but problems continue for kate . 
+it appears sam is no longer interested now that she is available . 
+or maybe kate does like nick , but " reconciliation " will force her to admit her lies to her employer . 
+adding to her mess is the constant prying of her mother ( olympia dukakis ) , who wants her to get married and settle down . 
+there is a scene in this movie where jennifer aniston is ( from the waist up ) only wearing a bra . 
+it made me chuckle because it is the only time in the movie when she actually wears one . 
+there is enough cleavage in this movie to satisfy russ meyer . 
+it's like the director said 'well , we know the story is formulaic and the performances aren't that great so , what the heck , let's show jennifer's assets as often and as uncovered as humanly possible to keep the pg rating . " 
+quite frankly it's insulting . 
+i don't think aniston is a competent enough actress to carry a movie . 
+she did a decent enough job in ed burns' " she's the one " because it was a smaller and supporting role , and she just doesn't deliver the goods effectively in this movie . 
+her performance was not convincing . 
+unfortunately , as far as romantic comedies go , this movie adds nothing new to the standard formula for these types of movies . 
+the film is similar to " my best friends wedding " in a sense that the leading female character is actually quite vindictive and due her actions , gets no sympathy from me when things go awry . 
+i didn't care for how quickly kate puts down nick's profession by explaining that videotaping weddings wasn't glamorous enough for her co-workers . 
+at least " my best friends wedding " changed the formula a bit and had a somewhat surprise ending . 
+no such luck with " picture perfect " . 
+every plot occurrence can be spotted a mile away , including a couple that really made no sense . 
+after everything kate had done to prove her loyalty to her company , why would she blindly throw it all away when she should have made sure that nick would even talk to her first , let alone consider a relationship ? 
+was quitting her job a prerequisite to making amends with nick ? 
+throw in the fact that i don't think nick and kate spent enough time together to even warrant that rash of a decision . 
+i believe that kate liked him , but liked him so intensely that she was willing to throw her career away ? 
+i doubt it . 
+and what of the ending scene at a wedding where the entire congregation feels it necessary to stop everything and stare at the couple ? 
+are mass groups of people simultaneously that interested in total strangers ? 
+well , i guess of the congregation consists of movie extras and the strangers are the movies two lead stars , then that would make sense . 
+picture perfect directed by glenn gordon caron 
+kate . . . . . . . . . . . . . . . . . . . . . . . . jennifer aniston nick . . . . . . . . . . . . . . . . . . . . . . . . jay 
+mohr sam . . . . . . . . . . . . . . . . . . . . . . . . kevin 
+bacon mercer . . . . . . . . . . . . . . . . . . . . . kevin 
+dunn darcy . . . . . . . . . . . . . . . . . . . . . . illeana 
+douglas rita . . . . . . . . . . . . . . . . . . . . . . . . olympia 
+dukakis 
+written by randy turgeon , february 26 , 1998 . 
+visit my movie reviews ! 
+www . xtdl . com/~canran 
+
+
+neg pos
+capsule : lesbianism examined in the same hushed and reverential tones reserved for a terminal illness . 
+potentially interesting idea made stagy and boring . 
+claire of the moon is such an impossibly serious and sober movie that i was waiting for someone to sneeze , just to break the ice . 
+it's a perfect example of what my wife calls an s . f . e . 
+movie , where s . f . e . 
+means so f * * * ing earnest . 
+movies like this need wit and brashness to be absorbing . 
+claire is one strained speech after another , written delivered with all of the energy and spontenaity of a dmv clerk . 
+claire takes two women , claire and noel , both writers , and throws them together in the same cabin at a women-only writer's retreat . 
+claire wrights light comedy , while noel is a scholarly authority on porn and sexual behavior . 
+obviously , the two of them are going to have plenty to talk about , and for the entire one hundred and twelve insufferable minutes of this movie , that's all they do : talk . 
+the movie sets up its ( microscopic ) plot with beat-a-dead-horse-into-glue obviousness . 
+the evening talks at the camp are chaired by a motherly type named maggie , a self-professed lesbian , and when noel owns up to also being a lesbian , claire looks like she's been hit with a sockful of wet sand . 
+the movie then quickly degenerates into lots of scenes where noel glances at claire with significance , and claire looks out over the water reflectively . 
+ ( ugh ! ) 
+the most amazing thing about the movie is how people so intelligent can talk so much and yet get so little through their thick heads . 
+all of this , of course , leads up to a scene of complete inevitability : claire and noel , in a scene that should have come an hour earlier , because then the movie ends without even the benefit of reflection about what's just happened . 
+we never get a hint about how any of this has changed anyone , only how they felt about things that didn't even happen yet . 
+the problem with claire . . . 
+is not lesbianism as such , but the leaden way it's handled . 
+why is it that any " serious " ( a better word would be adult or at least thoughtful ) examination of sex in a movie almost always winds up producing a movie that's unwatchably boring ? 
+the way this movie deals with lesbianism , we might as well be watching an overheated docudrama about aids . 
+many other movies have used the same subject in ways that are a thousand times better -- more engaging , more creative , more intellectually and artistically interesting . 
+look at john sayles' lianna , or the interesting and little-seen desert bloom ; both of them have more life and vibrancy than claire . 
+what this movie needed was a good swift kick in the pants . 
+
+
+neg pos
+this movie tries to present itself as the sequel to jan de bont's debut as a director , 1994 surprise hit speed . 
+but the only thing the two movies have in common is sandra bullock as the female lead . 
+annie ( sandra bullock ) is in the wrong place at the wrong time again . 
+she's going on a cruise with her new boy-friend alex ( jason patric ) , and of course it is her ship that is kidnapped by john geiger ( willem dafoe ) who has a bone to pick with the shipping line . 
+they sacked him after he got sick . 
+now he wants the diamonds stored in the ship's safe for compensation . 
+that actually is the whole storyline . 
+speed 2 could do without dialogues . 
+the movie is all about images and remarkable sound . 
+i don't really know why this is called an action movie . 
+except for a few scenes that are vaguely reminiscent of speed this goes along the lines of the desaster movies of the 70ies . 
+first we are introduced to a number of people who are going to be important later on in the movie . 
+then desaster strikes . 
+sandra bullock was said to have been glad that she could take action this time around . 
+i looked for the " action " but couldn't find it . 
+most of the time she is part of the decoration . 
+the only time she is part of what happens is when she can have a shot at defusing a bomb and freeing some passengers trapped behind a fire door . 
+now we know that she can handle a chain saw . 
+we also know that fire doors on cruise ships can be cut apart in seconds . 
+the bomb defusal of course goes wrong , but only the furniture is damaged , not our heroes who still are needed . 
+jason patric alias alex spends most of his time flirting with annie , helping other passengers and frolicking in the water . 
+his initial sea-sickness is suddenly gone , because there are ship , crew and passengers to be saved from evil geiger . 
+he does a pretty good job but i can't blame keanu reeves for declining this part . 
+then there's willem dafoe , the villain , who desperately tries to look as frightening as frankenstein's monster . 
+he doesn't succeed , though . 
+an untidy appearance isn't enough to convince the viewer of his psychopath potential . 
+before he tries again to make us believe he is a dangerous man he should practise for a while in front of a mirror . 
+i can't really recommend speed 2 . you will probably like the movie if you like funny situations that aren't meant to be funny . 
+especially the showdown , when the ship first runs into an oil tanker and then dissembles a whole village is a treat . 
+there you get to see the most superfluous scene in the movie . 
+in keeping with last year's desaster movie tradition a dog is miraculously saved from certain death . 
+a really funny ( and meant to be funny ) scene takes place on the oil tanker right before the collision . 
+some crew members watch two ships colliding in an old movie . 
+had they looked out the window they wouldn't have missed the huge ship racing toward them . 
+those of you who still want to see the movie should pick a theater with a large screen and a good sound system to enjoy the visual effects and the phantastic surround sound effects . 
+in an adequately equipped theater it's as if the explosion were going off all around you and you can feel the seats vibrate . 
+but the ilm special effects can't save the movie . 
+for all the money they could have done better . 
+
+
+neg pos
+last summer , a feature-length version of the avengers hit theaters to the tune of a unanimous critical panning . 
+based on the famous 60's television show , the film was an enormous box-office flop and a huge disappointment for warner bros . a year later , the studio is up to their old tricks again , with the unnecessary revival of the robert conrad program the wild , wild west . 
+but it sounded promising : the same tag-team of star will smith and director barry sonnenfeld , who both contributed to make men in black such a financial success , is at the reins again . 
+and co-star kevin kline is attached to the project , as well as a substantial budget to spice up the special effects . 
+i mean , what could possibly go wrong ? 
+the answer is just about everything . 
+wild wild west is a cinematic abomination - a film that was so entirely pointless to begin with that it is never given a proper chance to get out of the gate . 
+there are a lot of fancy special effects , and a handful of distinguished actors who try desperately to tunnel through the inane plot and make a lasting impression . 
+but the script is so deliriously uneven , the entire movie so off course , that no human being or technical achievement has a chance to salvage it . 
+at square one , we have a bizarre case of casting . 
+will smith plays james west , a renegade cowboy who was originally played by white actor robert conrad in the tv series . 
+my guess regarding the casting of african-american smith is a simple one : the actor + a cozy summertime release = big bucks for all those involved . 
+smith is a very talented performer who usually brings swift assurance to any comic relief material , but this is not an ideal role for him . 
+he's too much of a joker . 
+i heard that initial casting included george clooney in the lead role , and frankly , that sounds a lot more plausible . 
+what makes matters worse is that smith goes through the role with such self-assurance in his eyes ; you can practically sense his contentment with the fact that he knows wild wild west will be a huge hit at the summer box office . 
+the plot involves west and cross-dressing government agent artemus gordon ( kevin kline ) , who are assigned by the president to recover a group of kidnapped scientists . 
+the trail leads to the diabolical dr . arliss loveless ( kenneth branagh ) , a man with no lower body who speaks in a dry , witty southern accent . 
+loveless has taken the country's top technical minds hostage so that they can assist in his deranged plan of total government control , using lethal superweapons to destroy entire towns . 
+one such weapon is an 80-foot mechanical tarantula , bearing eight spindly legs of thrashing metal and spewing enormous fireballs left and right . 
+the visual effects that bring this metallic bug to life are spectacular , seamlessly blending computer-generated imagery with the western surroundings . 
+unfortunately , all of these effects seem so detached from the story , and can do little to support the film's plot deficiencies , which are undoubtedly the main problem . 
+wild wild west is a running gag that never truly works . 
+most of the jokes , usually care of smith , die on arrival . 
+if it's one thing that could possibly be the saving grace , it's the performances , and even they are mostly off-kilter and poorly delivered . 
+kline is admirable , but he has little to do but invent silly devices on the spot . 
+salma hayek is wasted as the romantic interest , because she is viewed as little more than that - window dressing to look pretty and create conflict between west and gordon . 
+branagh , an esteemed shakespearean actor and director , adds marginal enjoyment to the film . 
+but even he is so utterly weird and over-the-top . 
+rarely is a film so lost in itself as wild wild west is . 
+i suppose there's always one turkey of the summer season ; a highly anticipated , big-budget release that manages to completely disappoint . 
+wild wild west is such a movie , and will probably go down as one of the biggest disappointments of 1999 . 
+but it is highly unlikely that this will go down in defeat at the box office . 
+perhaps after this , audiences will be less assured when they see will smith's name stamped on a summer movie . 
+after such hits as independence day and mib , wild wild west is not an impressive addition to the resume . 
+
+
+neg pos
+instinct is the kind of movie that inexperienced moviegoers will undoubtedly label as " powerful " or " touching " . 
+i have a name for it myself : " gross " . 
+this is the sort of film where somebody stands up to a bully , the bully looks at the " rebel " threateningly , about to hurt him , and then everyone else whom the bully has heretofore controlled stands up too . 
+how that scene is still present in so many movies today appalls me : aren't present day moviegoers beyond being " inspired " by something like that ? 
+this is one example ( there are actually some more in instinct alone ) of filmmakers insulting the audience's intelligence . 
+instinct's plot is brimming with potential : world-renowned anthropologist ethan powell ( anthony hopkins ) disappeared for two years whilst doing research in the jungles of africa . 
+he was found and is coming back to the united states a convicted killer ; he murdered to african policemen who were allegedly trying to capture him . 
+after committing a few more brutal acts of violence in the airport , the authorities stick him in a prison's " psychotics ward " . 
+assigned to do an evaluation on powell is a bright ( or so we are told ) young psychiatrist theo caulder ( cuba gooding jr . ) . 
+caulder starts out doing the evaluation merely for the purpose of furthering his career . 
+of course ( and no mainstream filmmaker would ever have it any other way ) he starts really caring for powell and he becomes fixed on helping powell prove that he is not a psychotic and that he should not be in prison . 
+and then there's the inevitable " heartless meanie " character , in the form of donald sutherland who plays caulder's mentor . 
+he cares for caulder but does everything he can to discourage him from helping powell . 
+let's get one thing straight : dr . theo caulder is the most blatantly incompetent psychiatrist i have ever seen , on screen or off . 
+any good shrink will listen to what his patient has to say no matter the subject because any good shrink will learn a great deal about his patient that way . 
+not good old theo . 
+no , he asks purposefully pointed questions and when powell dares to venture to another subject caulder says " we need to talk about this right now . " 
+this is a flaw only in the sense that it detracts from instinct's already dubious credibility ; unfortunately it's also the least of its problems . 
+director jon turteltaub , who made the delightful john travolta vehicle phenomenon as well as the surprisingly above-par cool runnings decided to make this movie so shamelessly sentimental that , contrary to what this movie's promotion would have you believe , it has much more in common with patch adams than with the silence of the lambs . 
+it's not the kind of sentimentality that can almost bring tears to your eyes ( what dreams may come aptly demonstrated that ) but the kind that brings vomit up your esophagus ( excuse the graphic depiction ) . 
+it aims to " inspire " rather than to touch hearts . 
+as yoda would say , inspire it does not . 
+it is the ultimate sign of futility when a screenwriter ( the very experienced gerald di pego ) has to resort to literally telling the audience a movie's story . 
+indeed , somewhere in the beginning of instinct , one of the characters actually reads aloud the film's plot to another character . 
+this , like the instance i mentioned in the first paragraph of this review , is a horrid insult to our intelligence . 
+i am forced to wonder whether turteltaub and di pego did not think that we could figure out what instinct is about simply from regular conversation . 
+i think that anthony hopkins is one of the greatest screen actors , and he chews the scenery in this movie , brilliant as ever . 
+oscar winner cuba gooding jr . on the other hand is dreadful . 
+his performance is at least part of what makes his character seem so incapable of being a shrink . 
+i liked the guy in jerry maguire as well as in as good as it gets but here he fails to project any shred of credibility or real feeling . 
+i love animals , and instinct's prominent save the gorillas/live in harmony with nature theme is certainly something i could sympathize with . 
+however this movie's execution is completely unacceptable . 
+tone down the violence and this will be a chick flick . 
+ ? 1999 eugene novikov 
+
+
+pos neg
+the rocky horror picture show 'special edition' ( 1975 ) 
+starring : tim curry and susan sarandon 
+cult films are never mainstream . 
+the casual viewer of a cult film will look at it and be repulsed and confused , yelling out 'what the hell is that ? ' . 
+fans of these sorts of movies will be laughing at every other second at all the 'hidden jokes' they missed the first time around while normal movie watchers will look at them like they're insane . 
+the rocky horror picture show , recently re-released in a 'special edition' to video , is the mother of all cult films . 
+period . 
+like some other cult films , most notably little shop of horrors , the rocky horror picture show is a musical with a twisted edge to it . 
+this movie begins out innocently enough- a couple get engaged at a friend's wedding and get a flat tire in the middle of the night while it's raining . 
+they go to a castle to try to use the phone . 
+little do they know that the castle is owned by dr . frank n . furter , a mad transexual transvestite scientist who has recently created a creature he will use for personal reasons . 
+the acting is pretty good overall . 
+tim curry ( home alone 2 , legend ) is over-the-top as frank n . furter . 
+it's interesting to see that this movie was one of future oscar winner susan sarandon's ( dead man walking ) first film- she plays janet , the girlfriend of brad majors . 
+even the singer meatloaf is in it ! ! 
+the songs are all very good yet twisted in their own way . 
+a sampling of titles range from damn it , janet to touch-a touch-a touch-a touch me . 
+all the actors sing their songs with no dubbing from other actors- kind of a bad thing . 
+barry bostwick ( brad majors ) tries to sing as does susan sarandon , but tim curry is clearly the most professional having extensive stage experience . 
+meatloaf sings like meatloaf . 
+the new special edition contains two original movie trailers of the film as well as two songs deleted from the original version . 
+sadly , the songs are tacked after the credits- kind of defeats the purpose . 
+if you want to see a different film , watch this one ! ! 
+
+
+neg pos
+there was probably a good reason that the warner bros . studio chose not to allow critics to view this steven seagal film when it first opened . 
+and , after seeing this piece of toxic waste , i now know why . 
+this movie is by far the worst offering that has hit the screen since possibly those ernest movies years ago . 
+fire down below centers its story on a little mining town in god's country , somewhere in eastern kentucky . 
+it's beauty and natural goodness is being slowly destroyed by an uncaring mining magnate ( kris kristopherson , who constantly looks like he wants to kill his agent for getting him this role ) . 
+it turns out that he's filling the mines throughout kentucky with toxic waste for a tidy profit . 
+seagal plays jack taggert , an aikido-versed , fighting machine , who is an agent with the epa . 
+no . . . not the cia nor the fbi nor the nsa . 
+it's the environmental protection agency . 
+i had no idea that epa agents were trained to be killers ! 
+taggert is sent to find the perpetrators and to bring them to justice . 
+written by someone named jeb , i could already envision the stereotypes of incestuous relationships , banjo-picking preachers , and dumb-as-nails rednecks . 
+but the script puts seagal right smack dab in the middle of all of these scenarios as he tries to discreetly fit in . 
+seagal's idea of a disguise is a long-length $1000 leather jacket . 
+but to get closer to the kinfolk , he will fix people's porches for free . 
+that's another great epa asset - teaching agents how to fix porches . 
+slow and plodding , this project is a total mess . 
+the sometimes allure of watching seagal is watching him outmaneuver enemies that outnumber and outgun him like in under seige . 
+here , his bravado basically turns into bullyness . 
+townsfolk who are foolish enough to challenge seagal are quickly subdued . 
+fight scenes are quick and senseless and offers no enjoyment value whatsoever . 
+and his soap box message wears thin within the first 15 minutes . 
+the most annoying moment comes when he barges into the middle of a sunday church ceremony , gets behind the pulpit , and beseeches the townsfolk to take control of their lives and to help clean up the environment . 
+but the epitome of how moralistically mushy this film gets happens when the person responsible for the toxic dumping , kristopherson , meets up with seagal . 
+kristopherson asks seagal how much it will take for him to go away . 
+seagal gallantly replies : " i'll leave when you take the poison from the streams and the earth . " 
+i was expecting patriotic music to start blasting and a show of fireworks in the background . 
+this is truly nothing more than a pompous showcase for seagal's righteousness and narcissistic arrogance . 
+seagal has been vanguard in trying to bring a new genre into the filmplace , that of the enviro-thriller ( on deadly ground ) . 
+however , the message will never come across through poorly developed vehicles like this . 
+still , i believe in preserving mother earth , so save your $5 and please donate it instead to some worthy environmentally conscious charity . 
+
+
+neg pos
+apparantly money talks . 
+ . 
+ . 
+and uses quite a bit of obscenities doing so ! 
+i've always considered myself pretty open about the gratuity a film can possess , whether in language , violence , sex , or what have you . 
+i find that this fact gives me a little more leverage to complain when a movie goes overboard , and money talks definitely does ! 
+it's not so much that the movie swore nearly constantly ( and i mean constantly ! ) , but it swore so much that it seemed overly prominent and way too staged . 
+perhaps if one character were foul mouthed , but in this film , everybody swears nearly every other word . 
+money talks is about a black ticket scalper named franklin hatchett ( played less annoyingly than expected by chris tucker ) . 
+franklin is your typical con-man and ends up with more than one person out to get him . 
+when the plot finally gets underway , there's no less than three people ( or groups ) that want him , dead or alive . 
+the frenchman who's somewhat responsible for franklin's escape from a prisoner-packed bus , a hoodlum whom franklin owes seven grand , and the cops who wrongly suspect him of murder . 
+franklin's only hope : james russell ( charlie sheen ) , an investigative reporter for the local news who's out to prove himself a worthy journalist . 
+james offers to help clear franklin's name if franklin will just allow him an exclusive report to help channel 12 conquer sweeps week . 
+both of these elements are completely lost along the way however , and never do reappear . 
+as expected , the odd couple of franklin and james do wind up friends at the end , which is another wasted element seeing as how they show no signs of becoming friends at any point along the way . 
+there is just nothing original or intriguing about this film , and so many developments are either non-relevant , or just plain forgotten about . 
+money talks is a paint-by-numbers movie that lacks any real involvment with the audience . 
+frivilous dialogue , a predictable , flat storyline , and two-dimensional characters make money talks a reason to save your money . 
+
+
+pos neg
+i wont even pretend that i have seen the other 3 alien films . 
+i saw glimpses of alien and aliens and fragments of alien 3 , but i have by no means actually sat down and watched any of them . 
+so take my opinion from an unbiased and impartial perspective : alien resurrection is not worth the large bag of lollies i was munching into after a hard days work . 
+i didnt just dislike it so much because the plot was awful ; most of the acting was very average or the special effects got tiresome after 5 minutes of painful viewing  but also the fact that every tedious ingredient thrown in attempts to give this pointless dribble some meaning . 
+sigourney weaver , whos role in alien earned her an academy award nomination , plays the character of ripley ,  who died fighting against extraterrestrial scum in alien 3 . 200 years later , scientists use a sample of blood found at the site of her death to recreate ripley - including the alien that was stuck inside her . 
+in no time they remove the alien from her body and separate the two ; yet ripley is now not completely human , possessing strange amounts of strength and being able to withhold greater pain than a normal being . 
+im sure someone can explain exactly why this is so , but for now well just ignore it and move on . 
+why , you ask , would ripley and the alien inside her be recreated ? 
+well , the smart little lab researchers believed that they would be able to discover many advancements in science from studying the alien creature . 
+these were the same people who said they could control the alien and that their was no danger in their research . 
+they ( yawn ) were wrong . 
+it doesnt take a genius to figure out that the rest of the film is a continuous cat and mouse chase between the humans who die off one by one and the aliens who open their mouths on every possible occasion to show off their frightfully scary un-flossed teeth . 
+theres a little saying that goes something like this : if youre going to make a bad film , do it well .  
+i have seen plenty of disappointing and underachieving movies , but they are not the ones that really bother me . 
+alien resurrection , a good example of a film that really gets up my nose , is not so much a discouraging experience but an off putting one . 
+there is no way to describe why the australian ma rating was given to this film other than unnecessary and repulsive gore , which attempts to distract us from the wandering-but-not-going-anywhere plot . 
+in one scene my stomach churned as i witnessed a mawkish looking alien put its hand on a characters head and literally ripped most of his face off . 
+another one featured ripley sticking a knife through her hand just to impress someone she was talking to . 
+fair enough if it were in a horror film or even if it bared any significance to the story , but this is unfortunately not the case , and this sort of bizarre gore is inexcusable . 
+if you think im struggling to find one good aspect about the film , then you thought right . 
+one exciting scene is a credit ( and the only part remotely worth seeing ) to the film , in which an alien chases two men ( one a cripple ) up a tall ladder with interesting results . 
+but of course after that thrilling scene alien resurrection had no problem in returning to its pathetically low standard , and ends up crashing into the shores of movie dullness more often than japanese kamikaze jet fighters fall off their skis . 
+so in a film where the one liners come as bad as earth man , what a shit hole and the primary means for one mans strategic attack is to bounce bullets off walls to hit an opponent , its no wonder why alien : resurrection turned out to be as off putting and clumsy as it is . 
+oh , and in case youre wondering about my bag of lollies  the less i enjoy a film , the more i eat . 
+so all the lollies were gone in 15 minutes ; but however empty the bag turned out to be , it was still a long way ahead of the movie 
+
+
+neg pos
+ " i seem to have glued myself . . . 
+to myself . " 
+starring jason biggs , seann william scott , chris klein , thomas ian nichols , allyson hannigan , shannon elizabeth , natasha lyonne , tara reid , mena suvari , eugene levy , jennifer coolidge . 
+directed by j . b . rogers . 
+rated r . 
+american pie 2 reunites the cast members from american pie in a different setting ; instead of being high school seniors looking to score before they graduate , they are now past their first year of college and have gathered in a beach house to enjoy the summer of their lives . 
+jim ( jason biggs ) is still an insecure geek looking to improve his performance , oz ( chris klein ) is still the sweetest guy on the block , having sickeningly saccharine phone conversations with his studying-abroad girlfriend , stifler ( seann william scott ) is still a horny stoner , kevin ( thomas ian nichols ) still has no personality and finch ( eddie kaye thomas ) still longs for stifler's mom . 
+have i missed anyone ? 
+so , obviously , not much has changed . 
+this is not a problem , provided that the movie boasts the rapid-fire hilarity and unexpectedly true sentiment of the original . 
+but american pie 2 is the very definition of " sequelitis . " 
+it's coarser , yes , and it pushes the envelope even more , but its heart isn't in it . 
+it's easy cash to capitalize off the first film's success , but it would have been a worthier investment to prolong the franchise by coming up with something original . 
+part of the reason why the film doesn't work , i think , is that while in the original the kids' quest for sex was a coming-of-age stepping stone as much as an outlet for their horniness . 
+here , everything has been cheapened . 
+they behave like those idiot frat boys who kill themselves drinking ; they have no motivation except for sex , sex , beer and sex . 
+that's not to say that you can't make a decent comedy from that premise , but it is one of american pie 2's undoings . 
+missing , too , is the sweetness that permeated american pie , the this-could-be-you quality of the main players . 
+here , the characters are too aware of themselves as pop-culture icons , and they're even more one-note . 
+stifler and finch are now caricatures while jim , oz and kevin are forced to make awkward self-discoveries at arbitrary moments , none of them betraying what the writers think the audiences want to see . 
+and then there's the soon-to-be-notorious scene where jim superglues " himself to himself , " which perfectly demonstrates yet another of the film's ailments , one that also permeated say it isn't so , director j . b . rodgers' debut . 
+there's a fine line between comedy and abject humiliation , and american pie 2 is on the wrong side of it . 
+it's hard to laugh at the characters when you are profoundly embarrassed for them . 
+i shielded my eyes watching this more than i have watching any horror movie . 
+if there's one redeeming factor to american pie 2 , it's the inimitable eugene levy as jim's dad , who pops in on jim as he's about to score and utters lines like " your mother and i have been known to get frisky . . . 
+not so much anymore , but . . . " 
+and then when the girl's parents walk in , blurts out " this must be your daughter ! 
+i didn't get her name , but hopefully my son did . " 
+if only the rest of the movie had the wit and wisdom of levy's performance . 
+this is an unworthy sequel to a gross-fest that brought back the raunchy teen comedy . 
+the box-office of this onw should keep the genre going strong , which is disappointing . 
+the genre needs a hiatus ; filmmakers are getting lazy . 
+
+
+neg pos
+it must be tough to be a mob boss . 
+just ask paul vitti ( robert deniro ) , a man who finds his job as mafia head to be rather stress inducing . 
+i can believe it , too - one can't even begin to fathom the turmoil he must go through when he's forced to choose between an ice pick , baseball bat or sledgehammer to torture victims with . 
+suffering from reoccurring panic attacks , paul decides he needs to consult some professional help . 
+and who better than billy crystal . 
+after appearing in bottom-of-the-barrel flops , father's day and my giant , crystal finally finds a reliable costar and some very promising material here . 
+playing vitti's private shrink , the two very different stars strike an unorthodox , but interesting relationship that carries this enjoyable comedy on a steady wave of laughs from start to finish . 
+casting robert deniro as paul vitti is something of an in-joke , i think . 
+placed in this mobster's shoes , deniro gets to spoof characters he himself played in films like the godfather , part ii and casino . 
+it's obvious he's having a lot of fun doing so . 
+the man behind the camera is harold ramis , whose credits include ghostbusters ( as writer and star ) , and his best directing effort , the bill murray vehicle , groundhog day . 
+ramis has a knack for drawing laughs because he simply knows what's funny , and here he manages to accentuate the strengths of nearly all the actors . 
+the only character who weakens the payoff is crystal's bride-to-be ( lisa kudrow ) . 
+playing the same dumbed-down role as she does in friends , kudrow is amusing , but doesn't fit into this comedy mold as well as the director may have hoped . 
+the supporting cast sparkles . 
+joe viterelli is hilarious as jelly , vitti's pea brained right-hand man , and chazz palminteri is a show stopper playing a fellow mobster who's in desperate need of the definition of `closure' . 
+the movie manages to maintain consistent chuckles throughout , putting the emphasis on 3 or 4 really big laughs that will have audiences grasping their sides . 
+the situation is just too cute to resist . 
+it's unfortunate that the language gets somewhat out of hand . 
+but hey , if you're in the mafia , using obscenities probably comes naturally . 
+and near the end , seeing billy crystal attempt to walk and talk like a mob boss is truly a special treat . 
+
+
+pos neg
+shakespeare . you hardly understood it in high school . 
+why would you want more of it now that your english grade doesn't count on it ? 
+if this is your attitude , then i'll say right off the bat that kenneth branagh's hamlet is probably not for you , and you might as well stop reading right now . 
+if , however , you are a lover of the bard , or at the very least are open-minded about a challenging script , read on , for there is something rotten in the state of denmark . 
+namely , the king has died , and his widow the queen has wed the king's brother , claudius , but prince hamlet suspects foul play . 
+his suspicions are confirmed when the ghost of his father appears and relates the story of his murder at his own brother's hands . 
+hamlet , enlisting the help of his friend horatio , conspires to capture the conscience of the new king to expose his treachery . . . . and 
+the game is afoot . . . . 
+the first things you notice about this production are the sets and costumes . 
+with external scenes filmed at blemheim palace in england ( also the one of the sites for the recent the avengers ) , the grandiose quality of the setting is immediately established . 
+interior scenes are similarly graced with intricate and flamboyant rooms and chambers . 
+the hamlet castle's grand throne room is an impressive piece of work incorporating high ceilings , mirror-panel doors , and bridges which connect opposite sides of a second-story loft . 
+costuming is equally grand , drawing upon both history and imagination . . 
+not quite the denmark of the 1600's , the characters' attire is something of a cross between that era and turn of the century russia , very effectively giving the film more of a timeless feel . 
+it is not surprising that tim harvey and alexandra byrne were nominated for best art direction and best costume design oscars , respectively . 
+in addition to directing , kenneth branagh also plays the title character . 
+as the revenge-driven royal heir , branagh provides a riveting performance of emotional highs and lows . 
+from the anticipation of seeing his father's ghost , to the melancholy of finding the burial site of his childhood jester , to his eventual wrath , branagh delivers in spades . 
+every scene truly revolves around hamlet , as much a tribute to branagh's acting and directing as to shakespeare's manuscript . 
+hamlet seems to be a who's who of shakespearean-trained actors , so watching them perform the craft for which they have much love is a delight in itself . 
+julie christie , as hamlet's mother gertrude , and derek jacobi as his murderous uncle claudius both fill the classic roles superbly , as do many of the supporting players . 
+kate winslet as hamlet's lover ophelia , does an outstanding job demonstrating the character's plummet to the depths of dispair and madness . 
+richard briers as ophelia's father , polonius , and michael moloney as her brother , laertes , are equally convincing . 
+nicholas farrell as hamlet's trusted friend horatio , and timothy spall and reece dinsdale as the two-timing rosencrantz and guildenstern round out the excellent core cast . 
+hamlet also seems to be a film in which someone tried to stuff as many well known actors as possible . 
+in some cases , this made for interesting scenes . 
+billy crystal is surprisingly good as the gravedigger who unearths the skull of yorick , whom hamlet knew quite well . 
+crystal proves himself able to deliver the lines with both the timing of a classic actor and the verbal countenance of a comedian , and the result is a very funny scene . 
+however , charleton heston , whom many might think would butcher shakespeare , is the biggest surprise of all . 
+as the player king , the leader of a troupe of traveling actors , he is absolutely breathtaking when narrating the story of priam and hecuba . 
+part of his monologue is overlaid with a visual enactment of the story ( with sir john gielgud and judi dench ) , but this is most unfortunate , for it robs heston of some of the attention which he deserves at this time . 
+his off-camera speaking , while gripping , sort of downplays the scene to a narration done by any other well-voiced actor . 
+i wish branagh had chosen to allow us to envision in our own minds the scene which heston lays out , and let the venerable actor have the attention . 
+unfortunately , there were some casting choices which led to poor distractions . 
+jack lemmon , an excellent actor , just can't do shakespeare . 
+as marcellus , the guard who sees the elder hamlet's ghost , lemmon sadly underperforms and is shown up left and right by those around him . 
+gerard depardieu , another talented actor , is wasted when given little more than the utterances of " yes , my lord " and " no , my lord " in the role of reynaldo . 
+richard attenborough has a ( literally ) walk-on role , showing up at the eleventh hour as the english ambassador . 
+i think he had two lines . 
+then there is rufus sewell as fortinbras of norway . 
+when i went to see dangerous beauty earlier this year , two ladies behind me kept commenting about how handsome he was . 
+if bulging eyes are your idea of handsome , well i guess comic actor marty feldman was some kind of sex symbol to you . 
+hamlet is a complicated tale of treachery and revenge in which triumph and defeat become one . 
+branagh attempts to help us out with some of the intricacies by visually representing some of the more elusive stretches of dialogue by presenting them as flashback-type images . 
+this only works about half the time , and i wonder if it would have been just as well to do without them . 
+you don't have to be some kind of genius to appreciate shakespeare , but it is quite difficult to understand unless you have the time to read or hear it carefully and repeatedly . 
+the alternate method of comprehension is that with which most of us are familiar , the high school english course . 
+in it , you are hopefully fortunate enough to have an educator willing to help you with the plot points and nuances essential to understanding a play written in the rigmarole known as the king's english . 
+or i suppose you could just read the cliff notes . 
+
+
+pos neg
+house on haunted hill ( 1999 ) starring taye diggs , geoffrey rush , ali larter , famke janssen , peter gallagher , bridgette wilson , max perlich , lisa loeb , james marsters , and chris kattan . 
+directed by william malone , written by dick beebe , 
+ " house on haunted hill " initializes itself to the audience with a scene involving zombie-like mental patients attacking and murdering doctors in the goriest ways possible . 
+one doctor is killed instantly after having a pencil rammed completely through his neck . 
+a nurse has her head forced into a barrel of water . 
+these mobs of zombies presented are like those in previous b-horror flicks , with grunting noises and cadaverous movements . 
+except this time , at the end of the millenium , the film is given the power to show exactly how horrific these creatures can be . 
+in past horror films , the actual murder scenes are left out or not shown forcing the viewer to assume their own nasty bloody deaths for the hapless victims . 
+ " house on haunted hill " doesn't want their audience to have an imagination , everything is provided for them to watch and squirm , not think . 
+this nonsense violence thrown out of nowhere is unfortunately the most refreshing part about this film . 
+ " house on haunted hill " , which is based on the 1958 film of the same title , introduces a handful of characters as quickly as it can , following the opening blood fest . 
+the film has no intention of providing character development or a laudable plot . 
+the aim here is to scare the audience with chilling , unexpected shots of blood , guts , and mayhem . 
+however , the film is neither scary nor unpredictable . 
+the plot involves five people who are dared to spend the night in a haunted house for one million dollars by an amusement park owner ( geoffrey rush ) . 
+each character is a failure in the external world and acknowledges that they would do anything for that money . 
+since the characters are immediately generalized as either greedy or caring , the expectations of who will survive or not is killed five minutes after you meet them . 
+the problem is that every character is not likable . 
+the two who come closest to being civilized are a womanizer ( taye diggs - who should be doing films a lot better than this with all of his talent ) and a businesswoman who accepts being womanized ( ali larter ) . 
+the characters presented are so annoying and pathetic , that it is hard to cheer for them or scream them . 
+the worst character in this film , or maybe in any film released this year , is chris kattan's watson pritchett . 
+he spends the whole film whining about the spooky house in a tone so irritating and inappropriate , that he unintentionally begins to seem more evil than the house itself . 
+waiting for pritchett to die , was a strenuously difficult act to sit through . 
+the most humorous actor of the bunch is geoffrey rush playing steven price ( an homage to victor price who starred in the original ) . 
+playing the rich man who supposedly organized the party , he plays the role perfectly in a twisted way where it is obvious that he is up to something just by the expressions on his face . 
+however , rush is pretty much wasted in a confusing subplot involving a hateful marriage with evelyn price , played by famke janssen . 
+the main problem is that " house on haunted hill " is not scary . 
+to top off that huge disappointment , every actor was wasted and the script was completely ludicrous . 
+if the annoying characters and hilariously bad dialogue were intentionally underdeveloped ( similar to " deep blue sea " ) , the goal for creating a creepy , suspenseful action film was completely missed . 
+
+
+neg pos
+while watching wes anderson's rushmore , it may be surprising to think that the role of max fischer , the film's anti-hero , was not written with jason schwartzman in mind . 
+the young actor , making his film debut as a 15 year old student at the exclusive rushmore academy is so perfect in the role that it comes as a shock that anderson auditioned some two thousand other prospective stars before discovering schwarztman . 
+schwartzman plays max , a student who is more interested in his extra-curricular activities ( such as writing edgy plays like " serpico " and being president of the rushmore beekeepers ) but sees his grades suffer as a result . 
+on the brink of being thrown out , he lands himself in even more hot water when he falls for first grade teacher rosemary cross ( olivia williams ) and enlists the help of millionaire acquaintance herman blume ( the great bill murray ) to build an aquarium ( on rushmore's baseball field ) in her honour . 
+unfortunately for everyone involved , blume finds that he has feelings for miss cross as well , which gets in the way of max's plans to woo her . 
+max is one of the best-written characters we've yet seen in the 90s , and schwartzman plays him to perfection in one of the finest comedy performances ever given by someone of his age . 
+as everyone else has probably already pointed out , he is reminiscent of a young dustin hoffman ( although i was reminded more of paul from " the wonder years " , from a visual standpoint , at least ) . 
+hopefully , if he avoids typecasting as weird , quirky loner-types he should earn himself a good career . 
+bill murray is his equal as blume , displaying a depth we haven't yet seen from him . 
+while this isn't his best performance ( that honour goes to groundhog day ) he is still terrific here . 
+williams isn't given much to do except react to schwartzman and murray , but still does fine work . 
+rushmore seems to go just a little too long but , while it isn't a perfect film , it is a definate must-see for anyone who wants to see that rarity , an american coming-of-age film that actually works well without an excessive amount of sentimentality . 
+anderson has created a modern classic with a star who should , with any luck , rise to even greater success . 
+
+
+neg pos
+note : some may consider portions of the following text to be spoilers . 
+be forewarned . 
+ " quick , robin ! 
+the anti-shark repellant ! " 
+- adam west in the 1966 batman feature film , casually kicking at a pathetic-looking rubber shark attached to his leg 
+i had never thought that an entry in the modern incarnation of the batman feature film would approach this level of campiness , but in many instances batman and robin nears , and at some point even exceeds this standard . 
+this is a disasterously bad film , easily the worst in the series to date , and fairly epitomizes a cinematic definition of the word excessive - it's loud , garish , and obnoxious , with pointless , gratuitous action sequences and set pieces which clutter up the screen with elaborate production design to the point of overkill . 
+batman and robin features the caped crusaders ( george clooney debuting as batman , with chris o'donnell returing as robin ) squaring off against another bevy of chemically-induced villains - the nefarious ice-cold mr . freeze ( arnold schwarzenegger ) , armed with a weapon which freezes everything in its sights , and the slinky poison ivy ( uma thurman ) , who has the ability to blow powerful love dust into the faces of men in order so that they will fall helplessly in love with her ( not that the dust is really necessary to accomplish this result , but whatever ) , and then dispatch them with a poisoned kiss . 
+by ivy's side is the giant steroid monster bane ( jeep swanson ) , a grunting hulk of a beast . 
+the villains' goals are noble ones - freeze steals diamonds to power his climate suit ( in order to keep his body temperature at zero degrees ) , so that he can survive in order to devise a cure for his beloved wife ( vendela ) , dying of a degenerative disease and frozen in suspended animation , and ivy's intent is to restore the dominance of plant life on earth , albeit by destroying all human life . 
+meanwhile , on the homefront , life at wayne manor is thrown into upheaval by the illness of butler alfred pennyworth ( michael gough ) , and the arrival of his niece barbara ( alicia silverstone ) . 
+akiva goldsman's screenplay for the film is ridiculous and laughably bad , with astonishingly terrible dialogue , lame jokes , and an awful by-the-number plot which simply coasts along and fails to generate any genuine excitement . 
+it makes goldsman's screenplay of batman forever , which i thought was dreadful , look positively inspired in comparison . 
+i am still astonished that a cheesy plot device which i'd seen used in - no joke - an episode of gilligan's island somehow make its way into a multimillion dollar blockbuster production . 
+joel schumacher's direction of batman and robin is horrific , with a terrible balance of flashiness over substance . 
+there is a clear conceit towards neon in this film , even moreso than with his previous batman forever , with the revamped batcave helpfully sporting gigantic glowing emblems for the dynamic duo ( just in case , i suppose , if they ever happen to forget that the batcave is the headquarters of batman and robin ) , and with neon prominently figuring in an utterly-pointless fight sequence with bane and a street gang over ivy's chosen new abode . 
+another action sequence which fails to serve any useful point other than to chew up five minutes of screentime involves an incredibly uninvolving late-night motorcycle race with barbara and some gotham goons . 
+mr . schumacher's focus for batman and robin appears to be to make the film as visually striking as possible , to the detriment of the story - there are drastic shifts in the tone of the film between all-out camp and heartfelt drama , with the latter completely unconvincing and ineffective . 
+it is perhaps not the most promising of signs when the group i was with burst out laughing within twenty seconds of the film's opening , even before a single line of dialogue had been uttered . 
+is batman and robin supposed to be campy ? 
+i think it is - it's hard to imagine that the filmmakers could have intended many parts of the film to be taken at all seriously . 
+ ( one of my favourites was when bane helpfully grunted " bomb ! " 
+each time he laid down an explosive device in the gotham observatory . ) 
+is it supposed to be as overly campy as it turned out to be ? 
+i somehow doubt it - the subplot involving afred is delivered so solemnly and with such graveness that the impression is made that the film isn't attempting to be the utter farce which it is . 
+arnold schwarzenegger is top-billed in the film as the villainous mr . freeze , and is bland and uninteresting , perhaps the worst thing that a villain can be . 
+mr . schwarzenegger's attempts to be menacing are laughable , and his attempts at conveying pathos are laughable ; frankly , everything he does onscreen is laughable . 
+by the end of the film , i was stifling a chuckle every time he simply appeared onscreen . 
+the bulk of his performance consists of uttering near-unintelligble puns and one-liners featuring every possible permutation of " cool ! " 
+in the least inventive way . 
+george clooney has been given very little to do in batman and robin , being overshadowed by the villains , and consequently he looks rather uncomfortable in the film . 
+his batman is hardly an imposing figure . 
+chris o'donnell is unimpressive in a one-note performance , while alicia silverstone lackadasically fails to make any impression at all . 
+the film's one saving grace ? 
+undoubtably uma thurman's entertaining performance as sexy villainess poison ivy . 
+her work in batman and robin is certainly over-the-top , but in a controlled fashion which works splendidly within the tone of the film . 
+ms . thurman's comic timing is impeccable , and reminds us that it takes skilled performers to make campiness work successfully . 
+ ( i'm already starting to positively reassess jim carrey's performance in batman forever . ) 
+her amusing poison ivy is the most entertaining character in the film , and when she's offscreen the film greatly suffers . 
+i figure that if one has to die , being kissed to death by uma thurman isn't a half-bad way to go . 
+while batman and robin was hardly a ride of pulse-pounding excitement , i must admit that i was not bored watching it , although i did glance at my watch repeatedly through the screening - my attention was kept through anticipation of the utterance of yet another terrible pun or one-liner , and by awaiting yet another scene to fall flat . 
+it's been a long time since i've laughed so much at a movie . 
+ " at " , of course , is the operative word . 
+
+
+neg pos
+when critics attack seemingly well-intentioned films like patch adams or more recently pay it forward as i am about to do , their opinions are often greeted with a backlash of angry e-mails , sometimes even mock death threats from those who ( i suppose ) like to be shamelessly manipulated by their entertainment . 
+even politicians ( ! ) 
+tend to dismiss film critics as heartless cynics for occasionally dumping on good-hearted films while praising " filth " like pulp fiction . 
+these [fill in the derogatory term that you are comfortable with] tend to forget that a film critic's job is to review the movie , not the message , however sweet and endearing that message may be . 
+thusly patch adams isn't a bad film because it's about a doctor who cares for his patients ; it's a bad film because it's a calculated piece of brazen audience exploitation . 
+similarly while pay it forward may have its heart in the right place ( though i even doubt that , stay tuned , an explanation is forthcoming ) , it's still an unpleasantly maudlin mess . 
+the picture is about an emotionally guarded 5th grade history teacher ( a somewhat similarly guarded kevin spacey ) , with a burn scared face and equally singed attitude , who gives his class the seemingly impossible assignment of doing one thing over the course of the semester that will change the world . 
+12 year old trevor ( haley joel osmet ) , a disneyfied do gooder who takes care of his alcoholic mother ( helen hunt ) , comes up with the notion to pay it forward ; this entails a person doing one good deed ( call it an uber favor ) for three others , then telling them to do the same for three others and before long we're all living in a frank capra movie . 
+meanwhile in a parallel story , a weasely reporter ( jay mohr ) tracks the " movement " which has apparently begun to grow . 
+pay it forward has odd ideas about tone ; at certain points it hurls a smattering of unnecessary cynicism at us as if that would be the appropriate antidote to the unrelenting sappiness at its core . 
+it's as if director mimi leder didn't have the confidence to make pay it forward the way she intended , and compromised out of fear that her film wasn't " gutsy " enough to earn the acclaim it has clearly been made for . 
+so the picture adds grit ( a child molester propositions trevor , a homeless man returns to heroin after being " saved " , a character is knifed while doing a good deed , etc ) though it seems shallow , incorporated into the proceedings because the film itself isn't quite sure if it's ready to buy into its own utopian blather . 
+pay it forward offers " crowd pleasing " elements for general audiences ; jay mohr's umpteenth variation on the waspy sleazeball , angie dickinson's earthy alcoholic bag woman , and the jive-talking " black hoodlum with a heart of gold " ( coming on the heals of the black , god-like inmate embodied by gabriel casseus in bedazzled , this may just be the beginnings of a brand new guilty white liberal clich ? . 
+hurray for hollywood ) who actually calls the mohr character a " nigga " and says things like " can you feel me ? " 
+leave it to pay it forward to happily include a little minstrel act for our further enjoyment . 
+ ( maybe spike's flick wasn't so misguided after all ) . 
+these scenes feel as if they belong in a dopey comedy with feel good aspirations rather than the irritatingly saccharine drama that you'll find yourself trapped in should you not heed my warnings . 
+while the filmmakers have stressed in interviews that they actually hope this is a film that could make the world a better place , to me the final product has the oily feel of a cynical politician contemptuously reciting cookie fortune slogans to a hopeful audience . 
+it's a picture that looks to be tailor made for academy consideration , with the main players ( all previous oscar winners or nominees ) given big emotional scenes that are practically variations on their most lauded turns . 
+one scene in which a slightly de-glamed helen hunt ( de-glamed here means that not only is she a fashion victim [her look is somewhere between goth queen and trailer park mama] , hunt's hair is also natty and badly bleached ) verbally castigates spacey , feels right out of her as good as it gets oscar clip . 
+spacey , of course , responds in his cultured monotone , that could be straight from his low key american beauty performance . 
+maybe the actor should get an award for coming off the least self consciously irritating ; though how can he not , even when he's emoting spacey seems somehow shielded by a wry indifference . 
+the usually talented helen hunt is the worst offender . 
+in one atrocious touched by an angel moment hunt slaps osmet , immediately covering her mouth with the guilty hand in that very same stroke , and with said hand still on said mouth , she actually begins convulsing ( dry heaving really ) , then ( and i'm not making this up ) she scurries to the kitchen tearing the place apart in a frenzied search for alcohol . 
+the scene is so hokey it could very nearly be construed as a parody of hackneyed tv movie blow-ups ; it's all very theatrical , especially hunt's performance , which feels like a pathetic plea to the academy for another oscar . 
+pay it forward has the dubious distinction of being a film that could be used as an argument for why actors shouldn't get academy awards . 
+the picture unknowingly affirms that oscars transform nuanced talent into overwrought expressionists . 
+even haley joel osemt , the wunderkind who was nominated for an academy award for his unforced performance in sixth sense , seems more divisive about his expressions and inflections . 
+his acting has become broader , less intimate ; it's as if we can make out the little munchkin's thoughts : " boy this outta floor em " . 
+naturally osmet is made to play one of those only-in-the-movies children , a martyr-figure who cleans up after his mother , lectures her on the ills of drinking , and even fixes her up on a date with his intellectual teacher . 
+never mind that the two couldn't be more dissimilar ; his mother is trailer trash dopey , and the teacher is one of those dennis miller-ey intellectuals who hides his insecurities behind a vast vocabulary . 
+nevertheless this little nudnik goes out of his way to bring the pair together in a scene that recalls parent trap-ish cornball antics . 
+but oh how we love bright , articulate , self-sacrificing children who pick adults up by their bootstraps and guide them through life . 
+they're so adorable . 
+of course the blame can't all be hoisted onto the actors ( though with the exception of the little kid , they probably should have known better ) , instead the brunt of it should be passed on to mimi leder , who directed one of the most thrilling episodes of er , then went on to make two awful genre films in a row . 
+the first being the peacemaker , a witless post-cold war george clooney vehicle , and deep impact , one of the two films of 1998 to squander the premise of earth's possible demise by a crazed meteorite . 
+the first flick was sunk by an over reliance on clich ? s , and a complete absence of any kind of emotional involvement , not aided by an ending which actually centered around the diffusing of a ticking time bomb complete with digital read out ( apparently present for an invisible audience ) . 
+deep impact has more in common with pay it forward ; it's a movie that treats earth's impending destruction in awfully simplistic terms , completely ignoring the havoc that would so obviously take place if the world believed its planet would be a goner within days . 
+the film was full of inspirational speeches where people really said nothing , though the sappy score swelled up to make it appear as if they were being profoundly touching . 
+in pay it forward leder continues in this vein with her intermittent dollops of cynicism seeming almost like a rebuttal : " see my movie isn't as na ? ve as you might think " she seems to be saying . 
+no , it's just horribly confused . 
+
+
+neg pos
+if he doesn=92t watch out , mel gibson is in danger of being known as someone other than mad max . 
+of course there are still a few big guns in this film , but there=92s some accomplished acting too . 
+although gibson continues to shed his rough and gritty anti-hero skin as his career progresses , here he explores a new genre : the businessman as action hero . 
+in ron howard=92s latest film , gibson plays tom mullen , a gazillionaire airline owner whose son is snatched from the junior science fair by kidnappers . 
+mullen at first agrees to pay the ransom , but when things fall apart he rethinks the situation . 
+a veteran of numerous hard-nosed business negotiations , the tycoon realizes that in order to get his son back alive , he has to play his hand differently . 
+the casting is what puts this film over the top . 
+the trio of gibson , the kidnappers' mastermind ( gary sinise ) and fbi team leader ( delroy lindo ) play off of each other wonderfully . 
+sinise is perfect as the driven scheming sleezebag is right on the mark . 
+his speech to mullen over a walkie talkie about h . g . wells=92 morlocks and eloi reveal his vision of= 
+society . mullen and the other glitteratti frolic up on high while sinise and the other lowlifes dwell below , feeding off the unsuspecting . 
+gibson=92s character is an all-american hero with a few flaws . 
+his cowboy= 
+tactics tend to work , but they are also what got him into this situation to begin with . 
+in a round about way , if he weren=92t known as a man who i= s willing to buy his way out of trouble , his son wouldn=92t have been kidnapped . 
+as sinise says " you=92re a payer . 
+you did it once and now you=92re going to do it again . " 
+one of the nicest elements of this film is that most of the characters actually have personalities . 
+lindo calls home to talk to his kids , obviously shaken at working this case . 
+even the kidnappers are real people , arguing about the ultimate fate of sean mullen and feeding him candy bars . 
+gibson=92s break-down on the balcony of their penthouse apartment is especially effective . 
+it=92s one of the best filmed representations of a man=92s world falling apart that i=92ve seen . 
+it=92s not all perfect . 
+the shoot 'em upending , while emotionally satisfying seems tacked on to be just that rather than to provide a powerful resolution . 
+as well crafted as the scene is , we=92ve seen it before . 
+mullen=92s wife ( rene russo ) has several good moments , but occasionally just seems to be there . 
+while adequate , brawley nolte ( sean ) doesn=92t provide much to the film other than occupying space to build the story around . 
+but you=92ll ignore these problems as each minute of the movie builds on the previous one . 
+forget about the large coke , you won=92t want to leave for that five minute break an hour later . 
+
+
+neg pos
+the postman delivers but not first class 
+the postman a film review by michael redman copyright 1997 by michael redman 
+[warning : my opinion of this film is definitely in the minority of reviewers perhaps because it hits so many of my cinematic buttons : post-apocalypse stories , hope in a desperate situation , grassroots uprisings and kevin costner . 
+even worse , i thought that " waterworld " was watchable . 
+read the following with those particular grains of salt . ] 
+it's the year 2013 and things have fallen apart . 
+due to a world war in the late nineties , the resulting three-year winter and a devastating plague , life in the former united states has been reduced to isolated primitive fiefdoms . 
+although this is the future , it looks like a western . 
+as the film opens , kevin costner ( his character's name is never revealed ) is wandering the utah wastelands with only his mule bill for company . 
+giving extraordinarily bad shakespearean performances in exchange for food and lodging , costner is an outsider in a land of outsiders . 
+running into even worse luck , he is forcibly conscripted into the racially pure holnist army of general bethlehem ( will patton ) . 
+the rag-tag retro-futuristic cavalry is the descendent of militia groups and is even called the " clan " 
+after a brutal boot camp , he ( and you can see this coming a mile away ) escapes . 
+taking shelter in a wrecked postal truck , he liberates the uniform and mail bag from the skeleton in the cab who no longer has a use for either . 
+once he reaches oregon , land of beautiful women , bright youngsters and rock and roll ; he pretends to be a representative from the " restored congress of the united states of america " . 
+this scam gets him inside the walled towns where the promise of mail delivery renews optimism in the hearts of the inhabitants . 
+food and other opportunities come his way in the form of spirited abby ( olivia williams ) who wants him to father a child because her husband is sterile . 
+shortly her husband is killed by bethlehem and she and the postman ( as costner is referred to for the rest of the film ) become a reluctant item . 
+although the postman knows he's running a fraud , the concept of renewed communications sets the kids' imagination afire ( especially ford lincoln mercury ( larenz tate ) , his second-in-command ) and they form a new pony express dedicated to getting the mail through . 
+the revived postal service doubles as an army to fight the holnists' tyranny . 
+the postman has become a symbol for hope in a rube goldberg manner . 
+although the movie appeals to my sensibilities , there are so many things wrong with it that they can hardly be counted . 
+it's derivitive of costner's own " waterworld " and clint eastwood westerns . 
+there's little here that we haven't seen dozens of times before . 
+the film is often down-right corny . 
+a scene where the postman is on horseback and grabs a letter from the hands of a bright-eyed child is embarrassing in its slow-motion banality . 
+the film's final few minutes should have been left on the cutting room floor . 
+despite the film's excessive three hour length , several things are never explained . 
+what was the war about ? 
+how did civilization change so rapidly ? 
+everyone has horses : where did all they come from ? 
+the " law of eights " that bethlehem lives by seems to have its origins somewhere beyond the film , but where ? 
+are we to believe that the rest of the world is in the same shape and hasn't made their way west to help or conquer ? 
+there is some jumbled symbolism here that doesn't appear to make sense . 
+the tale is obviously saying that communication can defeat evil in much the same way that the internet has the potential to topple governments , but beyond that there are some oddities . 
+the evil army is called " holnists " which sounds coincidentally like the new age " holism " , but why ? 
+is it another coincidence that it takes place in 2013 , just one year after many ancient prophesies ( including the ending of the mayan calendar ) predict a new world for mankind ? 
+why is the general named " bethlehem " ? 
+there seems to be some reason for that , but what ? 
+sometimes the movie feels like a joke . 
+an army of postal workers armed with guns ? 
+considering the headlines of recent years , it takes a tremendous leap of faith to cheer for these guys . 
+it's even more difficult to accept those re-powering the federal government as the heroes . 
+given the current climate of the country and the distrust of big government , it's asking a lot for the audience to get behind the film's nationalism . 
+even with its numerous flaws , the movie all comes together , if only for those who have the same weaknesses that i have . 
+it's doubtful that " the postman " is going to find much of an audience , but a few of us are going to have a good time . 
+besides we're all awaiting the fall of civilization caused by the year 2000 millennium computer bug . 
+ ( michael redman has written this column for over 22 years and would like to announce that the " michael redman " arrested near indianapolis last week for accepting an illicit package from federal express is , to the best of his knowledge , not him . 
+perhaps this similarly-named person should have used kevin costner's postal service . ) 
+
+
+neg pos
+errol morris , critically acclaimed director of the 1997 documentary fast , cheap and out of control , vaults to new heights with mr . 
+death . 
+this film , an examination of the life and work of controversial execution equipment designer and revisionist historian fred a . leuchter , jr . , is sure to draw audiences out of their malaise , stunning even the more jaded minds among us . 
+don't let the film's cheesy dissuade you . 
+following this sideshow of horror-lab special effects we are plunged quickly into a non-stop exploration of the weirdness that is leuchter's life and mind . 
+morris follows the trail of leuchter's madness with appalling lucidity , revealing in a surprising and frightening way what most of us could have guessed to begin with : this leuchter guy is seriously messed up . 
+virtually raised within the american penal system by a father who worked within prison walls , leuchter seems to have come somewhat naturally into his profession ; designing and maintaining execution equipment for state penitentiaries , in spite of his lack of credentials . 
+after a moderately successful career making electric chairs and designing gas chambers and gallows , leuchter came to the attention of neo-nazi and revisionist historian ernst zundel , who was facing criminal charges in germany for publishing his `theory' that the holocaust never happened . 
+morris's interviews are surprisingly congenial , drawing the subjects into a carefree banter that gives them more than enough rope with which to hang themselves . 
+zundel speaks to the camera as though it were his mensch . 
+leuchter seems completely at ease , sometimes jovial . 
+part of this effect may be due to morris's new interviewing machine , called the interrotron , which is responsible for creating eye contact between the subject and the interviewer . 
+this was the first time morris had used the device , and the results are startling . 
+combine the irony of these interviews with leuchter's reenactments and reels of creepy stock footage of his trip to auschwitz and birkenau , not to mention a haunting clip of thomas edison electrocuting an elephant , and you've got one compelling and disturbing documentary . 
+while this film isn't for the feeble-minded or weak-hearted , it is a valuable addition to the cultural landscape . 
+aside from a few dragging minutes toward the end of the piece , morris has given us a fresh look at a dismal subject and i , for one , feel bettered by the experience . 
+
+
+neg pos
+note : some may consider portions of the following text to be spoilers . 
+be forewarned . 
+i was incredulous when i first heard that mgm was planning a sequel to their 1995 science-fiction flick species . 
+squandering an intriguing premise , the original film turned out to be a dreadful mess , widely disliked by both audiences and critics alike -- and nonetheless still somehow succeeded in becoming a financial success , raking in over $60 million domestic during the competitive summer season despite a distinct lack of star power in its cast ( ben kingsley's a splendid actor , but a marquee name he ain't ) . 
+miraculously dodging the bullet with the first film , i doubted that they'd dare tempt fate and go for another round . 
+so here comes species ii , with a new creative team ( director peter medak and screenwriter chris brancato step in for roger donaldson and dennis feldman , respectively ) that fails to improve the series one iota -- like its predecessor , species ii fails to capitalize on a potentially promising kernel and instead runs the gamut from ridiculously silly to unmitigatedly stupid . 
+the film follows the exploits of a young man , patrick ross ( justin lazard ) , whose sole focus is on cruising along the streets in order to pick up women , loitering in strip clubs , and generally trying to bed as many different ladies as he possibly can . 
+in other words , patrick is like a lot of guys ; these activities could describe the everyday routines of a huge percentage of men his age , but there's a catch -- he's an astronaut who recently returned from a seemingly successful mission to mars , and who's now infected with alien dna . 
+patrick's overriding compulsion : to mate and sire countless numbers of gooey little alien offspring . 
+and when he becomes aware of eve ( natasha henstridge ) , a half-human , half-alien clone of the monster from the first film being studied in a government lab , patrick's primary focus turns to her -- " if these two were to mate , the resulting pure strain of offspring would be unstoppable " warns dr . laura baker ( marg helgenberger , gamely reprising her role ) with admirable conviction . 
+species ii opens with the mars mission , and the space scenes are remarkably unconvincing and hokey-looking , even splicing back to dated , grainy footage of actual spacecraft activities -- they really skimped on production values this time around . 
+however , this all looks positively inspired when compared to the first appearance of the evil alien goo which ultimately infests patrick ; watching as it slinks around the command module of the spaceship , any question as to whether or not this is a cheesy b-movie is quickly answered . 
+mr . brancato's original screenplay is filled with outrageous lines which often leaves the audience in stitches . 
+like the first film ( and perhaps in homage to it ) , there's a real penchant for dialogue which underlines the obvious . 
+last time around featured the hootworthy line uttered by forest whitaker's psychic empath character upon entering a bloodsoaked room -- " something bad happened here . " 
+this time , laura gets to stand over a fresh , shredded corpse with its entails ripped out and mutter " this is awful . " 
+and she's not even empathic ! 
+and when a psychotically horny patrick accosts a supermarket shopper and drags her kicking and screaming behind the building in a woefully-paced suspense sequence , eve , who's telepathically linked to her alien/human-hybrid counterpart ( whatever ) , helpfully tells our alien-hunting protagonists , " he's going to rape her . " 
+while species ii is often unintentionally hilarious , at least it occasionally demonstrates a sense of humour of its own . 
+there's an amusing , tongue-in-cheek bit of product placement ( which doesn't really make much sense , but i appreciated the sentiment ) , as well as some supermarket-related hijinx ( " he's in aisle 1 ! " 
+informs eve ) . 
+if the film maintained this sort of light-hearted tone , it would have been much more charming and enjoyable to watch , but , to its detriment , it instead takes its silly plot far too seriously and barrels along to a bloody , effects-ladened anticlimactic conclusion . 
+much of the film fails to make a whole lot of sense , and there are such gaping plot holes that it's terribly difficult to contain any suspension of disbelief . 
+the implausibilities are endless : what about the toxic bomb in eve's brain ? 
+why are the guards armed with guns when they already know firearms are ineffectual ? 
+my favourite was the slow-motion sequence in the film where eve , sporting superhuman strength , is shown tossing aside guards who are attempting to contain her with what look like body blocks . 
+this is the sort of movie which leaves you holding your head in amazed disbelief , incredulous that it's being foisted upon the public . 
+returning headlines michael madsen ( who reprises tough guy press lennox ) and ms . helgenberger do what they can with this goofy screenplay , but there's realistically only so much one can do with this script as a basis . 
+mykelti williamson ( portraying astronaut dennis gamble ) churns out an all-too-familiar spin on a generic brash-mouthed character , and fine character actors george dzundza ( playing colonel burgess and looking ridiculous in the process ) and james cromwell ( patrick's neglectful father , senator ross ) are utterly wasted in the film . 
+mr . lazard gives his character an appropriately shifty-eyed look , while returning vixen ms . henstridge is actually given the opportunity to act in one scene ( and acquits herself nicely ) , but is mostly relegated to reprising her familiar role of parading about in skimpy clothing ( or none at all ) . 
+ms . henstridge recently commented on how some female audiences have expressed appreciation for her character in the first entry of the species series , claiming that " she's so empowered . " 
+a lethal half-alien in heat who dispatches of her sexual partners in grotesque fashion -- now * that's * what i call empowerment . 
+
+
+neg pos
+almost a full decade before steven spielberg's saving private ryan asked whether a film could be both " anti war " and " pro-soldier " , john irvin's hamburger hill proved it could . 
+lost in the inundation of critical acclaim that greeted oliver stone's platoon , this excellent film was dismissed as " too militaristic " . 
+it's hard to understand exactly why---unless irvin , in assembling his motley collection of young men who for predictable ( and often naive ) reasons " chose to show up " for the vietnam debacle , ---has refused to present us with the stone killer , drug-stoked psycho and ruthless opportunist who have become to vietnam war epics what " the polack , the hillbilly and the kid from brooklyn " became to wwii movies . 
+hamburger hill , based on a true story , is not an easy film to watch . 
+there is a scene that will have graying anti-war activists squirming in their seats , or moved to genuine tears . 
+and the climactic final assault on the " hill " in question is visually confusing . 
+gristly realities are presented in brief flashes , as if the brain dared not acknowledged what it had encountered . 
+and in the mud and smoke officer and enlistee , veteran and " newbie " , black soldier and white , become almost indistinguishable from each other , as they do in the chaos of actual combat . 
+the acting throughout is solid with an absolutely stellar performance rendered by courtney b . vance as doc--in a role that will have many flatly disbelieving that this is same actor they cheered as " seaman jones " in mctiernan's red october . 
+if you've seen private ryan , you owe it to yourself to see hamburger hill--if only to determine that the all the valour and horror of spielberg's vision was as present in the ashau valley as it was at omaha beach . 
+
+
+neg pos
+wesley snipes is a master of selecting bad action roles . 
+murder at 1600 , u . s . marshals , money train , drop zone , boiling point , and the ultimate camp film - passenger 57 . 
+the art of war is another entry in this very ugly and unique category . 
+ultimately , it is little more than a ridiculous action film with a plot as believable as the warren report , ugly violence that would have made peckinpah cringe , and terrible acting by b-list actors like michael biehn and anne archer . 
+oddly , it feels like the undiscovered sequel to another snipes " masterpiece , " rising sun . 
+the movie revolves around the convenient story of a special un operative caught up in a secret murder conspiracy involving a chinese ambassador , the chinese triad brotherhood , a rich chinese businessman ( played by ? that bad guy from rising sun , cary-hiroyuki tagawa ) a chinese un interpreter , and , inexplicably , donald sutherland . 
+the film ends with more confusion than a boatload of chinese immigrants trying to register at ellis island . 
+or should i say the film ends with the most blatant ripoff of both the matrix and all of john woo's hong kong films combined . 
+i am really at a loss to figure out why wesley snipes had the gumption to not only star in this action dud but also act as one of the producers of the film . 
+i usually enjoy snipes' movies - though his dramatic roles better show off his creativity as an actor than the flashiness of his action films . 
+simply , i am amazed by the how inane the script was , filled with terrible cliches and extremely violent action sequences . 
+director christian duguay ( screamers ) has a strange attraction to the viciousness of violent acts -- showing splattering brains , people impaled with broken shards of glass , and lots of gargling and gagging as blood sprays everywhere . 
+it also sickens me to know that oliver stone , one of the greatest directors working today , had his hand in producing this monstrosity . 
+i guess snipes sold stone on the conspiracy angle and stone chose not to read the script , watch the dailies , be involved in casting , or anything else -- or else he'd be filing a court order to remove his name from the credits . 
+it's also seems evident that with the russkies as our new bosom buddies and the middle eastern terrorist angle being beaten to death in the last couple of years that the new international enemies in hollywood are the communist chinese . 
+i'm sure over the next couple of months , even more " chinese conspiracy/martial-arts action flicks " are going to be popping up in your local multiplex . 
+hopefully they won't include wesley snipes . 
+
+
+neg pos
+ " psycho meets the exorcist with no holds barred " . 
+a blurb like that sounds like desperate publicity for some low budget , third rate rip-off . 
+but no , this tacky plug comes from the poster for suspiria , perhaps italian horror director dario argento's most consistently successful film . 
+what impresses most in re-watching this surrealistic , supernatural thriller is that argento's directorial flair and stylish visuals are matched by a near-fully coherent narrative . 
+screenplays have always been his achilles heel ; confusing subplots , gaping holes , totally illogical incidents and reactions . 
+no question : argento has always been a better director than a writer . 
+fortunately , he gets the plotting pretty well right with suspiria , taking his cue from a book by thomas de quincey called " suspiria de profundis " . 
+the film's storyline suffers from no major lapses in logic , provided one can accept the premise of a ballet school being a front for a coven of witches . 
+jessica harper plays an american who travels to germany to further her studies in dance . 
+arriving at the school late at night in driving rain , she sees a girl leave and run into the storm in a clearly distressed state . 
+what happens next - and i don't make the comparison lightly - is a murder sequence that for intensity , shock value and sheer directorial flair ranks alongside alfred hitchcock's infamous shower scene in psycho . 
+it's quite possibly a homage to hitchcock , but with its baroque sets , graphic gore and brilliantly chaotic musical accompaniment by the gothic rock group goblin , this stunning sequence remains very much argento's own . 
+though nothing else quite equals the intensity of suspiria's opening 15 minutes , the film continues to be never anything less than engrossing as harper begins her own investigations and slowly comes to realise this is no ordinary ballet school . 
+we meet an assortment of slightly sinister characters , most notably the head ballet teacher played by alida valli in another one of those delicious sour-old-matriarch-from-hell roles she does so well . 
+several more violent murders ensue , including a startling scene in a deserted square where a blind man is . . . well , i wouldn't want to spoil things now , would i ? and the film's climax , staged amid secret corridors and hidden rooms , has a gothic ghoulishness that's most impressive . 
+the english language versions of most argento movies usually suffer trimming , and not just for the violence - deep red and phenomena , for example , have been appallingly hacked about . 
+fortunately , the cuts to suspiria ( about 7 minutes in this version ) have not adversely affected the film . 
+the dubbing of the italian actors into english is quite competently done , too , excepting one appalling and unintentionally hilarious effort with a conversation between harper and a professor about the history of witchcraft in the region . 
+and the soundtrack ? 
+it is interesting to imagine what power the film would have lost if it had been scored by someone else . 
+as it stands , the use of goblin's music in suspiria is outstanding . 
+apparently , argento played the soundtrack on location while filming so the actors could hear the music as they acted out their parts . 
+a stereo video player adds greatly to the viewer's overall experience . 
+even better , see suspiria in a cinema , where you'll get the added bonus of widescreen . 
+and the colours ! 
+deep reds , eerie blues , a superb use of shadow and contrast . 
+the cinematography of luciano tovoli , whose more recent credits include reversal of fortune and single white female , is uniformly superb . 
+a nod also must go to production designer giuseppe bassan for his wonderful baroque interiors . 
+these kinds of settings are crucial to the atmosphere of argento's more surreal excursions , the other most notable example being inferno ( 1980 ) on which bassan also worked . 
+suspiria is the film that broke dario argento into the major league of european directors , and it is fully deserving of its cult status . 
+the gore is at times a little excessive and overstated - that's always been one of argento's shortcomings - but overall this is a fascinating , compelling example of italian horror . 
+
+
+pos neg
+carry on matron is the last great carry-on film in my opinion . 
+made in 1972 , it still features most of the regulars of this genre . 
+sid james plays the head of a gang of crooks intent on stealing contraceptive pills from the local maternity hospital and selling them off to make a profit , kenneth williams is sir bernard cutting , head of the hospital but also a hypochondriac , hattie jacques re-takes her role as matron , and charles hawtrey is the psychiatrist dr . goode . 
+the jokes come in fast and so do the laughs , with humorous antics between the matron and sir bernard . 
+this time , williams is after matron ( jacques ) when he needs to prove himself that he is a man after visiting dr . goode . 
+the doctor ( hawtrey ) is sworn to secrecy : - " i assure you , that anything you say to me today will go in one ear and straight out of the other ! " 
+bernard thinks he is having a sex change and needs to prove himself . 
+there are great cameos from joan sims , an expectant mother who is many weeks overdue and is eating constantly in every scene , and from kenneth connor as the expectant father who still thinks he's at work ( at the railway station ) . 
+sid james' gang including cyril his son ( kenneth cope ) try to find out where the pills are by getting cyril to dress up as a nurse and live in at the nurses home . 
+he has to share a room with nurse ball ( barbara windsor ) and she soon sees through him ! 
+the film ends with the attempted robbery of the hospital's pills with panic ensuing . 
+there are good performances by hattie jacques as the matron , however her character seems a little more subdued and quieter than her previous 'matron's' . 
+williams is , as usual , on top form , but sid james isn't given a very good part in this movie and i would forgive anyone to forget that he was in the movie at all . 
+the same does not go for charles hawtrey , for although he only first appears in the movie after 30 minutes gone and has scarce screen time , he seems to steal every scene he is in . 
+by not making use of sid james and barbara windsor's talent to full effect , the film seems to flounder , but it certainly makes up for it with it's good storyline and it's other appealing characters . 
+this film is genuinely funny and i could watch it again and again and not get bored ! 
+
+
+neg pos
+the catch phrase for disney's rocket man is one spoken by fred z . randall ( harland williams ) , the bumbling idiot computer programmer turned astronaut who continuously wreaks havoc everywhere he goes . 
+ " it wasn't me ! " he proclaims over and over as the aftermath of his stupidity brings about looks of disgust from the others . 
+well when it comes to this movie being as horrible as it is , williams can't take all the blame , but he sure can't justify himself with his own simple tag line either . 
+fred has dreamed of space travel since he was a young boy , turning the clothes dryer into a mock space shuttle and staring out wide-eyed at a poster of the earth . 
+as a 30-year-old , fred hasn't grown up much , but at least he's somewhat closer to his goal , now designing astronaut software for nasa . 
+when an astronaut for an upcoming mission to mars becomes injured , nasa calls on the person who knows the programming inside and out to fill the void . 
+ . 
+ . 
+fred . 
+yes , although he's an obviously klutzy moron , nasa doesn't think twice about throwing him into a rigorous training program so he can assist one of the most important events the space program , and time itself , has ever known . 
+for the first part of the film , we watch as fred takes on the training program much like an amusement park . he laughs , he screams , but he never once breaks a sweat or views the preparation as anything more than child's play . 
+his passive approach to the program eventually leads to many record-breaking feats , much to the dismay of cocky counterpart , mission commander captain overbeck ( william sadler ) , who once held the records . 
+overbeck will regretfully accompany fred and two others to the red planet , one being astronaut julie ford ( the stupids' jessica lundy ) , and the other being a chimpanzee who is much more civilized than our antagonizing protagonist . 
+from here on out , we are subjected to one lame gag after another , dealing with snot , laxatives , and flatulence . 
+you know , standard kid movie material . 
+almost sounding like a poor james stewart impressionist , williams is awful in his first starring role . 
+we get the feeling that if jerry lewis and pee-wee herman were related and produced an inbred offspring , williams would be it . 
+while he's not as annoying as other actors who cater to zany , stupid comedy , he's just as unlikeable . 
+to say it more understandably , jim carrey might annoy you more , but this guy is even less funny . 
+why ? 
+because while he possesses the stupidness needed to pull off such a role , his performance is too understated and boring . 
+classic comedic dunces were generally oblivious to their own idiocy . 
+stan laurel , for example , was so innocent in all his trouble-making that we were immediately fond of him . 
+peter sellers , as inspector clouseau , was so self-assured and confident that when he did something as simple as trip , it was humor at it's best . 
+williams , on the other hand , can't garner the pity he needs to make us love him in all his anti-glory . 
+as for the rest of the cast , including some bigger names in smaller roles ( beau bridges and shelley duvall ) , nobody is worth watching whatsoever . 
+this is just another example of the fast-food equivalent of cinema : mass-produced , less than mediocre , over priced , and hard to stomach . 
+giving it one-and-a-half stars is * extremely * generous , but even i'll admit to laughing a few times . 
+the amazing thing is that even in a theater packed with little kids , laughter was something rarely heard - even from the children ! 
+i must admit that it gave me more respect for the kids when they didn't crack up over every little thing . 
+then again , maybe they were asleep . 
+some people might think critics are harsh on kid movies , claiming adults aren't the targeted audience and therefore aren't meant to , and won't , enjoy them . 
+sadly , it's also true that kids will enjoy almost anything if it's presented right . 
+a two-hour still shot of a dog with a cartoonish voice over could entertain a lot of toddlers out there , but would that make it as artistic as beauty and the beast , which could easily do the same thing ? 
+and saying that a parent's perspective isn't important is quite a poor theory to have when they're the ones who take the kids to these films in the first place . 
+
+

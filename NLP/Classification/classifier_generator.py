@@ -236,13 +236,13 @@ if __name__ == '__main__':
 
     #generate_file(feature_set_test, 'testing-features.txt')
 
-    classifier_ = nltk.NaiveBayesClassifier.train(feature_set)
-    #with open('restaurant-baseline-model-P1.pickle','wb') as file:
-    #    pickle.dump(classifier, file)
+    classifier = nltk.NaiveBayesClassifier.train(feature_set)
+    with open('naive-classifier-compete.pickle','wb') as file:
+        pickle.dump(classifier, file)
 
-    classifier = nltk.classify.DecisionTreeClassifier.train(feature_set,0,0)
-    with open('dt-classifier-compete.pickle','wb') as file:
-        pickle.dump(classifier,file)
+    #classifier = nltk.classify.DecisionTreeClassifier.train(feature_set,0,0)
+    #with open('dt-classifier-compete.pickle','wb') as file:
+    #    pickle.dump(classifier,file)
 
     print('Accuracy =', nltk.classify.accuracy(classifier,feature_set_dev)*100,'%')
     print(classifier.labels())

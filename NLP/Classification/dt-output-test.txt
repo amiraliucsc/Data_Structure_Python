@@ -1,0 +1,18 @@
+Accuracy for restaurant-testing.data  =  0.66
+
+Confusion Matrix for restaurant-testing.data :
+
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<28>22 |
+positive | 12<38>|
+---------+-------+
+(row = reference; col = test)
+

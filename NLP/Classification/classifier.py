@@ -25,7 +25,11 @@ all_keyword = []
 
 def evaluate(classifier, features_set, output , name):
     accuracy = nltk.classify.accuracy(classifier, features_set)
-    print( "Accuracy for",name," = ",  accuracy )
+    sys.stdout = open(output, 'w')
+    print("Accuracy for", name, " = ", accuracy)
+    sys.stdout = sys.__stdout__
+    print("Accuracy for", name, " = ", accuracy)
+
     features_only = []
     reference_labels = []
     for feature_vectors, category in features_set:
@@ -35,6 +39,10 @@ def evaluate(classifier, features_set, output , name):
     predicted_labels = classifier.classify_many(features_only)
     confusion_matrix = nltk.ConfusionMatrix(reference_labels, predicted_labels)
 
+    sys.stdout = open(output, 'a')
+    print("\nConfusion Matrix for", name, ":\n")
+    print(confusion_matrix)
+    sys.stdout = sys.__stdout__
     print("\nConfusion Matrix for",name,":\n")
     print(confusion_matrix)
 
@@ -208,16 +216,19 @@ if __name__ == '__main__':
         input_file = sys.argv[2]
         output = sys.argv[3]
     else:
-        print("Please enter 3 arguments t start")
+        print("Please enter 3 arguments to start")
         exit()
 
 
     with open(classifier,'rb') as file:
         classifier = pickle.load(file)
 
-
-    name = re.findall(r'\\(.*)',input_file)[0]
-    reviews = process_reviews( input_file )
+    try:
+        reviews = process_reviews( input_file )
+        name = re.findall(r'\\(.*)', input_file)[0]
+    except( FileNotFoundError ):
+        reviews = process_reviews("data\\"+input_file)
+        name = input_file
 
 
 
@@ -227,5 +238,5 @@ if __name__ == '__main__':
     feature_set = ([(feature, 'positive') for feature in feature_extractor(pos_reviews)] +
                    [(feature, 'negative') for feature in feature_extractor(neg_reviews)])
 
-
+    # the forth argument is just the name of the file so I can print it in output
     evaluate( classifier , feature_set , output , name)

@@ -47,7 +47,7 @@ def normalize(review):
     return normalizedText
 
 
-def feature_extractor( all_reviews ):
+def feature_extractor2( all_reviews ):
     result = []
     for review in all_reviews:
         flist ={}
@@ -99,7 +99,7 @@ def generate_file_(feature_set, file_name):
         file.write(neg_line)
 
 
-def feature_extractor_compete( all_reviews ):
+def feature_extractor( all_reviews ):
     result = []
     for review in all_reviews:
         flist ={}
@@ -241,7 +241,7 @@ if __name__ == '__main__':
     #    pickle.dump(classifier, file)
 
     classifier = nltk.classify.DecisionTreeClassifier.train(feature_set,0,0)
-    with open('dt-classifier.pickle','wb') as file:
+    with open('dt-classifier-compete.pickle','wb') as file:
         pickle.dump(classifier,file)
 
     print('Accuracy =', nltk.classify.accuracy(classifier,feature_set_dev)*100,'%')

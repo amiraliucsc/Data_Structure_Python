@@ -23,6 +23,22 @@ bi_keyword = ['service friendly', 'bad food', 'bad service', 'good service', 'ex
 all_keyword = []
 
 
+def evaluate(classifier, features_set, output , name):
+    accuracy = nltk.classify.accuracy(classifier, features_set)
+    print( "Accuracy for",name," = ",  accuracy )
+    features_only = []
+    reference_labels = []
+    for feature_vectors, category in features_set:
+        features_only.append(feature_vectors)
+        reference_labels.append(category)
+
+    predicted_labels = classifier.classify_many(features_only)
+    confusion_matrix = nltk.ConfusionMatrix(reference_labels, predicted_labels)
+
+    print("\nConfusion Matrix for",name,":\n")
+    print(confusion_matrix)
+
+
 def normalize(review):
     lowerText = review.lower()
     lowerText = nltk.word_tokenize(lowerText)
@@ -51,7 +67,7 @@ def normalize(review):
     return normalizedText
 
 
-def feature_extractor(all_reviews):
+def feature_extractor_com(all_reviews):
     result = []
     for review in all_reviews:
         flist = {}
@@ -102,8 +118,10 @@ def generate_file_(feature_set, file_name):
         file.write(pos_line)
         file.write(neg_line)
 
+def rnd(x):
+    return round(x, (floor(-log10(x)) + 1))
 
-def feature_extractor_compete(all_reviews):
+def feature_extractor(all_reviews):
     result = []
     for review in all_reviews:
         flist = {}
@@ -198,7 +216,7 @@ if __name__ == '__main__':
         classifier = pickle.load(file)
 
 
-
+    name = re.findall(r'\\(.*)',input_file)[0]
     reviews = process_reviews( input_file )
 
 
@@ -209,3 +227,5 @@ if __name__ == '__main__':
     feature_set = ([(feature, 'positive') for feature in feature_extractor(pos_reviews)] +
                    [(feature, 'negative') for feature in feature_extractor(neg_reviews)])
 
+
+    evaluate( classifier , feature_set , output , name)
